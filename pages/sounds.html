@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tamil-Japanese Sound Mapper</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <div class="app-shell legacy-shell">
+    <header class="hero">
+      <div>
+        <h1> </h1>
+      </div>
+    </header>
+
+    <main class="layout-grid">
+      <section class="panel panel-grid">
+        <div id="tamilGrid" class="tamil-grid" aria-live="polite"></div>
+      </section>
+
+      <aside class="panel panel-explanation">
+        <div class="panel-header">
+          <h2>கற்றல் உரை:</h2>
+        </div>
+        <div id="stageSummary" class="stage-summary"></div>
+        <div id="explanation" class="explanation-text"></div>
+      </aside>
+    </main>
+
+      <footer class="control-panel">
+        <div class="slider-header">
+          <label for="stageSlider">கற்றல் படிநிலை:</label>
+          <span id="sliderValue">0%</span>
+        </div>
+        <input id="stageSlider" type="range" min="0" max="170" step="10" value="0" />
+        <div id="stageMilestones" class="stage-milestones" aria-label="Stage milestones"></div>
+        <div class="slider-info">
+          <span id="sliderLabel">Full Tamil letter set</span>
+        </div>
+      </footer>
+  </div>
+  <script src="../js/tamil-sounds.js"></script>
+</body>
+</html>

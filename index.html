@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Japanese for Tamil Speakers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-container">
+    <aside class="sidebar">
+      <div class="brand">Tamirugo To Nihongo</div>
+      <nav class="sidebar-nav" aria-label="Main navigation">
+        <button type="button" class="nav-item active" data-module="sounds">தமிழ் வழி யப்பானிய ஒலி</button>
+        <button type="button" class="nav-item" data-module="mnemonics">தமிழ் வழி நினைவுக்கருவி</button>
+        <button type="button" class="nav-item" data-module="sound-types">யப்பானிய மொத்த ஒலி</button>
+      </nav>
+    </aside>
+
+    <main class="main-content">
+      <div class="module-toolbar">
+        <h1 id="moduleTitle">Learn Japanese via Tamil Script</h1>
+      </div>
+      <section id="moduleContent" class="module-content"></section>
+    </main>
+  </div>
+
+  <script src="data/kana-data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

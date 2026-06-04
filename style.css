@@ -1,0 +1,708 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #eef2f5;
+  color: #111827;
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background: #eef2f5;
+}
+
+button {
+  font: inherit;
+}
+
+.app-container {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: #2c3d63;
+  color: #f8fafc;
+  padding: 16px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.brand {
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.nav-item {
+  appearance: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.nav-item:hover,
+.nav-item.active {
+  background: #1d4ed8;
+  color: #ffffff;
+}
+
+.main-content {
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.module-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.module-toolbar h1 {
+  margin: 0;
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+}
+
+.module-content {
+  flex: 1;
+  min-height: calc(100vh - 78px);
+}
+
+.iframe-wrapper {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  overflow: hidden;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.legacy-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #ffffff;
+}
+
+.module-loading,
+.module-error {
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border-radius: 18px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  color: #475569;
+}
+
+.mnemonics-page,
+.sound-types-page {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 100%;
+}
+
+.mnemonics-header,
+.sound-types-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 14px;
+}
+
+.panel-title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.script-toggle,
+.sound-type-tabs {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.toggle-button,
+.tab-button {
+  appearance: none;
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  color: #111827;
+  padding: 8px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.toggle-button.active,
+.tab-button.active {
+  background: #2563eb;
+  color: #ffffff;
+  border-color: #2563eb;
+}
+
+.toggle-button:hover,
+.tab-button:hover {
+  border-color: #93c5fd;
+}
+
+.mnemonics-body,
+.sound-types-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(180px, 0.7fr);
+  gap: 12px;
+}
+
+.sound-grids {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.sound-grid-column {
+  display: grid;
+  gap: 10px;
+}
+
+.kana-grid,
+.sound-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+}
+
+@media (max-width: 900px) {
+  .kana-grid,
+  .sound-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .mnemonics-body,
+  .sound-types-body {
+    grid-template-columns: 1fr;
+  }
+  .kana-grid,
+  .sound-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 420px) {
+  .kana-grid,
+  .sound-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.kana-tile,
+.sound-cell {
+  appearance: none;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  padding: 8px;
+  min-height: 62px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+/* Disabled / removed styles for kana tiles */
+.kana-tile.disabled {
+  opacity: 0.34;
+  cursor: not-allowed;
+  background: #f8fafc;
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.kana-tile.placeholder {
+  background: transparent;
+  border: 1px solid transparent;
+  color: transparent;
+  visibility: visible; /* keep space in layout */
+  pointer-events: none;
+}
+
+.sound-cell.placeholder {
+  background: transparent;
+  border: 1px solid transparent;
+  color: transparent;
+  visibility: visible;
+  pointer-events: none;
+}
+
+.kana-tile:hover:not(.active),
+.sound-cell:hover:not(.disabled):not(.selected) {
+  transform: translateY(-2px);
+  border-color: #93c5fd;
+}
+
+.kana-tile.active,
+.sound-cell.selected {
+  border-color: #2563eb;
+  background: #dbeafe;
+  box-shadow: 0 10px 22px rgba(37, 99, 235, 0.14);
+}
+
+.sound-cell.disabled {
+  opacity: 0.34;
+  cursor: not-allowed;
+  background: #f8fafc;
+}
+
+.tile-kana {
+  font-size: 1.2rem;
+  line-height: 1.1;
+}
+
+.tile-sub {
+  font-size: 0.75rem;
+  color: #475569;
+  text-align: center;
+}
+
+.preview-image,
+.stroke-order-panel {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+}
+
+.preview-image {
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+}
+
+.preview-image img,
+#strokeGif {
+  width: 75%;
+  max-width: 75%;
+  max-height: 75%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+.stroke-order-panel {
+  padding: 12px;
+}
+
+/* Legacy module-1 styles (scoped to .legacy-shell) */
+.legacy-shell {
+  background: transparent;
+  color: #111827;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 95%;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 12px;
+  overflow: hidden;
+}
+
+.legacy-shell * {
+  box-sizing: border-box;
+}
+
+.legacy-shell #explanation {
+  white-space: pre-wrap;
+  line-height: 1.5;
+}
+
+.legacy-shell .hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 8px;
+}
+
+.legacy-shell .hero h1 {
+  margin: 0 0 5px;
+  font-size: clamp(0.9rem, 2vw, 1rem);
+}
+
+.legacy-shell .app-shell {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.legacy-shell .layout-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2.0fr) minmax(250px, 1fr);
+  gap: 4px;
+  align-items: stretch;
+  min-height: 0;
+}
+
+.legacy-shell .panel {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 15px;
+  padding: 6px;
+  box-shadow: 0 7px 14px rgba(15, 23, 42, 0.05);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.legacy-shell .panel-grid {
+  min-height: 0;
+}
+
+.legacy-shell .tamil-grid {
+  display: block;
+  overflow: auto;
+  padding-bottom: 6px;
+  min-height: 0;
+}
+
+.legacy-shell .panel-explanation {
+  position: sticky;
+  top: 12px;
+  align-self: stretch;
+  overflow: auto;
+}
+
+.legacy-shell .hero p {
+  margin: 0;
+  color: #374151;
+  max-width: 760px;
+}
+
+.legacy-shell .panel-header h2 {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.legacy-shell .panel-header p {
+  margin: 5px 0 0;
+  color: #4b5563;
+  line-height: 1.4;
+}
+
+.legacy-shell .tamil-grid {
+  display: block;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin-top: 0;
+  padding-bottom: 6px;
+}
+
+.legacy-shell .tamil-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0;
+  table-layout: fixed;
+}
+
+.legacy-shell .tamil-table th,
+.legacy-shell .tamil-table td {
+  border: 1px solid #e5e7eb;
+  padding: 4px 3px;
+  text-align: center;
+  vertical-align: middle;
+  background: #fff;
+  white-space: nowrap;
+  word-break: keep-all;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: Latha, "Noto Sans Tamil", "Noto Sans", "Segoe UI Symbol", system-ui, -apple-system, "Segoe UI", sans-serif;
+  width: 1%;
+  font-size: 0.8rem;
+}
+
+.legacy-shell .tamil-table td {
+  min-width: 34px;
+  height: 18px;
+}
+
+.legacy-shell .tamil-table .vowel-header {
+  font-weight: 380;
+  background: #f3f4f6;
+}
+
+.legacy-shell .tamil-table .row-label {
+  font-weight: 380;
+  background: #f9fafb;
+  min-width: 38px;
+  font-size: 0.85rem;
+}
+
+.legacy-shell .cell-main {
+  font-size: 0.85rem;
+  line-height: 1.05;
+  display: block;
+}
+
+.legacy-shell .cell-sub {
+  margin-top: 4px;
+  font-size: 0.7rem;
+  color: #374151;
+}
+
+.legacy-shell .tamil-table td.hidden {
+  opacity: 0.18;
+}
+
+.legacy-shell .tamil-table td.cell-highlight {
+  background: rgba(37, 99, 235, 0.14);
+  border-color: transparent;
+  box-shadow: inset 0 0 0 1px rgba(37, 99, 235, 0.28);
+}
+
+.legacy-shell .tamil-table td.cell-highlight .cell-main {
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+.legacy-shell .tamil-table td.cell-dim,
+.legacy-shell .tamil-table th.cell-dim,
+.legacy-shell .tamil-table td.cell-dim .cell-main,
+.legacy-shell .tamil-table th.cell-dim .cell-main,
+.legacy-shell .tamil-table td.cell-dim .row-label {
+  opacity: 0.35;
+  color: #6b7280;
+}
+
+.legacy-shell .tamil-table td.removed-header {
+  visibility: hidden;
+}
+
+.legacy-shell .special-cell .cell-main {
+  font-weight: 700;
+}
+
+.legacy-shell .tamil-card {
+  min-height: 92px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 16px;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  transition: transform 0.2s ease, opacity 0.2s ease, border-color 0.2s ease;
+}
+
+.legacy-shell .tamil-card:hover {
+  transform: translateY(-2px);
+  border-color: #9ca3af;
+}
+
+.legacy-shell .tamil-card.hidden {
+  opacity: 0.18;
+}
+
+.legacy-shell .card-main {
+  font-size: 1.8rem;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.legacy-shell .card-subtitle {
+  margin-top: 8px;
+  font-size: 0.82rem;
+  color: #6b7280;
+  text-align: center;
+  min-height: 1.2em;
+}
+
+.legacy-shell .japanese-match {
+  margin-top: 10px;
+  padding: 6px 8px;
+  background: #eef2ff;
+  color: #3730a3;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.legacy-shell .stage-summary,
+.legacy-shell .explanation-text {
+  margin-top: 10px;
+  color: #374151;
+  line-height: 1.4;
+}
+
+.legacy-shell .control-panel {
+  margin-top: 4px;
+  padding: 8px;
+  display: grid;
+  gap: 6px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+}
+
+.legacy-shell .slider-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.legacy-shell label {
+  font-weight: 600;
+}
+
+.legacy-shell #stageSlider {
+  width: 100%;
+}
+
+.legacy-shell .slider-info {
+  display: flex;
+  justify-content: space-between;
+  color: #4b5563;
+  font-size: 0.85rem;
+}
+
+.legacy-shell .stage-milestones {
+  display: flex;
+  justify-content: space-between;
+  gap: 6px;
+  margin-top: 6px;
+  width: 100%;
+}
+
+.legacy-shell .stage-milestone {
+  width: 24px;
+  height: 24px;
+  min-width: 24px;
+  border-radius: 999px;
+  background: #e5e7eb;
+  color: #374151;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 700;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.legacy-shell .stage-milestone.active {
+  background: #2563eb;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+@media (max-width: 960px) {
+  .legacy-shell .layout-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .legacy-shell .panel {
+    padding: 16px;
+  }
+}
+.stroke-order-panel h2 {
+  margin: 0 0 14px;
+  font-size: 1rem;
+}
+
+.sound-grid-column {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 18px;
+}
+
+.sound-grid-column h3 {
+  margin: 0 0 14px;
+  font-size: 1rem;
+}
+
+.sound-types-sidebar {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sound-types-sidebar h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.sound-types-sidebar p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.7;
+}
+
+@media (max-width: 1000px) {
+  .app-container {
+    grid-template-columns: 1fr;
+  }
+  .mnemonics-body,
+  .sound-types-body {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .sidebar {
+    padding: 18px;
+  }
+  .main-content {
+    padding: 16px;
+  }
+  .kana-grid,
+  .sound-grid {
+    grid-template-columns: repeat(auto-fill, minmax(68px, 1fr));
+  }
+  .kana-tile,
+  .sound-cell {
+    padding: 12px;
+    min-height: 96px;
+  }
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Japanese Sound Types</title>
+  <link rel="stylesheet" href="../style.css" />
+  <script src="../data/kana-data.js"></script>
+</head>
+<body>
+  <div class="sound-types-page">
+    <div class="sound-types-header">
+      <div id="soundTypeTabs" class="sound-type-tabs" role="tablist" aria-label="Sound type categories"></div>
+    </div>
+
+    <div class="sound-types-body">
+      <section class="sound-grids">
+        <div class="sound-grid-column">
+          <h3>ஹிரகந</h3>
+          <div id="hiraganaGrid" class="sound-grid" aria-label="Hiragana grid"></div>
+        </div>
+        <div class="sound-grid-column">
+          <h3>கதகந</h3>
+          <div id="katakanaGrid" class="sound-grid" aria-label="Katakana grid"></div>
+        </div>
+      </section>
+
+      <aside class="sound-types-sidebar">
+        <h2 id="soundTypeTitle"></h2>
+        <p id="soundTypeDescription"></p>
+      </aside>
+    </div>
+  </div>
+  <script src="../js/soundTypes.js"></script>
+</body>
+</html>

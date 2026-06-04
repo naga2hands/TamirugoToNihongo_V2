@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learn kana with Tamil mnemonics</title>
+  <link rel="stylesheet" href="../style.css" />
+  <script src="../data/kana-data.js"></script>
+</head>
+<body>
+  <div class="mnemonics-page">
+    <div class="mnemonics-header">
+      <div class="script-toggle" role="tablist" aria-label="Script toggle">
+        <button type="button" class="toggle-button active" data-script="hiragana">ஹிரக"ந</button>
+        <button type="button" class="toggle-button" data-script="katakana">கதகந</button>
+      </div>
+    </div>
+
+    <div class="mnemonics-body">
+      <section class="mnemonics-grid-panel">
+        <div id="mnemonicGrid" class="kana-grid" aria-label="Kana mnemonic tiles"></div>
+      </section>
+
+      <aside class="mnemonics-sidebar">
+        <div class="mnemonic-preview">
+          <div class="preview-image">
+            <img id="mnemonicImage" alt="Mnemonic illustration" src="" />
+          </div>
+          <div id="mnemonicText" class="preview-text"></div>
+        </div>
+        <div class="stroke-order-panel">
+          <h2>எழுதும் முறை</h2>
+          <img id="strokeGif" alt="Stroke order animation" src="" />
+        </div>
+      </aside>
+    </div>
+  </div>
+  <script src="../js/mnemonics.js"></script>
+</body>
+</html>
