@@ -10,7 +10,7 @@
   let currentTab = soundDefs[0]?.id || 'kihonon';
   let selectedKanaId = null;
   // Orders to remove / gray out (keep in sync with mnemonics.js)
-  const removedOrders = new Set([37,39,47,48,49,51,52,54,55]);
+  const removedOrders = new Set([]);
   const removalMode = 'placeholder'; // 'gray' or 'placeholder'
 
   function getVariant(entry, tabId) {
@@ -91,7 +91,7 @@ function createGridCell(entry, variant, type) {
 
   button.innerHTML = `
     <span class="tile-kana">${variant[type]}</span>
-    <span class="tile-sub">${entry.tamil}</span>
+    <span class="tile-sub">${variant.tamil || entry.tamil}</span>
   `;
 
   if (selectedKanaId === entry.id) {
