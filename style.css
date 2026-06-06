@@ -4,6 +4,9 @@
   background: #eef2f5;
   color: #111827;
   font-size: 16px;
+  --main-panel-font-size: 1rem;
+  --sidebar-panel-font-size: 0.95rem;
+  --sidebar-paragraph-font-size: 0.85rem;
 }
 
 * {
@@ -75,6 +78,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  min-height: 0;
 }
 
 .module-toolbar {
@@ -91,7 +95,8 @@ button {
 
 .module-content {
   flex: 1;
-  min-height: calc(100vh - 78px);
+  min-height: 0;
+  overflow: auto;
 }
 
 .iframe-wrapper {
@@ -234,7 +239,7 @@ button {
   border-radius: 14px;
   background: #ffffff;
   padding: 8px;
-  min-height: 62px;
+  min-height: 58px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -271,7 +276,7 @@ button {
 
 .kana-tile:hover:not(.active),
 .sound-cell:hover:not(.disabled):not(.selected) {
-  transform: translateY(-2px);
+  transform: scale(0.95) translateY(-2px);
   border-color: #93c5fd;
 }
 
@@ -289,7 +294,7 @@ button {
 }
 
 .tile-kana {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.1;
 }
 
@@ -406,6 +411,11 @@ button {
   top: 12px;
   align-self: stretch;
   overflow: auto;
+  font-size: var(--sidebar-panel-font-size);
+}
+
+.legacy-shell .panel-explanation p {
+  font-size: var(--sidebar-paragraph-font-size);
 }
 
 .legacy-shell .hero p {
@@ -666,6 +676,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  font-size: var(--sidebar-panel-font-size);
 }
 
 .sound-types-sidebar h2 {
@@ -677,6 +688,7 @@ button {
   margin: 0;
   color: #475569;
   line-height: 1.7;
+  font-size: var(--sidebar-paragraph-font-size);
 }
 
 @media (max-width: 1000px) {
