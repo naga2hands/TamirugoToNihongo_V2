@@ -68,10 +68,17 @@ function resolveStrokeGif(entry) {
 function updateDetails() {
   const entry = kanaList.find((item) => item.id === selectedKanaId);
   if (!entry) {
-    mnemonicImage.src = '';
-    mnemonicText.textContent = '';
-    strokeGif.src = '';
-    strokeGif.alt = '';
+    // Show a default mnemonic image and stroke GIF when nothing is selected
+    if (activeScript === 'katakana') {
+      mnemonicImage.src = 'assets/images/a2.png';
+      strokeGif.src = 'assets/stroke-order/a2.gif';
+    } else {
+      mnemonicImage.src = 'assets/images/a.png';
+      strokeGif.src = 'assets/stroke-order/a.gif';
+    }
+    mnemonicImage.alt = 'Default mnemonic illustration';
+    mnemonicText.textContent = 'Select a kana to see its mnemonic and stroke order.';
+    strokeGif.alt = 'Default stroke order animation';
     return;
   }
 
