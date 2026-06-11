@@ -77,7 +77,7 @@ function updateDetails() {
       strokeGif.src = 'assets/stroke-order/a.gif';
     }
     mnemonicImage.alt = 'Default mnemonic illustration';
-    mnemonicText.textContent = 'Select a kana to see its mnemonic and stroke order.';
+    mnemonicText.innerHTML = 'Select a kana to see its mnemonic and stroke order.';
     strokeGif.alt = 'Default stroke order animation';
     return;
   }
@@ -86,10 +86,10 @@ function updateDetails() {
   const v = entry.variants && entry.variants.kihonon;
   if (activeScript === 'katakana') {
     mnemonicImage.src = (v && v.katakana_mnemonicImage) || '';
-    mnemonicText.textContent = (v && v.katakana_mnemonicText) || '';
+    mnemonicText.innerHTML = (v && v.katakana_mnemonicText) || '';
   } else {
     mnemonicImage.src = (v && v.hiragana_mnemonicImage) || '';
-    mnemonicText.textContent = (v && v.hiragana_mnemonicText) || '';
+    mnemonicText.innerHTML = (v && v.hiragana_mnemonicText) || '';
   }
   mnemonicImage.alt = `Mnemonic for ${entry.hiragana}`;
   strokeGif.src = resolveStrokeGif(entry);
