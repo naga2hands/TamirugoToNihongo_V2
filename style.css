@@ -332,6 +332,26 @@ button {
 
 .stroke-order-panel {
   padding: 12px;
+  flex-shrink: 0;
+}
+
+.mnemonics-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.mnemonic-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+#mnemonicText {
+  height: 6em;
+  overflow: hidden;
+  line-height: 1.5;
+  word-wrap: break-word;
 }
 
 /* Legacy module-1 styles (scoped to .legacy-shell) */
