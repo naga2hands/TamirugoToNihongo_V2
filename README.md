@@ -2,7 +2,7 @@
 
 A lightweight static web app for teaching Japanese Sounds through Tamil letters and how they simplify toward Japanese Kihonon (fundamental sounds) table.
 
-URL: https://naga2hands.github.io/TamirugoToNihongo/
+URL: https://naga2hands.github.io/TamirugoToNihongo_V2/
 
 ## Files
 - `index.html` — layout and content structure
