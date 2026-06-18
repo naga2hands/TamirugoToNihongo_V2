@@ -81,6 +81,25 @@ button {
   min-height: 0;
 }
 
+/* Force the main content area to match the viewport height and
+   ensure scrolling happens inside the module area, not the document. */
+.main-content {
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Adjustable toolbar height -- tweak if your header is taller. */
+:root {
+  --module-toolbar-height: 64px;
+}
+
+.module-content {
+  flex: 1;
+  min-height: 0;
+  height: calc(100vh - var(--module-toolbar-height));
+  overflow: auto;
+}
+
 .module-toolbar {
   display: flex;
   justify-content: space-between;
@@ -394,6 +413,33 @@ button {
   display: grid;
   grid-template-rows: auto 1fr auto;
   min-height: 100vh;
+}
+
+/* When a legacy module is injected as a fragment into the main app
+   (not loaded in an iframe), it should not force the viewport height.
+   Constrain it to the module container so scrolling stays local. */
+.module-content > .legacy-shell {
+  min-height: 0;
+  height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  overflow: hidden;
+}
+
+.module-content > .legacy-shell .app-shell,
+.module-content > .legacy-shell .layout-grid,
+.module-content > .legacy-shell .panel,
+.module-content > .legacy-shell .panel-grid {
+  min-height: 0;
+}
+
+/* Constrain any fragment content injected into the module so the
+   scroll container is the module area, not the document. Exclude
+   iframe wrapper because iframes are already isolated. */
+.module-content > :not(.iframe-wrapper) {
+  min-height: 0;
+  height: 100%;
+  overflow: auto;
 }
 
 .legacy-shell .layout-grid {
