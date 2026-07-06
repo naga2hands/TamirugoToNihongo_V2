@@ -20,6 +20,45 @@ const modules = {
     type: 'fragment',
     script: 'js/soundTypes.js'
   }
+  ,
+  kanji: {
+    title: 'கான்ஜி களஞ்சியம்',
+    path: 'pages/kanji.html',
+    type: 'fragment',
+    script: 'js/kanji-module.js'
+  },
+  radicals: {
+    title: 'கான்ஜி கூறுகள்',
+    path: 'pages/radicals.html',
+    type: 'fragment',
+    script: 'js/radicals-module.js'
+  }
+  ,
+  kalappu: {
+    title: 'கலப்பு எழுத்தமைதி',
+    path: 'pages/kalappu.html',
+    type: 'fragment',
+    script: 'js/kalappu.js'
+  }
+  ,
+  uchcharippu: {
+    title: 'சொல்லாக்கம்',
+    path: 'pages/uchcharippu.html',
+    type: 'fragment',
+    script: 'js/uchcharippu.js'
+  },
+  hanzi: {
+    title: 'கான்ஜி உரு',
+    path: 'pages/hanzi.html',
+    type: 'fragment',
+    script: 'js/hanzi.js'
+  },
+  kana_birth: {
+    title: 'கந பிறப்பு',
+    path: 'pages/kana_birth.html',
+    type: 'fragment',
+    script: 'js/kana_birth.js'
+  }
 };
 
 let currentModule = null;
@@ -106,8 +145,14 @@ async function loadModule(moduleId) {
       if (moduleInfo.script) {
         const script = document.createElement('script');
         script.id = 'moduleScript';
-        script.src = moduleInfo.script;
+        script.src = `${moduleInfo.script}?v=${Date.now()}`;
+        script.async = false;
+        script.addEventListener('load', () => {
+          window.dispatchEvent(new CustomEvent('module:content-loaded', { detail: moduleKey }));
+        });
         document.body.appendChild(script);
+      } else {
+        window.dispatchEvent(new CustomEvent('module:content-loaded', { detail: moduleKey }));
       }
     } catch (error) {
       moduleContent.innerHTML = '<div class="module-error">Unable to load module content.</div>';

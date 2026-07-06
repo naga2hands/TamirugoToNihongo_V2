@@ -1,0 +1,29 @@
+<!doctype html>
+<div class="legacy-shell">
+  <div style="padding:12px;border-bottom:1px solid #e5e7eb;background:#fff;border-radius:15px;margin-bottom:12px;">
+    <div style="margin-bottom:8px;font-weight:600;font-size:0.9rem;">Filter by Grade:</div>
+    <div id="gradeFilters" class="script-toggle" style="display:flex;gap:6px;flex-wrap:wrap;"></div>
+  </div>
+  <div class="layout-grid">
+    <div class="panel" style="min-height:0;display:flex;flex-direction:column;">
+      <div class="panel-header">
+        <h2 class="panel-title">கான்ஜி   -   漢字   -   Kanji</h2>
+      </div>
+      <div class="tamil-grid" style="padding:12px;flex:1;min-height:0;overflow-y:auto;">
+        <div id="kanjiGrid" class="kanji-grid" style="display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:8px;"></div>
+      </div>
+    </div>
+
+    <div class="panel panel-explanation" style="min-height:0;display:flex;flex-direction:column;">
+      <div class="panel-header">
+        <h2 class="panel-title">தேர்வு செய்த கான்ஜி குறித்த விவரங்கள்</h2>
+      </div>
+      <div id="kanjiDetails" style="padding:12px;display:flex;flex-direction:column;gap:8px;min-height:0;overflow-y:auto;">
+        <div class="preview-image stroke-order-panel" style="min-height:160px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+          <img id="strokePlaceholder" src="assets/stroke-order/placeholder.png" alt="stroke order placeholder" style="max-width:60%;opacity:0.6;" />
+        </div>
+        <div id="kanjiFields"></div>
+      </div>
+    </div>
+  </div>
+</div>
