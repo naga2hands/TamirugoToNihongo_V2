@@ -205,7 +205,7 @@ window.kanaData = [
 		    "katakana_mnemonicImage": "assets/images/ka2.png",
     "katakana_strokeGif": "assets/stroke-order/ka2.gif",
     "katakana_mnemonicText": "ஹிரகந \"か\" வழி கதகந \"カ\" நினைவில் கொள்க.<br> カ அது \"க\" ஒலிக்கு இணை.",
-        "tamil": "க\"",
+        "tamil": "க",
         "audio": "assets/audio/ka.mp3"
       },
       "dakuon": {
