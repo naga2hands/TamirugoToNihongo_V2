@@ -3,8 +3,8 @@
 58,右,,口,1981,5,1,5,"Kuchi, Kuchihen",right (direction),"வலம், வலது",ウ、ユウ、みぎ,,会意 Com. Ideographic,"u, yuu",migi,右.gif
 61,雨,,雨,1981,8,1,5,"Ame, Amekanmuri",rain,மழை,ウ、あめ、[あま],,象形 Pictographic,u,"ame, [ama]",雨.gif
 87,円,圓,囗,1981,4,1,5,Doogamae,"round, yen","வட்டம், என் (ஜப்பானிய பணம்)",エン、まる-い,まど,形声 Phonetic,en,maru(i),円.gif
-105,王,,玉,1981,4,1,3,"Tama, Oo",king,"அரசன், ராஜா",オウ,,象形 Pictographic,oo,-,王.gif
-127,音,,音,1981,9,1,4,Oto,sound,"ஓசை, சத்தம்",オン、イン、おと、ね,,会意 Com. Ideographic,"on, in","oto, ne",音.gif
+105,王,,玉,1981,4,1,3,"Tama, Oo",king,"ராஜா, அரசன்",オウ,,象形 Pictographic,oo,-,王.gif
+127,音,,音,1981,9,1,4,Oto,sound,சத்தம்,オン、イン、おと、ね,,会意 Com. Ideographic,"on, in","oto, ne",音.gif
 131,下,,一,1981,3,1,5,Ichi,below,கீழ்,カ、ゲ、した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる,,指事 Ideographic,"ka, ge","shita, shimo, moto, sa(geru), sa(garu), kuda(ru), kuda(su), kuda(saru), o(rosu), o(riru)",下.gif
 133,火,,火,1981,4,1,5,"Hi, Hihen, Renga",fire,தீ,カ、ひ、[ほ],コ,象形 Pictographic,ka,"hi, [ho]",火.gif
 138,花,,艸,1981,7,1,4,Kusakanmuri,flower,பூ,カ、はな,ケ、ゲ、あや,形声 Phonetic,ka,hana,花.gif
@@ -34,12 +34,12 @@
 843,車,,車,1981,7,1,5,"Kuruma, Kurumahen",car,"வண்டி, கார்",シャ、くるま,,象形 Pictographic,sha,kuruma,車.gif
 863,手,,手,1981,4,1,4,Te,hand,கை,シュ、て、[た],ズ,象形 Pictographic,shu,"te, [ta]",手.gif
 907,十,,十,1981,2,1,5,Juu,ten,பத்து,ジュウ、ジッ、とお、と,,指事 Ideographic,"juu, jiQ","too, to",十.gif
-926,出,,凵,1981,5,1,5,Ukebako,exit,வெளி(யேறு),シュツ、[スイ]、で-る、だ-す,,象形 Pictographic,"shutsu, [sui]","de(ru), da(su)",出.gif
+926,出,,凵,1981,5,1,5,Ukebako,exit,வெளியேறு,シュツ、[スイ]、で-る、だ-す,,象形 Pictographic,"shutsu, [sui]","de(ru), da(su)",出.gif
 952,女,,女,1981,3,1,5,"Onna, Onnahen",woman,பெண்,ジョ、ニョ、[ニョウ]、おんな、め,,象形 Pictographic,"jo, nyo, [nyoo]","onna, me",女.gif
-959,小,,小,1981,3,1,5,Shoo,small,சிறிய(து),ショウ、ちい-さい、こ、お,,象形 Pictographic,shoo,"chii(sai), ko, o",小.gif
+959,小,,小,1981,3,1,5,Shoo,small,சிறியது,ショウ、ちい-さい、こ、お,,象形 Pictographic,shoo,"chii(sai), ko, o",小.gif
 1009,上,,一,1981,3,1,5,Ichi,up,மேல்,ジョウ、[ショウ]、うえ、[うわ]、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す,,指事 Ideographic,"joo, [shoo]","ue, [uwa], kami, a(geru), a(garu), nobo(ru), nobo(seru), nobo(su)",上.gif
 1061,森,,木,1981,12,1,3,"Ki, Kihen",forest,அடற்காடு,シン、もり,,会意 Com. Ideographic,shin,mori,森.gif
-1070,人,,人,1981,2,1,5,"Hito, Ninben, Hitoyane",person,"நபர், ஆள், மனிதன்",ジン、ニン、ひと,,象形 Pictographic,"jin, nin",hito,人.gif
+1070,人,,人,1981,2,1,5,"Hito, Ninben, Hitoyane",person,"நபர், மனிதன்",ジン、ニン、ひと,,象形 Pictographic,"jin, nin",hito,人.gif
 1081,水,,水,1981,4,1,5,"Mizu, Sanzui, Shitamizu",water,நீர்,スイ、みず,,象形 Pictographic,sui,mizu,水.gif
 1106,正,,止,1981,5,1,4,Tomeru,correct,"சரி,",セイ、ショウ、ただ-しい、ただ-す、まさ,,会意 Com. Ideographic,"sei, shoo","tada(shii), tada(su), masa",正.gif
 1107,生,,生,1981,5,1,5,Umareru,life,வாழ்க்கை,セイ、ショウ、い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま,な,象形 Pictographic,"sei, shoo","i(kiru), i(kasu), i(keru), u(mareru), u(mu), o(u), ha(eru), ha(yasu), ki, nama",生.gif
@@ -60,7 +60,7 @@
 1376,中,,丨,1981,4,1,5,Boo,middle,நடு,チュウ、[ジュウ]、なか,うち、あ,象形 Pictographic,"chuu, [jyuu]",naka,中.gif
 1378,虫,蟲,虫,1981,6,1,2,"Mushi, Mushihen",insect,பூச்சி,チュウ、むし,,会意 Com. Ideographic,chuu,mushi,虫.gif
 1396,町,,田,1981,7,1,4,"Ta, Tahen",town,நகரம்,チョウ、まち,,形声 Phonetic,choo,machi,町.gif
-1472,天,,大,1981,4,1,5,Dai,heaven,"வான், சொர்க்கம்",テン、あめ、[あま],,象形 Pictographic,ten,"ame, [ama]",天.gif
+1472,天,,大,1981,4,1,5,Dai,heaven,"வான், வானம்",テン、あめ、[あま],,象形 Pictographic,ten,"ame, [ama]",天.gif
 1480,田,,田,1981,5,1,4,"Ta, Tahen",rice paddy,"கழனி, விவசாய நிலம்",デン、た,かり、がり,象形 Pictographic,den,ta,田.gif
 1493,土,,土,1981,3,1,5,"Tsuchi, Tsuchihen",soil,"மண், நிலம்",ド、ト、つち,ツ,象形 Pictographic,"do, to",tsuchi,土.gif
 1577,二,,二,1981,2,1,5,Ni,two,இரண்டு,ニ、ふた、ふた-つ,ジ,指事 Ideographic,ni,"futa, futa(tsu)",二.gif
@@ -70,139 +70,139 @@
 1630,白,,白,1981,5,1,5,Shiro,white,வெள்ளை,ハク、ビャク、しろ、[しら]、しろ-い,,象形 Pictographic,"haku, byaku","shiro, [shira], shiro(i)",白.gif
 1647,八,,八,1981,2,1,5,Hachi,eight,எட்டு,ハチ、や、や-つ、やっ-つ、[よう],ハツ,指事 Ideographic,hachi,"ya, ya(tsu), yat(tsu), [yoo]",八.gif
 1716,百,,白,1981,6,1,5,Shiro,hundred,நூறு,ヒャク,もも,指事 Ideographic,hyaku,-,百.gif
-1786,文,,文,1981,4,1,4,Bun,writing,"வாக்கியம், இலக்கியம், வடிவம்",ブン、モン、ふみ,あや、もじ,象形 Pictographic,"bun, mon",fumi,文.gif
+1786,文,,文,1981,4,1,4,Bun,writing,"இலக்கியம், வாக்கியம், வடிவம்",ブン、モン、ふみ,あや、もじ,象形 Pictographic,"bun, mon",fumi,文.gif
 1876,木,,木,1981,4,1,5,"Ki, Kihen",tree,மரம்,ボク、モク、き、[こ],,象形 Pictographic,"boku, moku","ki, [ko]",木.gif
 1886,本,,木,1981,5,1,5,"Ki, Kihen",book,புத்தகம்,ホン、もと,,指事 Ideographic,hon,moto,本.gif
 1926,名,,口,1981,6,1,5,"Kuchi, Kuchihen",name,பெயர்,メイ、ミョウ、な,,会意 Com. Ideographic,"mei, myoo",na,名.gif
 1947,目,,目,1981,5,1,4,"Me, Mehen",eye,கண்,モク、[ボク]、め、[ま],,象形 Pictographic,"moku, [boku]","me, [ma]",目.gif
-2045,立,,立,1981,5,1,4,Tatsu,stand up,"நில், எழு(ந்திரு)",リツ、[リュウ]、た-つ、た-てる,,会意 Com. Ideographic,"ritsu, [ryuu]","ta(tsu), ta(teru)",立.gif
+2045,立,,立,1981,5,1,4,Tatsu,stand up,"நில், எழுந்திரு",リツ、[リュウ]、た-つ、た-てる,,会意 Com. Ideographic,"ritsu, [ryuu]","ta(tsu), ta(teru)",立.gif
 2074,力,,力,1981,2,1,4,Chikara,power,சக்தி,リョク、リキ、ちから,つと,象形 Pictographic,"ryoku, riki",chikara,力.gif
 2076,林,,木,1981,8,1,3,"Ki, Kihen",woods,காடு,リン、はやし,,会意 Com. Ideographic,rin,hayashi,林.gif
 2125,六,,八,1981,4,1,5,Hachi,six,ஆறு,ロク、む、む-つ、むっ-つ、[むい],リク,仮借 Loan,roku,"mu, mu(tsu), mut(tsu), [mui]",六.gif
 46,引,,弓,1981,4,2,3,"Yumi, Yumihen",pull,இழு,イン、ひ-く、ひ-ける,,会意 Com. Ideographic,in,"hi(ku), hi(keru)",引.gif
 60,羽,,羽,1981,6,2,2,Hane,feather,இறகு,ウ、は、はね,わ,象形 Pictographic,u,"ha, hane",羽.gif
 67,雲,,雨,1981,12,2,2,"Ame, Amekanmuri",cloud,மேகம்,ウン、くも,,形声 Phonetic,un,kumo,雲.gif
-95,園,,囗,1981,13,2,3,Kunigamae,garden,தோட்டம் (?),エン、その,オン,形声 Phonetic,en,sono,園.gif
+95,園,,囗,1981,13,2,3,Kunigamae,garden,தோட்டம்,エン、その,オン,形声 Phonetic,en,sono,園.gif
 98,遠,,辵,1981,13,2,3,Shinnyoo,far,தொலைவு,エン、[オン]、とお-い,,形声 Phonetic,"en, [on]",too(i),遠.gif
 137,何,,人,1981,7,2,5,"Hito, Ninben, Hitoyane",what,என்ன,カ、なに、[なん],いず,形声 Phonetic,ka,"nani, [nan]",何.gif
 144,科,,禾,1981,9,2,3,"Nogi, Nogihen",section,துறை,カ,しな、とが,会意 Com. Ideographic,ka,-,科.gif
-146,夏,,夊,1981,10,2,4,Suinyoo,summer,கோடை(காலம்),カ、[ゲ]、なつ,,象形 Pictographic,"ka, [ge]",natsu,夏.gif
+146,夏,,夊,1981,10,2,4,Suinyoo,summer,கோடை,カ、[ゲ]、なつ,,象形 Pictographic,"ka, [ge]",natsu,夏.gif
 147,家,,宀,1981,10,2,4,Ukanmuri,house,வீடு,カ、ケ、いえ、や,,会意 Com. Ideographic,"ka, ke","ie, ya",家.gif
 159,歌,,欠,1981,14,2,4,Akubi,song,பாடல்,カ、うた、うた-う,,形声 Phonetic,ka,"uta, uta(u)",歌.gif
-167,画,畫,田,1981,8,2,4,"Ta, Tahen",tableau,படம்,ガ、カク,エ、えが,会意 Com. Ideographic,"ga, kaku",-,画.gif
+167,画,畫,田,1981,8,2,4,"Ta, Tahen",tableau,காட்சி,ガ、カク,エ、えが,会意 Com. Ideographic,"ga, kaku",-,画.gif
 173,回,,囗,1981,6,2,3,Kunigamae,times,முறை,カイ、[エ]、まわ-る、まわ-す,めぐ,象形 Pictographic,"kai, [e]","mawa(ru), mawa(su)",回.gif
-175,会,會,曰,1981,6,2,4,"Hito, Ninben, Hitoyane",association,"கூடு(தல்), சந்தி(த்தல்)",カイ、エ、あ-う,ケ,象形 Pictographic,"kai, e",a(u),会.gif
+175,会,會,曰,1981,6,2,4,"Hito, Ninben, Hitoyane",association,"சந்திப்பு, கூடுதல்",カイ、エ、あ-う,ケ,象形 Pictographic,"kai, e",a(u),会.gif
 182,海,海 [4],水,1981,9,2,4,"Mizu, Sanzui, Shitamizu",sea,கடல்,カイ、うみ,,形声 Phonetic,kai,umi,海.gif
 186,絵,繪,糸,1981,12,2,3,"Ito, Itohen",picture,ஓவியம்,カイ、エ,,形声 Phonetic,"kai, e",-,絵.gif
 197,外,,夕,1981,5,2,5,Yuube,outside,வெளி,ガイ、ゲ、そと、ほか、はず-す、はず-れる,ウイ,会意 Com. Ideographic,"gai, ge","soto, hoka, ha(zusu), hazu(reru)",外.gif
 211,角,,角,1981,7,2,2,"Tsuno, Tsunohen",angle,மூலை,カク、かど、つの,すみ、ずみ,象形 Pictographic,kaku,"kado, tsuno",角.gif
 228,楽,樂,木,1981,13,2,4,"Ki, Kihen",pleasure,இசை/இன்பம்,ガク、ラク、たの-しい、たの-しむ,,象形 Pictographic,"gaku, raku","tano(shii), tano(shimu)",楽.gif
-234,活,,水,1981,9,2,3,"Mizu, Sanzui, Shitamizu",active,செயல்திறன் (?),カツ,い,形声 Phonetic,katsu,-,活.gif
-270,間,,門,1981,12,2,5,Mongamae,interval,இடை(வெளி),カン、ケン、あいだ、ま,あ、か、い,会意 Com. Ideographic,"kan, ken","aida, ma",間.gif
+234,活,,水,1981,9,2,3,"Mizu, Sanzui, Shitamizu",active,செயல்திறன்,カツ,い,形声 Phonetic,katsu,-,活.gif
+270,間,,門,1981,12,2,5,Mongamae,interval,"இடைவேளை, இடம்",カン、ケン、あいだ、ま,あ、か、い,会意 Com. Ideographic,"kan, ken","aida, ma",間.gif
 292,丸,,丶,1981,3,2,2,Ten,circle,வட்டம்,ガン、まる、まる-い、まる-める,,象形 Pictographic,gan,"maru, maru(i), maru(meru)",丸.gif
 295,岩,,山,1981,8,2,2,"Yama, Yamahen",boulder,பாறை,ガン、いわ,,象形 Pictographic,gan,iwa,岩.gif
 299,顔,,頁,1981,18,2,3,Oogai,face,முகம்,ガン、かお,,形声 Phonetic,gan,kao,顔.gif
 309,汽,,水,1981,7,2,1,"Mizu, Sanzui, Shitamizu",steam,நீராவி,キ,,形声 Phonetic,ki,-,汽.gif
-316,記,,言,1981,10,2,3,"Gon, Gonben",write down,"எழுது, பதி",キ、しる-す,,形声 Phonetic,ki,shiru(su),記.gif
+316,記,,言,1981,10,2,3,"Gon, Gonben",write down,பதிவு,キ、しる-す,,形声 Phonetic,ki,shiru(su),記.gif
 320,帰,歸,止,1981,10,2,4,"Haba, Kinben",return,திரும்ப,キ、かえ-る、かえ-す,,会意 Com. Ideographic,ki,"kae(ru), kae(su)",帰.gif
 362,弓,,弓,1981,3,2,1,"Yumi, Yumihen","bow (archery, violin)",வில்,キュウ、ゆみ,,象形 Pictographic,kyuu,yumi,弓.gif
 381,牛,,牛,1981,4,2,4,"Ushi, Ushihen",cow,பசு,ギュウ、うし,ゴ,象形 Pictographic,gyuu,ushi,牛.gif
 391,魚,,魚,1981,11,2,4,"Uo, Uohen",fish,மீன்,ギョ、うお、さかな,,象形 Pictographic,gyo,"uo, sakana",魚.gif
 398,京,,亠,1981,8,2,4,Nabebuta,capital,தலைநகர்,キョウ、ケイ,キン,象形 Pictographic,"kyoo, kei",-,京.gif
 410,強,,弓,1981,11,2,4,"Yumi, Yumihen",strong,வலிமை,キョウ、ゴウ、つよ-い、つよ-まる、つよ-める、し-いる,こわ、ごわ,会意 Com. Ideographic,"kyoo, goo","tsuyo(i), tsuyo(maru), tsuyo(meru), shi(iru)",強.gif
-411,教,,攴,1981,11,2,4,Nobun,teach,கற்பி,キョウ、おし-える、おそ-わる,し,会意 Com. Ideographic,kyoo,"oshi(eru), oso(waru)",教.gif
+411,教,,攴,1981,11,2,4,Nobun,teach,கற்பித்தல்,キョウ、おし-える、おそ-わる,し,会意 Com. Ideographic,kyoo,"oshi(eru), oso(waru)",教.gif
 431,近,,辵,1981,7,2,4,Shinnyoo,near,அருகில்,キン、ちか-い,ゴン、コン,形声 Phonetic,kin,chika(i),近.gif
 469,兄,,儿,1981,5,2,4,Hitoashi,older brother,அண்ணன்,ケイ、[キョウ]、あに,,会意 Com. Ideographic,"kei, [kyoo]",ani,兄.gif
 471,形,,彡,1981,7,2,3,Sanzukuri,shape,வடிவம்,ケイ、ギョウ、かた、かたち,,会意 Com. Ideographic,"kei, gyoo","kata, katachi",形.gif
-478,計,,言,1981,9,2,4,"Gon, Gonben",measure,"அளவு, மொத்தம் (?)",ケイ、はか-る、はか-らう,ケ、ゲ,会意 Com. Ideographic,kei,"haka(ru), haka(rau)",計.gif
-545,元,,儿,1981,4,2,4,Hitoashi,origin,"ஆதி, மூலம்",ゲン、ガン、もと,はじ,象形 Pictographic,"gen, gan",moto,元.gif
-548,言,,言,1981,7,2,4,"Gon, Gonben",say,சொல்,ゲン、ゴン、い-う、こと,,象形 Pictographic,"gen, gon","i(u), koto",言.gif
-551,原,,厂,1981,10,2,3,Gandare,field,"சமவெளி, மூலம்",ゲン、はら,,象形 Pictographic,gen,hara,原.gif
+478,計,,言,1981,9,2,4,"Gon, Gonben",measure,கணிப்பு,ケイ、はか-る、はか-らう,ケ、ゲ,会意 Com. Ideographic,kei,"haka(ru), haka(rau)",計.gif
+545,元,,儿,1981,4,2,4,Hitoashi,origin,அடிமூலம்,ゲン、ガン、もと,はじ,象形 Pictographic,"gen, gan",moto,元.gif
+548,言,,言,1981,7,2,4,"Gon, Gonben",say,சொல்லு,ゲン、ゴン、い-う、こと,,象形 Pictographic,"gen, gon","i(u), koto",言.gif
+551,原,,厂,1981,10,2,3,Gandare,field,சமவெளி,ゲン、はら,,象形 Pictographic,gen,hara,原.gif
 558,戸,,戶,1981,4,2,2,"To, Tokanmuri",door,கதவு,コ、と,,象形 Pictographic,ko,to,戸.gif
-559,古,,口,1981,5,2,4,"Kuchi, Kuchihen",old,பழைய,コ、ふる-い、ふる-す,いにしえ,会意 Com. Ideographic,ko,"furu(i), furu(su)",古.gif
+559,古,,口,1981,5,2,4,"Kuchi, Kuchihen",old,பழமையான,コ、ふる-い、ふる-す,いにしえ,会意 Com. Ideographic,ko,"furu(i), furu(su)",古.gif
 578,午,,十,1981,4,2,5,Juu,noon,மதியம்,ゴ,うま,象形 Pictographic,go,-,午.gif
 580,後,,彳,1981,9,2,5,Gyooninben,behind,பின்,ゴ、コウ、のち、うし-ろ、あと、おく-れる,,会意 Com. Ideographic,"go, koo","nochi, ushi(ro), ato, oku(reru)",後.gif
 584,語,,言,1981,14,2,5,"Gon, Gonben",language,மொழி,ゴ、かた-る、かた-らう,,形声 Phonetic,go,"kata(ru), kata(rau)",語.gif
-588,工,,工,1981,3,2,4,"E, Takumihen",craft,"கைத்திறம், தொழில்",コウ、ク,たくみ,象形 Pictographic,"koo, ku",-,工.gif
+588,工,,工,1981,3,2,4,"E, Takumihen",craft,தொழில்,コウ、ク,たくみ,象形 Pictographic,"koo, ku",-,工.gif
 589,公,,八,1981,4,2,2,Hachi,public,பொது,コウ、おおやけ,ク、グ、きみ,象形 Pictographic,koo,ooyake,公.gif
-594,広,廣,广,1981,5,2,4,Madare,wide,"அகலம், பரப்பு",コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる,,形声 Phonetic,koo,"hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru)",広.gif
-596,交,,亠,1981,6,2,3,Nabebuta,mix,கலவை,コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす,,象形 Pictographic,koo,"maji(waru), maji(eru), maji(ru), ma(zaru), ma(zeru), ka(u), ka(wasu)",交.gif
+594,広,廣,广,1981,5,2,4,Madare,wide,பரப்பு,コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる,,形声 Phonetic,koo,"hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru)",広.gif
+596,交,,亠,1981,6,2,3,Nabebuta,mix,பரிமாற்றம்,コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす,,象形 Pictographic,koo,"maji(waru), maji(eru), maji(ru), ma(zaru), ma(zeru), ka(u), ka(wasu)",交.gif
 597,光,,儿,1981,6,2,3,Hitoashi,ray,ஒளி,コウ、ひか-る、ひかり,,会意 Com. Ideographic,koo,"hika(ru), hikari",光.gif
-602,考,,老,1981,6,2,4,Oikanmuri,think,சிந்தித்தல் (யோசி) (?),コウ、かんが-える,,形声 Phonetic,koo,kanga(eru),考.gif
+602,考,,老,1981,6,2,4,Oikanmuri,think,யோசனை,コウ、かんが-える,,形声 Phonetic,koo,kanga(eru),考.gif
 603,行,,行,1981,6,2,5,Gyoogamae,go,போ,コウ、ギョウ、[アン]、い-く、ゆ-く、おこな-う,,象形 Pictographic,"koo, gyoo, [an]","i(ku), yu(ku), okona(u)",行.gif
-628,高,,高,1981,10,2,5,Takai,"tall, expensive","உயரம், உயர்ரக",コウ、たか-い、たか、たか-まる、たか-める,,会意 Com. Ideographic,koo,"taka(i), taka, taka(maru), taka(meru)",高.gif
+628,高,,高,1981,10,2,5,Takai,"tall, expensive",உயரம்,コウ、たか-い、たか、たか-まる、たか-める,,会意 Com. Ideographic,koo,"taka(i), taka, taka(maru), taka(meru)",高.gif
 632,黄,黃,黃,1981,11,2,2,"Ki, Kiiro",yellow,மஞ்சள்,コウ、オウ、き、[こ],,象形 Pictographic,"koo, oo","ki, [ko]",黄.gif
-652,合,,口,1981,6,2,3,"Kuchi, Kuchihen",fit,பொரு(த்து),ゴウ、ガッ、[カッ]、あ-う、あ-わす、あ-わせる,コウ,象形 Pictographic,"goo, gaQ, [kaQ]","a(u), a(wasu), a(waseru)",合.gif
+652,合,,口,1981,6,2,3,"Kuchi, Kuchihen",fit,பொருந்தும்,ゴウ、ガッ、[カッ]、あ-う、あ-わす、あ-わせる,コウ,象形 Pictographic,"goo, gaQ, [kaQ]","a(u), a(wasu), a(waseru)",合.gif
 659,谷,,谷,1981,7,2,2,Tani,valley,பள்ளத்தாக்கு,コク、たに,きわ,象形 Pictographic,koku,tani,谷.gif
 661,国,國,囗,1981,8,2,5,Kunigamae,country,நாடு,コク、くに,,会意 Com. Ideographic,koku,kuni,国.gif
 662,黒,黑,黑,1981,11,2,4,Kuro,black,கருப்பு,コク、くろ、くろ-い,,会意 Com. Ideographic,koku,"kuro, kuro(i)",黒.gif
 670,今,,人,1981,4,2,5,"Hito, Ninben, Hitoyane",now,இப்போது,コン、キン、いま,,仮借 Loan,"kon, kin",ima,今.gif
 693,才,,手,1981,3,2,3,Tehen,genius,திறமை,サイ,,象形 Pictographic,sai,-,才.gif
-706,細,,糸,1981,11,2,2,"Ito, Itohen",thin,"மெலிந்த, குறுகிய",サイ、ほそ-い、ほそ-る、こま-か、こま-かい,ささ,形声 Phonetic,sai,"hoso(i), hoso(ru), koma(ka), koma(kai)",細.gif
-723,作,,人,1981,7,2,4,"Hito, Ninben, Hitoyane",make,"செய், உண்டுசெய்",サク、サ、つく-る,,形声 Phonetic,"saku, sa",tsuku(ru),作.gif
-753,算,,竹,1981,14,2,2,"Take, Takekanmuri",calculate,எண்ணுதல் (?),サン,,会意 Com. Ideographic,san,-,算.gif
-762,止,,止,1981,4,2,4,Tomeru,stop,"நில், நிறுத்து",シ、と-まる、と-める,や,象形 Pictographic,shi,"to(maru), to(meru)",止.gif
-768,市,,巾,1981,5,2,3,"Haba, Kinben",market,"சந்தை, நகரம்",シ、いち,か、が,象形 Pictographic,shi,ichi,市.gif
+706,細,,糸,1981,11,2,2,"Ito, Itohen",thin,ச细细,サイ、ほそ-い、ほそ-る、こま-か、こま-かい,ささ,形声 Phonetic,sai,"hoso(i), hoso(ru), koma(ka), koma(kai)",細.gif
+723,作,,人,1981,7,2,4,"Hito, Ninben, Hitoyane",make,செயல்,サク、サ、つく-る,,形声 Phonetic,"saku, sa",tsuku(ru),作.gif
+753,算,,竹,1981,14,2,2,"Take, Takekanmuri",calculate,கணிதம்,サン,,会意 Com. Ideographic,san,-,算.gif
+762,止,,止,1981,4,2,4,Tomeru,stop,நிறுத்து,シ、と-まる、と-める,や,象形 Pictographic,shi,"to(maru), to(meru)",止.gif
+768,市,,巾,1981,5,2,3,"Haba, Kinben",market,நகரம்,シ、いち,か、が,象形 Pictographic,shi,ichi,市.gif
 769,矢,,矢,1981,5,2,1,"Ya, Yahen",arrow,அம்பு,シ、や,,象形 Pictographic,shi,ya,矢.gif
 780,姉,,女,1981,8,2,4,"Onna, Onnahen",older sister,அக்கா,シ、あね,,形声 Phonetic,shi,ane,姉.gif
-785,思,,心,1981,9,2,4,"Kokoro, Risshinben, Shitagokoro",think,நினைத்தால் (?),シ、おも-う,,形声 Phonetic,shi,omo(u),思.gif
+785,思,,心,1981,9,2,4,"Kokoro, Risshinben, Shitagokoro",think,நினைவு,シ、おも-う,,形声 Phonetic,shi,omo(u),思.gif
 790,紙,,糸,1981,10,2,4,"Ito, Itohen",paper,காகிதம்,シ、かみ,,形声 Phonetic,shi,kami,紙.gif
-808,寺,,寸,1981,6,2,2,Sun,Buddhist temple,புத்த விகாரம் (கோயில்),ジ、てら,シ,形声 Phonetic,ji,tera,寺.gif
+808,寺,,寸,1981,6,2,2,Sun,Buddhist temple,கோவில்,ジ、てら,シ,形声 Phonetic,ji,tera,寺.gif
 811,自,,自,1981,6,2,4,Mizukara,oneself,தானாக,ジ、シ、みずか-ら,おのずか、おの、よ,象形 Pictographic,"ji, shi",mizuka(ra),自.gif
 818,時,,日,1981,10,2,5,"Nichi, Nichihen",time,நேரம்,ジ、とき,シ,形声 Phonetic,ji,toki,時.gif
 832,室,,宀,1981,9,2,4,Ukanmuri,room,அறை,シツ、むろ,,会意 Com. Ideographic,shitsu,muro,室.gif
-842,社,社 [4],示,1981,7,2,4,"Shimesu, Shimesuhen",company,நிறுவனம்,シャ、やしろ,,形声 Phonetic,sha,yashiro,社.gif
+842,社,社 [4],示,1981,7,2,4,"Shimesu, Shimesuhen",company,"நிறுவனம், கோவில்",シャ、やしろ,,形声 Phonetic,sha,yashiro,社.gif
 861,弱,,弓,1981,10,2,3,"Yumi, Yumihen",weak,பலவீனம்,ジャク、よわ-い、よわ-る、よわ-まる、よわ-める,,会意 Com. Ideographic,jaku,"yowa(i), yowa(ru), yowa(maru), yowa(meru)",弱.gif
-869,首,,首,1981,9,2,3,Kubi,neck,கழுத்து,シュ、くび,こうべ,象形 Pictographic,shu,kubi,首.gif
-891,秋,,禾,1981,9,2,4,"Nogi, Nogihen",autumn,இலையுதிர்(காலம்),シュウ、あき,,会意 Com. Ideographic,shuu,aki,秋.gif
+869,首,,首,1981,9,2,3,Kubi,neck,தலை,シュ、くび,こうべ,象形 Pictographic,shu,kubi,首.gif
+891,秋,,禾,1981,9,2,4,"Nogi, Nogihen",autumn,அறுசீசன் (modern:秋ம்),シュウ、あき,,会意 Com. Ideographic,shuu,aki,秋.gif
 898,週,,辵,1981,11,2,4,Shinnyoo,week,வாரம்,シュウ,,形声 Phonetic,shuu,-,週.gif
-930,春,,日,1981,9,2,4,"Nichi, Nichihen",springtime,வசந்த(காலம்),シュン、はる,,形声 Phonetic,shun,haru,春.gif
-946,書,,曰,1981,10,2,5,Hirabi,write,எழுது(தல்),ショ、か-く,,会意 Com. Ideographic,sho,ka(ku),書.gif
-961,少,,小,1981,4,2,4,Shoo,few,"சில, குறைவு",ショウ、すく-ない、すこ-し,,象形 Pictographic,shoo,"suku(nai), suko(shi)",少.gif
-1020,場,,土,1981,12,2,4,"Tsuchi, Tsuchihen",place,இடம் (?),ジョウ、ば,,形声 Phonetic,joo,ba,場.gif
+930,春,,日,1981,9,2,4,"Nichi, Nichihen",springtime,வசந்தம்,シュン、はる,,形声 Phonetic,shun,haru,春.gif
+946,書,,曰,1981,10,2,5,Hirabi,write,எழுதுதல்/புத்தகம்,ショ、か-く,,会意 Com. Ideographic,sho,ka(ku),書.gif
+961,少,,小,1981,4,2,4,Shoo,few,குறைவு,ショウ、すく-ない、すこ-し,,象形 Pictographic,shoo,"suku(nai), suko(shi)",少.gif
+1020,場,,土,1981,12,2,4,"Tsuchi, Tsuchihen",place,இடம்,ジョウ、ば,,形声 Phonetic,joo,ba,場.gif
 1029,色,,色,1981,6,2,4,Iro,color,நிறம்,ショク、シキ、いろ,,会意 Com. Ideographic,"shoku, shiki",iro,色.gif
-1031,食,,食,1981,9,2,5,"Shoku, Shokuhen","eat, meal","உண், உணவு",ショク、[ジキ]、く-う、く-らう、た-べる,は,象形 Pictographic,"shoku, [jiki]","ku(u), ku(rau), ta(beru)",食.gif
+1031,食,,食,1981,9,2,5,"Shoku, Shokuhen","eat, meal",உணவு,ショク、[ジキ]、く-う、く-らう、た-べる,は,象形 Pictographic,"shoku, [jiki]","ku(u), ku(rau), ta(beru)",食.gif
 1041,心,,心,1981,4,2,4,"Kokoro, Risshinben, Shitagokoro",heart,மனது/இதயம்,シン、こころ,,象形 Pictographic,shin,kokoro,心.gif
-1065,新,,斤,1981,13,2,4,"Kin, Onozukuri",new,புதிய,シン、あたら-しい、あら-た、にい,,会意 Com. Ideographic,shin,"atara(shii), ara(ta), nii",新.gif
+1065,新,,斤,1981,13,2,4,"Kin, Onozukuri",new,புதியது,シン、あたら-しい、あら-た、にい,,会意 Com. Ideographic,shin,"atara(shii), ara(ta), nii",新.gif
 1069,親,,見,1981,16,2,4,Miru,parent,பெற்றோர்,シン、おや、した-しい、した-しむ,ちか,会意 Com. Ideographic,shin,"oya, shita(shii), shita(shimu)",親.gif
 1080,図,圖,囗,1981,7,2,4,Kunigamae,diagram,வரைபடம்,ズ、ト、はか-る,,会意 Com. Ideographic,"zu, to",haka(ru),図.gif
 1097,数,數,攴,1981,13,2,3,Nobun,number,எண்,スウ、[ス]、かず、かぞ-える,ジュ,会意 Com. Ideographic,"suu, [su]","kazu, kazo(eru)",数.gif
 1109,西,,襾,1981,6,2,5,Nishi,west,மேற்கு,セイ、サイ、にし,,仮借 Loan,"sei, sai",nishi,西.gif
 1110,声,聲,耳,1981,7,2,3,Samurai,voice,குரல்,セイ、[ショウ]、こえ、[こわ],,会意 Com. Ideographic,"sei, [shoo]","koe, [kowa]",声.gif
 1118,星,,日,1981,9,2,2,"Nichi, Nichihen",star,நட்சத்திரம்,セイ、[ショウ]、ほし,,形声 Phonetic,"sei, [shoo]",hoshi,星.gif
-1126,晴,,日,1981,12,2,3,"Nichi, Nichihen",clear up,தெளிவு (?),セイ、は-れる、は-らす,,形声 Phonetic,sei,"ha(reru), ha(rasu)",晴.gif
+1126,晴,,日,1981,12,2,3,"Nichi, Nichihen",clear up,விசாரணை,セイ、は-れる、は-らす,,形声 Phonetic,sei,"ha(reru), ha(rasu)",晴.gif
 1154,切,,刀,1981,4,2,4,"Katana, Rittoo",cut,வெட்டு,セツ、[サイ]、き-る、き-れる,,会意 Com. Ideographic,"setsu, [sai]","ki(ru), ki(reru)",切.gif
 1160,雪,,雨,1981,11,2,3,"Ame, Amekanmuri",snow,பனி,セツ、ゆき,そそ,象形 Pictographic,setsu,yuki,雪.gif
-1180,船,,舟,1981,11,2,3,"Fune, Funehen",boat,படகு,セン、ふね、[ふな],,形声 Phonetic,sen,"fune, [funa]",船.gif
+1180,船,,舟,1981,11,2,3,"Fune, Funehen",boat,கப்பல்,セン、ふね、[ふな],,形声 Phonetic,sen,"fune, [funa]",船.gif
 1190,線,,糸,1981,15,2,2,"Ito, Itohen",line,கோடு,セン,,形声 Phonetic,sen,-,線.gif
 1197,前,,刀,1981,9,2,5,"Katana, Rittoo",in front,முன்னால்,ゼン、まえ,セン、さき、ざき,会意 Com. Ideographic,zen,mae,前.gif
 1211,組,,糸,1981,11,2,3,"Ito, Itohen",association,குழு,ソ、く-む、くみ,,形声 Phonetic,so,"ku(mu), kumi",組.gif
 1221,走,,走,1981,7,2,4,"Hashiru, Soonyoo",run,ஓடு,ソウ、はし-る,,象形 Pictographic,soo,hashi(ru),走.gif
 1285,多,,夕,1981,6,2,4,Yuube,many,பல,タ、おお-い,,会意 Com. Ideographic,ta,oo(i),多.gif
-1293,太,,大,1981,4,2,3,Dai,thick,பெருத்த (?),タイ、タ、ふと-い、ふと-る,,形声 Phonetic,"tai, ta","futo(i), futo(ru)",太.gif
+1293,太,,大,1981,4,2,3,Dai,thick,பெருமை,タイ、タ、ふと-い、ふと-る,,形声 Phonetic,"tai, ta","futo(i), futo(ru)",太.gif
 1295,体,體,骨,1981,7,2,4,"Hito, Ninben, Hitoyane",body,உடல்,タイ、テイ、からだ,,形声 Phonetic,"tai, tei",karada,体.gif
-1314,台,臺,至,1981,5,2,4,"Kuchi, Kuchihen",pedestal,நடைமேடை,ダイ、タイ,うてな,会意 Com. Ideographic,"dai, tai",-,台.gif
-1355,地,,土,1981,6,2,4,"Tsuchi, Tsuchihen",ground,"தரை, நிலம், பூமி (?)",チ、ジ,,形声 Phonetic,"chi, ji",-,地.gif
+1314,台,臺,至,1981,5,2,4,"Kuchi, Kuchihen",pedestal,மேடை,ダイ、タイ,うてな,会意 Com. Ideographic,"dai, tai",-,台.gif
+1355,地,,土,1981,6,2,4,"Tsuchi, Tsuchihen",ground,பூமி,チ、ジ,,形声 Phonetic,"chi, ji",-,地.gif
 1356,池,,水,1981,6,2,3,"Mizu, Sanzui, Shitamizu",pond,குளம்,チ、いけ,,形声 Phonetic,chi,ike,池.gif
-1357,知,,矢,1981,8,2,4,"Ya, Yahen",know,தெரிந்து (?),チ、し-る,,会意 Com. Ideographic,chi,shi(ru),知.gif
+1357,知,,矢,1981,8,2,4,"Ya, Yahen",know,தெரிந்து,チ、し-る,,会意 Com. Ideographic,chi,shi(ru),知.gif
 1373,茶,,艸,1981,9,2,4,Kusakanmuri,tea,தேநீர்,チャ、サ,タ,形声 Phonetic,"cha, sa",-,茶.gif
-1384,昼,晝,日,1981,9,2,4,"Nichi, Nichihen",daytime,பகல் (?),チュウ、ひる,,会意 Com. Ideographic,chuu,hiru,昼.gif
+1384,昼,晝,日,1981,9,2,4,"Nichi, Nichihen",daytime,பகல்,チュウ、ひる,,会意 Com. Ideographic,chuu,hiru,昼.gif
 1397,長,,長,1981,8,2,5,Nagai,long,நீண்ட,チョウ、なが-い,たけ、おさ、まさ、た,象形 Pictographic,choo,naga(i),長.gif
 1405,鳥,,鳥,1981,11,2,4,Tori,bird,பறவை,チョウ、とり,,象形 Pictographic,choo,tori,鳥.gif
-1406,朝,,月,1981,12,2,4,"Tsuki, Tsukihen",morning,காலை (?),チョウ、あさ,,会意 Com. Ideographic,choo,asa,朝.gif
+1406,朝,,月,1981,12,2,4,"Tsuki, Tsukihen",morning,காலை,チョウ、あさ,,会意 Com. Ideographic,choo,asa,朝.gif
 1418,直,,目,1981,8,2,3,"Me, Mehen",straight,நேரான,チョク、ジキ、ただ-ちに、なお-す、なお-る,た、だ,会意 Com. Ideographic,"choku, jiki","tada(chini), nao(su), nao(ru)",直.gif
-1430,通,,辵,1981,10,2,4,Shinnyoo,pass through,கடந்து செல்,ツウ、[ツ]、とお-る、とお-す、かよ-う,ドウ,形声 Phonetic,"tsuu, [tsu]","too(ru), too(su), kayo(u)",通.gif
+1430,通,,辵,1981,10,2,4,Shinnyoo,pass through,கடந்து செல்ல,ツウ、[ツ]、とお-る、とお-す、かよ-う,ドウ,形声 Phonetic,"tsuu, [tsu]","too(ru), too(su), kayo(u)",通.gif
 1440,弟,,弓,1981,7,2,4,"Yumi, Yumihen",younger brother,தம்பி,テイ、[ダイ]、[デ]、おとうと,,象形 Pictographic,"tei, [dai], [de]",otooto,弟.gif
 1474,店,,广,1981,8,2,4,Madare,shop,கடை,テン、みせ,たな、だな,形声 Phonetic,ten,mise,店.gif
 1475,点,點,黑,1981,9,2,3,"Hi, Hihen, Renga",point,புள்ளி,テン,,形声 Phonetic,ten,-,点.gif
 1483,電,,雨,1981,13,2,5,"Ame, Amekanmuri",electricity,மின்சாரம்,デン,,会意 Com. Ideographic,den,-,電.gif
 1498,刀,,刀,1981,2,2,1,"Katana, Rittoo",sword,வாள்,トウ、かたな,ト,象形 Pictographic,too,katana,刀.gif
-1499,冬,,冫,1981,5,2,4,Suinyoo,winter,குளிர்(காலம்),トウ、ふゆ,,象形 Pictographic,too,fuyu,冬.gif
-1501,当,當,田,1981,6,2,3,Shoo,hit,அடி,トウ、あ-たる、あ-てる,,形声 Phonetic,too,"a(taru), a(teru)",当.gif
+1499,冬,,冫,1981,5,2,4,Suinyoo,winter,குளிர்காலம்,トウ、ふゆ,,象形 Pictographic,too,fuyu,冬.gif
+1501,当,當,田,1981,6,2,3,Shoo,hit,பொருந்துகிறது,トウ、あ-たる、あ-てる,,形声 Phonetic,too,"a(taru), a(teru)",当.gif
 1504,東,,木,1981,8,2,5,"Ki, Kihen",east,கிழக்கு,トウ、ひがし,あずま,仮借 Loan,too,higashi,東.gif
 1524,答,,竹,1981,12,2,4,"Take, Takekanmuri",answer,பதில்,トウ、こた-える、こた-え,,形声 Phonetic,too,"kota(eru), kota(e)",答.gif
 1531,頭,,頁,1981,16,2,3,Oogai,head,தலை,トウ、ズ、[ト]、あたま、かしら,ジュウ、かみ、がみ,形声 Phonetic,"too, zu, [to]","atama, kashira",頭.gif
-1536,同,,口,1981,6,2,4,"Kuchi, Kuchihen",same,"அதே, ஒன்று",ドウ、おな-じ,,会意 Com. Ideographic,doo,ona(ji),同.gif
+1536,同,,口,1981,6,2,4,"Kuchi, Kuchihen",same,ஒன்று,ドウ、おな-じ,,会意 Com. Ideographic,doo,ona(ji),同.gif
 1542,道,,辵,1981,12,2,4,Shinnyoo,road,பாதை,ドウ、[トウ]、みち,い,会意 Com. Ideographic,"doo, [too]",michi,道.gif
 1556,読,讀,言,1981,14,2,5,"Gon, Gonben",read,படி,ドク、トク、[トウ]、よ-む,と、ど,形声 Phonetic,"doku, toku, [too]",yo(mu),読.gif
 1570,内,,入,1981,4,2,3,"Hito, Ninben, Hitoyane",inside,உள்,ナイ、[ダイ]、うち,ノウ、い,象形 Pictographic,"nai, [dai]",uchi,内.gif
@@ -212,57 +212,57 @@
 1622,売,賣,貝,1981,7,2,4,Samurai,sell,விற்பனை,バイ、う-る、う-れる,マイ、メ,会意 Com. Ideographic,bai,"u(ru), u(reru)",売.gif
 1628,買,,貝,1981,12,2,4,"Kai, Kaihen",buy,வாங்கு,バイ、か-う,,会意 Com. Ideographic,bai,ka(u),買.gif
 1639,麦,麥,麥,1981,7,2,2,Mugi,wheat,கோதுமை,バク、むぎ,,会意 Com. Ideographic,baku,mugi,麦.gif
-1656,半,,十,1981,5,2,5,Juu,half,"அரை, பாதி",ハン、なか-ば,,象形 Pictographic,han,naka(ba),半.gif
+1656,半,,十,1981,5,2,5,Juu,half,அரை,ハン、なか-ば,,象形 Pictographic,han,naka(ba),半.gif
 1680,番,,田,1981,12,2,3,"Ta, Tahen",one's turn,வரிசை,バン,つが,象形 Pictographic,ban,-,番.gif
-1738,父,,父,1981,4,2,5,Chichi,father,"தந்தை, அப்பா",フ、ちち,,会意 Com. Ideographic,fu,chichi,父.gif
+1738,父,,父,1981,4,2,5,Chichi,father,தந்தை,フ、ちち,,会意 Com. Ideographic,fu,chichi,父.gif
 1764,風,,風,1981,9,2,4,Kaze,wind,காற்று,フウ、[フ]、かぜ、[かざ],,形声 Phonetic,"fuu, [fu]","kaze, [kaza]",風.gif
-1785,分,,刀,1981,4,2,5,"Katana, Rittoo","part, minute of time","பங்கு, நிமிடம்",ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつ,,会意 Com. Ideographic,"bun, fun, bu","wa(keru), wa(kareru), wa(karu), wa(katsu)",分.gif
+1785,分,,刀,1981,4,2,5,"Katana, Rittoo","part, minute of time",பங்கு/நிமிடம்,ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつ,,会意 Com. Ideographic,"bun, fun, bu","wa(keru), wa(kareru), wa(karu), wa(katsu)",分.gif
 1787,聞,,耳,1981,14,2,5,"Mimi, Mimihen",hear,கேள்,ブン、モン、き-く、き-こえる,,形声 Phonetic,"bun, mon","ki(ku), ki(koeru)",聞.gif
 1801,米,,米,1981,6,2,3,"Kome, Komehen",rice,அரிசி,ベイ、マイ、こめ,よね,象形 Pictographic,"bei, mai",kome,米.gif
 1817,歩,步,止,1981,8,2,4,Tomeru,walk,நடை,ホ、ブ、[フ]、ある-く、あゆ-む,,会意 Com. Ideographic,"ho, bu, [fu]","aru(ku), ayu(mu)",歩.gif
 1823,母,,毋,1981,5,2,5,"Haha, Hahanokan",mother,தாய்,ボ、はは,モ,象形 Pictographic,bo,haha,母.gif
-1829,方,,方,1981,4,2,4,"Hoo, Hoohen",direction,திசை,ホウ、かた,まさ、あ,象形 Pictographic,hoo,kata,方.gif
+1829,方,,方,1981,4,2,4,"Hoo, Hoohen",direction,திசை/முறை,ホウ、かた,まさ、あ,象形 Pictographic,hoo,kata,方.gif
 1875,北,,匕,1981,5,2,5,Hi,north,வடக்கு,ホク、きた,,会意 Com. Ideographic,hoku,kita,北.gif
-1895,毎,每,毋,1981,6,2,5,"Haha, Hahanokan",every,"ஒவ்வொரு, எல்லா",マイ,ごと,象形 Pictographic,mai,-,毎.gif
-1896,妹,,女,1981,8,2,4,"Onna, Onnahen",younger sister,தங்கை,マイ、いもうと,,形声 Phonetic,mai,imooto,妹.gif
+1895,毎,每,毋,1981,6,2,5,"Haha, Hahanokan",every,ஒவ்வொரு,マイ,ごと,象形 Pictographic,mai,-,毎.gif
+1896,妹,,女,1981,8,2,4,"Onna, Onnahen",younger sister,சகோதரி,マイ、いもうと,,形声 Phonetic,mai,imooto,妹.gif
 1906,万,萬,艸,1981,3,2,5,Ichi,ten thousand,பத்து ஆயிரம்,マン、バン,よろず,象形 Pictographic,"man, ban",-,万.gif
-1928,明,,日,1981,8,2,4,"Nichi, Nichihen",bright,"ஒளி, வெளிச்சம்",メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす,ミン,会意 Com. Ideographic,"mei, myoo","a(kari), aka(rui), aka(rumu), aka(ramu), aki(raka), a(keru), a(ku), a(kuru), a(kasu)",明.gif
-1933,鳴,,鳥,1981,14,2,3,Tori,chirp,கூவு (பறவை ஒலி),メイ、な-く、な-る、な-らす,,会意 Com. Ideographic,mei,"na(ku), na(ru), na(rasu)",鳴.gif
+1928,明,,日,1981,8,2,4,"Nichi, Nichihen",bright,ஒளி,メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす,ミン,会意 Com. Ideographic,"mei, myoo","a(kari), aka(rui), aka(rumu), aka(ramu), aki(raka), a(keru), a(ku), a(kuru), a(kasu)",明.gif
+1933,鳴,,鳥,1981,14,2,3,Tori,chirp,கூவு/பறவை ஒலி,メイ、な-く、な-る、な-らす,,会意 Com. Ideographic,mei,"na(ku), na(ru), na(rasu)",鳴.gif
 1941,毛,,毛,1981,4,2,2,Ke,hair,முடி,モウ、け,モ,象形 Pictographic,moo,ke,毛.gif
 1949,門,,門,1981,8,2,3,Mongamae,gates,வாயில்,モン、かど,,象形 Pictographic,mon,kado,門.gif
 1953,夜,,夕,1981,8,2,4,Yuube,night,இரவு,ヤ、よ、よる,,会意 Com. Ideographic,ya,"yo, yoru",夜.gif
 1954,野,,里,1981,11,2,4,"Sato, Satohen",field,வெளி,ヤ、の,,形声 Phonetic,ya,no,野.gif
 1971,友,,又,1981,4,2,5,Mata,friend,நண்பன்,ユウ、とも,ウ,会意 Com. Ideographic,yuu,tomo,友.gif
 1992,用,,用,1981,5,2,4,Mochiiru,use,பயன்பாடு,ヨウ、もち-いる,ユウ,象形 Pictographic,yoo,mochi(iru),用.gif
-2012,曜,,日,1981,18,2,4,"Nichi, Nichihen",day of the week,வார நாள் (கிழமை),ヨウ,,形声 Phonetic,yoo,-,曜.gif
-2022,来,來,人,1981,7,2,5,"Ki, Kihen",come,வரும்,ライ、く-る、きた-る、きた-す,き、ぎ,象形 Pictographic,rai,"ku(ru), kita(ru), kita(su)",来.gif
-2037,里,,里,1981,7,2,0,"Sato, Satohen",village,கிராமம்,リ、さと,,会意 Com. Ideographic,ri,sato,里.gif
-2038,理,,玉,1981,11,2,4,"Tama, Oo",reason,காரணம் (?),リ,,形声 Phonetic,ri,-,理.gif
+2012,曜,,日,1981,18,2,4,"Nichi, Nichihen",day of the week,வார நாள்,ヨウ,,形声 Phonetic,yoo,-,曜.gif
+2022,来,來,人,1981,7,2,5,"Ki, Kihen",come,வருவாய்,ライ、く-る、きた-る、きた-す,き、ぎ,象形 Pictographic,rai,"ku(ru), kita(ru), kita(su)",来.gif
+2037,里,,里,1981,7,2,0,"Sato, Satohen",village,கிராமம்/வட்டை,リ、さと,,会意 Com. Ideographic,ri,sato,里.gif
+2038,理,,玉,1981,11,2,4,"Tama, Oo",reason,காரணம்/வியக்கம்,リ,,形声 Phonetic,ri,-,理.gif
 2130,話,,言,1981,13,2,5,"Gon, Gonben",talk,பேசு,ワ、はな-す、はなし,,形声 Phonetic,wa,"hana(su), hanashi",話.gif
 6,悪,惡,心,1981,11,3,4,"Kokoro, Risshinben, Shitagokoro",bad,கெட்ட / மோசமான,アク、オ、わる-い,,形声 Phonetic,"aku, o",waru(i),悪.gif
 12,安,,宀,1981,6,3,4,Ukanmuri,cheap,மலிவான,アン、やす-い,,会意 Com. Ideographic,an,yasu(i),安.gif
 14,暗,,日,1981,13,3,3,"Nichi, Nichihen",dark,இருண்ட,アン、くら-い,,形声 Phonetic,an,kura(i),暗.gif
 19,医,醫,酉,1981,7,3,4,Kakushigamae,doctor,மருத்துவர்,イ,,会意 Com. Ideographic,i,-,医.gif
-21,委,,女,1981,8,3,2,"Onna, Onnahen",committee,குழு (?),イ、ゆだ-ねる,まか,会意 Com. Ideographic,i,yuda(neru),委.gif
-33,意,,心,1981,13,3,4,"Kokoro, Risshinben, Shitagokoro",idea,யோசனை (?),イ,,会意 Com. Ideographic,i,-,意.gif
-40,育,,肉,1981,8,3,3,"Niku, Nikuzuki",nurture,வளர்ப்பு,イク、そだ-つ、そだ-てる、はぐく-む,,会意 Com. Ideographic,iku,"soda(tsu), soda(teru), haguku(mu)",育.gif
+21,委,,女,1981,8,3,2,"Onna, Onnahen",committee,குழு,イ、ゆだ-ねる,まか,会意 Com. Ideographic,i,yuda(neru),委.gif
+33,意,,心,1981,13,3,4,"Kokoro, Risshinben, Shitagokoro",idea,யோசனை,イ,,会意 Com. Ideographic,i,-,意.gif
+40,育,,肉,1981,8,3,3,"Niku, Nikuzuki",nurture,வளர்த்து பேணி காக்க,イク、そだ-つ、そだ-てる、はぐく-む,,会意 Com. Ideographic,iku,"soda(tsu), soda(teru), haguku(mu)",育.gif
 51,員,,口,1981,10,3,4,"Kuchi, Kuchihen",member,உறுப்பினர்,イン,,象形 Pictographic,in,-,員.gif
 52,院,,阜,1981,10,3,4,Kozatohen,institution,நிறுவனம்,イン,エン,形声 Phonetic,in,-,院.gif
 55,飲,,食,1981,12,3,4,"Shoku, Shokuhen",drink,குடி,イン、の-む,,会意 Com. Ideographic,in,no(mu),飲.gif
 66,運,,辵,1981,12,3,4,Shinnyoo,carry,சும,ウン、はこ-ぶ,,形声 Phonetic,un,hako(bu),運.gif
-69,泳,,水,1981,8,3,3,"Mizu, Sanzui, Shitamizu",swim,நீந்து,エイ、およ-ぐ,,形声 Phonetic,ei,oyo(gu),泳.gif
+69,泳,,水,1981,8,3,3,"Mizu, Sanzui, Shitamizu",swim,நீந்த,エイ、およ-ぐ,,形声 Phonetic,ei,oyo(gu),泳.gif
 82,駅,驛,馬,1981,14,3,4,"Uma, Umahen",station,நிலையம்,エキ,,形声 Phonetic,eki,-,駅.gif
 107,央,,大,1981,5,3,2,Dai,center,மையம்,オウ,ヨウ、つ,象形 Pictographic,oo,-,央.gif
 117,横,橫,木,1981,15,3,3,"Ki, Kihen",side,பக்கம்,オウ、よこ,,形声 Phonetic,oo,yoko,横.gif
 119,屋,,尸,1981,9,3,4,Shikabane,roof,கூரை,オク、や,,会意 Com. Ideographic,oku,ya,屋.gif
-129,温,溫,水,1981,12,3,2,"Mizu, Sanzui, Shitamizu",warm,சூடான / வெதுவெதுப்பான,オン、あたた-か、あたた-かい、あたた-まる、あたた-める,ウン,形声 Phonetic,on,"atata(ka), atata(kai), atata(maru), atata(meru)",温.gif
+129,温,溫,水,1981,12,3,2,"Mizu, Sanzui, Shitamizu",warm,சூடான / வெம்மையான,オン、あたた-か、あたた-かい、あたた-まる、あたた-める,ウン,形声 Phonetic,on,"atata(ka), atata(kai), atata(maru), atata(meru)",温.gif
 132,化,,匕,1981,4,3,3,Hi,change,மாற்று,カ、ケ、ば-ける、ば-かす,,会意 Com. Ideographic,"ka, ke","ba(keru), ba(kasu)",化.gif
 148,荷,,艸,1981,10,3,2,Kusakanmuri,luggage,சாமான்கள் / பயணப்பெட்டி,カ、に,,形声 Phonetic,ka,ni,荷.gif
 183,界,,田,1981,9,3,4,"Ta, Tahen",world,உலகம்,カイ,さかい,形声 Phonetic,kai,-,界.gif
 187,開,,門,1981,12,3,4,Mongamae,open,திற,カイ、ひら-く、ひら-ける、あ-く、あ-ける,,会意 Com. Ideographic,kai,"hira(ku), hira(keru), a(ku), a(keru)",開.gif
 188,階,,阜,1981,12,3,2,Kozatohen,floor of a building,மாடி / தரை,カイ,はし、しな,形声 Phonetic,kai,-,階.gif
 263,寒,,宀,1981,12,3,3,Ukanmuri,cold,குளிர்ந்த,カン、さむ-い,,会意 Com. Ideographic,kan,samu(i),寒.gif
-275,感,,心,1981,13,3,3,"Kokoro, Risshinben, Shitagokoro",feeling,உணர்வு (?),カン,,形声 Phonetic,kan,-,感.gif
+275,感,,心,1981,13,3,3,"Kokoro, Risshinben, Shitagokoro",feeling,உணர்வு,カン,,形声 Phonetic,kan,-,感.gif
 276,漢,漢 [4],水,1981,13,3,4,"Mizu, Sanzui, Shitamizu",China,சீனா,カン,,形声 Phonetic,kan,-,漢.gif
 285,館,,食,1981,16,3,4,"Shoku, Shokuhen",public building,பொது கட்டிடம்,カン、やかた,たち、たて、だて,形声 Phonetic,kan,yakata,館.gif
 294,岸,,山,1981,8,3,2,"Yama, Yamahen",beach,கடற்கரை,ガン、きし,,形声 Phonetic,gan,kishi,岸.gif
@@ -276,21 +276,21 @@
 377,球,,玉,1981,11,3,3,"Tama, Oo",sphere,கோளம்,キュウ、たま,,形声 Phonetic,kyuu,tama,球.gif
 382,去,,厶,1981,5,3,4,Mu,leave,விடு,キョ、コ、さ-る,,会意 Com. Ideographic,"kyo, ko",sa(ru),去.gif
 414,橋,,木,1981,16,3,2,"Ki, Kihen",bridge,பாலம்,キョウ、はし,,形声 Phonetic,kyoo,hashi,橋.gif
-422,業,,木,1981,13,3,4,"Ki, Kihen",business,வணிகம் / தொழில்,ギョウ、ゴウ、わざ,,象形 Pictographic,"gyoo, goo",waza,業.gif
-424,曲,,曰,1981,6,3,3,Hirabi,musical composition,இசை அமைப்பு,キョク、ま-がる、ま-げる,くせ,象形 Pictographic,kyoku,"ma(garu), ma(geru)",曲.gif
+422,業,,木,1981,13,3,4,"Ki, Kihen",business,வாணிகம் / தொழில்,ギョウ、ゴウ、わざ,,象形 Pictographic,"gyoo, goo",waza,業.gif
+424,曲,,曰,1981,6,3,3,Hirabi,musical composition,இசைக்கூறு / இசை அமைப்பு,キョク、ま-がる、ま-げる,くせ,象形 Pictographic,kyoku,"ma(garu), ma(geru)",曲.gif
 425,局,,尸,1981,7,3,3,Shikabane,office,அலுவலகம்,キョク,つぼね,会意 Com. Ideographic,kyoku,-,局.gif
 444,銀,,金,1981,14,3,4,"Kane, Kanehen",silver,வெள்ளி,ギン,,形声 Phonetic,gin,-,銀.gif
 445,区,區,匸,1981,4,3,3,Kakushigamae,ward,வார்டு / பிரிவு,ク,,会意 Com. Ideographic,ku,-,区.gif
-447,苦,,艸,1981,8,3,3,Kusakanmuri,suffer,துன்பம்,ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-る,コ,形声 Phonetic,ku,"kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru)",苦.gif
+447,苦,,艸,1981,8,3,3,Kusakanmuri,suffer,துன்பப்படு,ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-る,コ,形声 Phonetic,ku,"kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru)",苦.gif
 449,具,,八,1981,8,3,3,Hachi,tool,கருவி,グ,ク、つぶさ、そな、とも,会意 Com. Ideographic,gu,-,具.gif
 462,君,,口,1981,7,3,3,"Kuchi, Kuchihen",you,நீ / நீங்கள்,クン、きみ,,会意 Com. Ideographic,kun,kimi,君.gif
 475,係,,人,1981,9,3,3,"Hito, Ninben, Hitoyane",person in charge,பொறுப்பாளர்,ケイ、かか-る、かかり,,会意 Com. Ideographic,kei,"kaka(ru), kakari",係.gif
 487,軽,輕,車,1981,12,3,3,"Kuruma, Kurumahen",lightweight,இலேசான,ケイ、かる-い、かろ-やか,キン,形声 Phonetic,kei,"karu(i), karo(yaka)",軽.gif
 508,血,,血,1981,6,3,2,Chi,blood,இரத்தம்,ケツ、ち,,会意 Com. Ideographic,ketsu,chi,血.gif
 509,決,,水,1981,7,3,3,"Mizu, Sanzui, Shitamizu",decide,தீர்மானி,ケツ、き-める、き-まる,,形声 Phonetic,ketsu,"ki(meru), ki(maru)",決.gif
-520,研,硏,石,1981,9,3,4,"Ishi, Ishihen",sharpen,கூராக்கு (பட்டை தீட்டு),ケン、と-ぐ,みが,形声 Phonetic,ken,to(gu),研.gif
-521,県,縣,糸,1981,9,3,3,"Me, Mehen",prefecture,மாநிலம்,ケン,あがた、か、が,会意 Com. Ideographic,ken,-,県.gif
-569,庫,,广,1981,10,3,2,Madare,warehouse,"களஞ்சியம், கிடங்கு (?)",コ、[ク],,会意 Com. Ideographic,"ko, [ku]",-,庫.gif
+520,研,硏,石,1981,9,3,4,"Ishi, Ishihen",sharpen,கூராக்கு,ケン、と-ぐ,みが,形声 Phonetic,ken,to(gu),研.gif
+521,県,縣,糸,1981,9,3,3,"Me, Mehen",prefecture,மாநிலம் / மாவட்டம்,ケン,あがた、か、が,会意 Com. Ideographic,ken,-,県.gif
+569,庫,,广,1981,10,3,2,Madare,warehouse,களஞ்சியம்,コ、[ク],,会意 Com. Ideographic,"ko, [ku]",-,庫.gif
 570,湖,,水,1981,12,3,2,"Mizu, Sanzui, Shitamizu",lake,ஏரி,コ、みずうみ,,形声 Phonetic,ko,mizuumi,湖.gif
 598,向,,口,1981,6,3,3,"Kuchi, Kuchihen",over there,அங்கே,コウ、む-く、む-ける、む-かう、む-こう,キョウ、さき,会意 Com. Ideographic,koo,"mu(ku), mu(keru), mu(kau), mu(koo)",向.gif
 610,幸,,干,1981,8,3,3,Ichijuu,happiness,மகிழ்ச்சி,コウ、さいわ-い、さち、しあわ-せ,みゆき,象形 Pictographic,koo,"saiwa(i), sachi, shiawa(se)",幸.gif
@@ -298,7 +298,7 @@
 651,号,號,虍,1981,5,3,3,"Kuchi, Kuchihen",number,எண்,ゴウ,,会意 Com. Ideographic,goo,-,号.gif
 674,根,,木,1981,10,3,2,"Ki, Kihen",root,வேர்,コン、ね,,形声 Phonetic,kon,ne,根.gif
 704,祭,,示,1981,11,3,2,"Shimesu, Shimesuhen",festival,திருவிழா,サイ、まつ-る、まつ-り,,会意 Com. Ideographic,sai,"matsu(ru), matsu(ri)",祭.gif
-743,皿,,皿,1981,5,3,2,Sara,dish,உணவு தட்டு / கிண்ணம்,さら,,象形 Pictographic,-,sara,皿.gif
+743,皿,,皿,1981,5,3,2,Sara,dish,உணவு தட்டு / பானை,さら,,象形 Pictographic,-,sara,皿.gif
 764,仕,,人,1981,5,3,4,"Hito, Ninben, Hitoyane",do,செய்,シ、[ジ]、つか-える,,形声 Phonetic,"shi, [ji]",tsuka(eru),仕.gif
 771,死,,歹,1981,6,3,4,Kabanehen,death,மரணம்,シ、し-ぬ,,会意 Com. Ideographic,shi,shi(nu),死.gif
 777,使,,人,1981,8,3,4,"Hito, Ninben, Hitoyane",use,பயன்படுத்து,シ、つか-う,,形声 Phonetic,shi,tsuka(u),使.gif
@@ -307,7 +307,7 @@
 795,歯,齒,齒,1981,12,3,3,"Ha, Hahen",tooth,பல்,シ、は,,形声 Phonetic,shi,ha,歯.gif
 798,詩,,言,1981,13,3,1,"Gon, Gonben",poem,கவிதை,シ,うた,形声 Phonetic,shi,-,詩.gif
 809,次,,欠,1981,6,3,3,Akubi,next,அடுத்த,ジ、シ、つ-ぐ、つぎ,と,象形 Pictographic,"ji, shi","tsu(gu), tsugi",次.gif
-814,事,,亅,1981,8,3,4,Haneboo,abstract thing,விசயம்,ジ、[ズ]、こと,シ、つか,会意 Com. Ideographic,"ji, [zu]",koto,事.gif
+814,事,,亅,1981,8,3,4,Haneboo,abstract thing,추상ப் பொருள் / கருத்து,ジ、[ズ]、こと,シ、つか,会意 Com. Ideographic,"ji, [zu]",koto,事.gif
 817,持,,手,1981,9,3,4,Tehen,hold,பிடி,ジ、も-つ,チ,形声 Phonetic,ji,mo(tsu),持.gif
 826,式,,弋,1981,6,3,3,Shikigamae,style,நடை / பாணி,シキ,ショク、のり,会意 Com. Ideographic,shiki,-,式.gif
 839,実,實,宀,1981,8,3,3,Ukanmuri,truth,உண்மை,ジツ、み、みの-る,,会意 Com. Ideographic,jitsu,"mi, mino(ru)",実.gif
@@ -317,36 +317,36 @@
 865,守,,宀,1981,6,3,3,Ukanmuri,protect,காப்பாற்று,シュ、[ス]、まも-る、も-り,,会意 Com. Ideographic,"shu, [su]","mamo(ru), mo(ri)",守.gif
 867,取,,又,1981,8,3,3,Mata,take,எடு,シュ、と-る,ス,会意 Com. Ideographic,shu,to(ru),取.gif
 872,酒,,酉,1981,10,3,3,"Tori, Torihen",alcoholic drink,மது,シュ、さけ、[さか],,形声 Phonetic,shu,"sake, [saka]",酒.gif
-877,受,,又,1981,8,3,3,Mata,accept,ஏற்றுக்கொள்,ジュ、う-ける、う-かる,,会意 Com. Ideographic,ju,"u(keru), u(karu)",受.gif
-885,州,,巛,1981,6,3,2,Magarigawa,state,நிலை,シュウ、す,,象形 Pictographic,shuu,su,州.gif
+877,受,,又,1981,8,3,3,Mata,accept,ஏற்று,ジュ、う-ける、う-かる,,会意 Com. Ideographic,ju,"u(keru), u(karu)",受.gif
+885,州,,巛,1981,6,3,2,Magarigawa,state,நிலை / மாநிலம்,シュウ、す,,象形 Pictographic,shuu,su,州.gif
 890,拾,,手,1981,9,3,2,Tehen,pick up,எடு / பொறுக்கு,シュウ、ジュウ、ひろ-う,,形声 Phonetic,"shuu, juu",hiro(u),拾.gif
 895,終,,糸,1981,11,3,4,"Ito, Itohen",end,முடிவு,シュウ、お-わる、お-える,つい,形声 Phonetic,shuu,"o(waru), o(eru)",終.gif
 897,習,,羽,1981,11,3,4,Hane,learn,கற்று கொள்,シュウ、なら-う,,会意 Com. Ideographic,shuu,nara(u),習.gif
 901,集,,隹,1981,12,3,4,Furutori,collect,சேகரி,シュウ、あつ-まる、あつ-める、つど-う,,会意 Com. Ideographic,shuu,"atsu(maru), atsu(meru), tsudo(u)",集.gif
-910,住,,人,1981,7,3,4,"Hito, Ninben, Hitoyane",dwelling,"தங்கு, வாழ்",ジュウ、す-む、す-まう,,形声 Phonetic,juu,"su(mu), su(mau)",住.gif
+910,住,,人,1981,7,3,4,"Hito, Ninben, Hitoyane",dwelling,குடியிருப்பு,ジュウ、す-む、す-まう,,形声 Phonetic,juu,"su(mu), su(mau)",住.gif
 912,重,,里,1981,9,3,4,"Sato, Satohen",heavy,கனமான,ジュウ、チョウ、え、おも-い、かさ-ねる、かさ-なる,,会意 Com. Ideographic,"juu, choo","e, omo(i), kasa(neru), kasa(naru)",重.gif
 920,宿,,宀,1981,11,3,3,Ukanmuri,inn,சத்திரம் / விடுதி,シュク、やど、やど-る、やど-す,スク、シュ,会意 Com. Ideographic,shuku,"yado, yado(ru), yado(su)",宿.gif
-945,所,,戶,1981,8,3,3,"To, Tokanmuri",place,இடம் (?),ショ、ところ,ソ、ゾ、ら,会意 Com. Ideographic,sho,tokoro,所.gif
+945,所,,戶,1981,8,3,3,"To, Tokanmuri",place,இடம்,ショ、ところ,ソ、ゾ、ら,会意 Com. Ideographic,sho,tokoro,所.gif
 948,暑,暑 [4],日,1981,12,3,3,"Nichi, Nichihen",hot,சூடான,ショ、あつ-い,,形声 Phonetic,sho,atsu(i),暑.gif
 954,助,,力,1981,7,3,3,Chikara,help,உதவி,ジョ、たす-ける、たす-かる、すけ,ソ,会意 Com. Ideographic,jo,"tasu(keru), tasu(karu), suke",助.gif
 973,昭,,日,1981,9,3,1,"Nichi, Nichihen",shining,பிரகாசமான,ショウ,あき、て,形声 Phonetic,shoo,-,昭.gif
-976,消,,水,1981,10,3,3,"Mizu, Sanzui, Shitamizu",extinguish,"அணை, அழி",ショウ、き-える、け-す,,形声 Phonetic,shoo,"ki(eru), ke(su)",消.gif
-982,商,,口,1981,11,3,3,"Kuchi, Kuchihen",sell,விற்றல்,ショウ、あきな-う,あきんど,会意 Com. Ideographic,shoo,akina(u),商.gif
+976,消,,水,1981,10,3,3,"Mizu, Sanzui, Shitamizu",extinguish,அணை,ショウ、き-える、け-す,,形声 Phonetic,shoo,"ki(eru), ke(su)",消.gif
+982,商,,口,1981,11,3,3,"Kuchi, Kuchihen",sell,விற்று விடு,ショウ、あきな-う,あきんど,会意 Com. Ideographic,shoo,akina(u),商.gif
 984,章,,立,1981,11,3,2,Tatsu,chapter,அத்தியாயம்,ショウ,あき,象形 Pictographic,shoo,-,章.gif
-987,勝,,力,1981,12,3,3,Chikara,win,வெற்றி,ショウ、か-つ、まさ-る,すぐ、た,形声 Phonetic,shoo,"ka(tsu), masa(ru)",勝.gif
+987,勝,,力,1981,12,3,3,Chikara,win,வெற்றி பெறு,ショウ、か-つ、まさ-る,すぐ、た,形声 Phonetic,shoo,"ka(tsu), masa(ru)",勝.gif
 1014,乗,乘,丿,1981,9,3,3,No,ride,சவாரி செய் / ஏறு,ジョウ、の-る、の-せる,,会意 Com. Ideographic,joo,"no(ru), no(seru)",乗.gif
 1032,植,,木,1981,12,3,2,"Ki, Kihen",plant,தாவரம்,ショク、う-える、う-わる,,形声 Phonetic,shoku,"u(eru), u(waru)",植.gif
 1042,申,,田,1981,5,3,3,"Ta, Tahen",say,சொல்,シン、もう-す,さる,象形 Pictographic,shin,moo(su),申.gif
 1046,身,,身,1981,7,3,3,Mi,body,உடல்,シン、み,,象形 Pictographic,shin,mi,身.gif
 1051,神,神 [4],示,1981,9,3,3,"Shimesu, Shimesuhen",god,கடவுள்,シン、ジン、かみ、[かん]、[こう],,形声 Phonetic,"shin, jin","kami, [kan], [koo]",神.gif
-1056,真,眞,目,1981,10,3,4,"Me, Mehen","true, real",உண்மை,シン、ま,,会意 Com. Ideographic,shin,ma,真.gif
+1056,真,眞,目,1981,10,3,4,"Me, Mehen",TRUE,உண்மை,シン、ま,,会意 Com. Ideographic,shin,ma,真.gif
 1058,深,,水,1981,11,3,3,"Mizu, Sanzui, Shitamizu",deep,ஆழமான,シン、ふか-い、ふか-まる、ふか-める,み,形声 Phonetic,shin,"fuka(i), fuka(maru), fuka(meru)",深.gif
 1060,進,,辵,1981,11,3,3,Shinnyoo,advance,முன்னேறு,シン、すす-む、すす-める,,形声 Phonetic,shin,"susu(mu), susu(meru)",進.gif
 1105,世,,一,1981,5,3,4,Ichi,world,உலகம்,セイ、セ、よ,,象形 Pictographic,"sei, se",yo,世.gif
 1135,整,,攴,1981,16,3,2,Nobun,put in order,ஒழுங்குபடுத்து,セイ、ととの-える、ととの-う,,形声 Phonetic,sei,"totono(eru), totono(u)",整.gif
 1142,昔,,日,1981,8,3,3,"Nichi, Nichihen",long ago,வெகுகாலம் முன்பு,セキ、[シャク]、むかし,,仮借 Loan,"seki, [shaku]",mukashi,昔.gif
 1196,全,,入,1981,6,3,3,"Hito, Ninben, Hitoyane",whole,முழு,ゼン、まった-く、すべ-て,まっと,象形 Pictographic,zen,"matta(ku), sube(te)",全.gif
-1223,相,,目,1981,9,3,3,"Me, Mehen",mutual,பரஸ்பர (?),ソウ、ショウ、あい,,会意 Com. Ideographic,"soo, shoo",ai,相.gif
+1223,相,,目,1981,9,3,3,"Me, Mehen",mutual,பரஸ்பர,ソウ、ショウ、あい,,会意 Com. Ideographic,"soo, shoo",ai,相.gif
 1226,送,,辵,1981,9,3,4,Shinnyoo,send,அனுப்பு,ソウ、おく-る,,形声 Phonetic,soo,oku(ru),送.gif
 1243,想,,心,1981,13,3,3,"Kokoro, Risshinben, Shitagokoro",concept,கருத்து,ソウ、[ソ],おも,形声 Phonetic,"soo, [so]",-,想.gif
 1266,息,,心,1981,10,3,3,"Kokoro, Risshinben, Shitagokoro",breath,மூச்சு,ソク、いき,むすこ、やす,会意 Com. Ideographic,soku,iki,息.gif
@@ -356,7 +356,7 @@
 1287,打,,手,1981,5,3,3,Tehen,hit,அடி,ダ、う-つ,チョウ,会意 Com. Ideographic,da,u(tsu),打.gif
 1294,対,對,寸,1981,7,3,3,Sun,opposite,எதிர்,タイ、ツイ,,会意 Com. Ideographic,"tai, tsui",-,対.gif
 1297,待,,彳,1981,9,3,4,Gyooninben,wait,காத்திரு,タイ、ま-つ,,形声 Phonetic,tai,ma(tsu),待.gif
-1313,代,,人,1981,5,3,4,"Hito, Ninben, Hitoyane",substitute,காலம் / மாற்று,ダイ、タイ、か-わる、か-える、よ、しろ,,形声 Phonetic,"dai, tai","ka(waru), ka(eru), yo, shiro",代.gif
+1313,代,,人,1981,5,3,4,"Hito, Ninben, Hitoyane",substitute,மாற்று / பதிலி,ダイ、タイ、か-わる、か-える、よ、しろ,,形声 Phonetic,"dai, tai","ka(waru), ka(eru), yo, shiro",代.gif
 1315,第,,竹,1981,11,3,2,"Take, Takekanmuri",ordinal number prefix,வரிசை எண் முன்னொட்டு,ダイ,,形声 Phonetic,dai,-,第.gif
 1316,題,,頁,1981,18,3,4,Oogai,topic,தலைப்பு,ダイ,,形声 Phonetic,dai,-,題.gif
 1337,炭,,火,1981,9,3,2,"Hi, Hihen, Renga",charcoal,கரி,タン、すみ,,会意 Com. Ideographic,tan,sumi,炭.gif
@@ -370,23 +370,23 @@
 1415,調,,言,1981,15,3,3,"Gon, Gonben",investigate,விசாரி,チョウ、しら-べる、ととの-う、ととの-える,つき,形声 Phonetic,choo,"shira(beru), totono(u), totono(eru)",調.gif
 1427,追,,辵,1981,9,3,3,Shinnyoo,follow,பின்பற்று,ツイ、お-う,,会意 Com. Ideographic,tsui,o(u),追.gif
 1441,定,,宀,1981,8,3,3,Ukanmuri,decide,தீர்மானி,テイ、ジョウ、さだ-める、さだ-まる、さだ-か,,会意 Com. Ideographic,"tei, joo","sada(meru), sada(maru), sada(ka)",定.gif
-1449,庭,,广,1981,10,3,3,Madare,garden,தோட்டம் (?),テイ、にわ,,形声 Phonetic,tei,niwa,庭.gif
+1449,庭,,广,1981,10,3,3,Madare,garden,தோட்டம்,テイ、にわ,,形声 Phonetic,tei,niwa,庭.gif
 1461,笛,,竹,1981,11,3,1,"Take, Takekanmuri",flute,புல்லாங்குழல்,テキ、ふえ,,形声 Phonetic,teki,fue,笛.gif
 1469,鉄,鐵,金,1981,13,3,2,"Kane, Kanehen",iron,இரும்பு,テツ,くろがね,形声 Phonetic,tetsu,-,鉄.gif
-1478,転,轉,車,1981,11,3,4,"Kuruma, Kurumahen",revolve,"சுழல், திருப்பு",テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶ,うた,形声 Phonetic,ten,"koro(garu), koro(geru), koro(gasu), koro(bu)",転.gif
+1478,転,轉,車,1981,11,3,4,"Kuruma, Kurumahen",revolve,சுழல்,テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶ,うた,形声 Phonetic,ten,"koro(garu), koro(geru), koro(gasu), koro(bu)",転.gif
 1489,都,都 [4],邑,1981,11,3,3,Oozato,metropolis,பெருநகரம்,ト、ツ、みやこ,す、ず,形声 Phonetic,"to, tsu",miyako,都.gif
 1496,度,,广,1981,9,3,4,Madare,degrees,டிகிரி / அளவுகள்,ド、[ト]、[タク]、たび,わた、た,会意 Com. Ideographic,"do, [to], [taku]",tabi,度.gif
 1502,投,,手,1981,7,3,3,Tehen,throw,எறி,トウ、な-げる,,会意 Com. Ideographic,too,na(geru),投.gif
-1503,豆,,豆,1981,7,3,1,Mame,bean,பருப்பு,トウ、[ズ]、まめ,,象形 Pictographic,"too, [zu]",mame,豆.gif
+1503,豆,,豆,1981,7,3,1,Mame,bean,பருப்பு / பீன்,トウ、[ズ]、まめ,,象形 Pictographic,"too, [zu]",mame,豆.gif
 1510,島,,山,1981,10,3,2,"Yama, Yamahen",island,தீவு,トウ、しま,,会意 Com. Ideographic,too,shima,島.gif
 1521,湯,,水,1981,12,3,2,"Mizu, Sanzui, Shitamizu",hot water,சூடுநீர்,トウ、ゆ,タン,形声 Phonetic,too,yu,湯.gif
 1523,登,,癶,1981,12,3,3,Hatsugashira,climb,ஏறு,トウ、ト、のぼ-る,の,会意 Com. Ideographic,"too, to",nobo(ru),登.gif
-1525,等,,竹,1981,12,3,3,"Take, Takekanmuri",class,"வகுப்பு, தரம்",トウ、ひと-しい,ら、ま,形声 Phonetic,too,hito(shii),等.gif
+1525,等,,竹,1981,12,3,3,"Take, Takekanmuri",class,வகுப்பு,トウ、ひと-しい,ら、ま,形声 Phonetic,too,hito(shii),等.gif
 1539,動,,力,1981,11,3,4,Chikara,move,நகர்த்து,ドウ、うご-く、うご-かす,,形声 Phonetic,doo,"ugo(ku), ugo(kasu)",動.gif
 1541,童,,立,1981,12,3,2,Tatsu,juvenile,இளைய / சிறுவயது,ドウ、わらべ,わらわ,形声 Phonetic,doo,warabe,童.gif
 1602,農,,辰,1981,13,3,2,Shinnotatsu,farming,விவசாயம்,ノウ,ノ,会意 Com. Ideographic,noo,-,農.gif
 1605,波,,水,1981,8,3,2,"Mizu, Sanzui, Shitamizu",wave,அலை,ハ、なみ,,形声 Phonetic,ha,nami,波.gif
-1617,配,,酉,1981,10,3,3,"Tori, Torihen",distribute,பகிர்,ハイ、くば-る,,会意 Com. Ideographic,hai,kuba(ru),配.gif
+1617,配,,酉,1981,10,3,3,"Tori, Torihen",distribute,பகிரி,ハイ、くば-る,,会意 Com. Ideographic,hai,kuba(ru),配.gif
 1623,倍,,人,1981,10,3,2,"Hito, Ninben, Hitoyane",double,இரட்டை,バイ,ベ,形声 Phonetic,bai,-,倍.gif
 1643,箱,,竹,1981,15,3,3,"Take, Takekanmuri",box,பெட்டி,はこ,,形声 Phonetic,-,hako,箱.gif
 1645,畑,,田,1981,9,3,0,"Ta, Tahen",farm,பண்ணை,はた、はたけ,,国字 Original,-,"hata, hatake",畑.gif
@@ -398,16 +398,16 @@
 1697,悲,,心,1981,12,3,3,"Kokoro, Risshinben, Shitagokoro",sad,சோகமான,ヒ、かな-しい、かな-しむ,,形声 Phonetic,hi,"kana(shii), kana(shimu)",悲.gif
 1705,美,,羊,1981,9,3,3,Hitsuji,beauty,அழகு,ビ、うつく-しい,ミ、うま、よ,象形 Pictographic,bi,utsuku(shii),美.gif
 1708,鼻,,鼻,1981,14,3,2,Hana,nose,மூக்கு,ビ、はな,,形声 Phonetic,bi,hana,鼻.gif
-1714,筆,,竹,1981,12,3,2,"Take, Takekanmuri",writing brush,தூரிகை,ヒツ、ふで,,会意 Com. Ideographic,hitsu,fude,筆.gif
+1714,筆,,竹,1981,12,3,2,"Take, Takekanmuri",writing brush,எழுத்துகூர்மை / தூரிகை,ヒツ、ふで,,会意 Com. Ideographic,hitsu,fude,筆.gif
 1717,氷,,水,1981,5,3,2,"Mizu, Sanzui, Shitamizu",ice,பனி,ヒョウ、こおり、ひ,こお,象形 Pictographic,hyoo,"koori, hi",氷.gif
 1718,表,,衣,1981,8,3,3,"Koromo, Koromohen",express,வெளிப்படுத்து,ヒョウ、おもて、あらわ-す、あらわ-れる,,会意 Com. Ideographic,hyoo,"omote, arawa(su), arawa(reru)",表.gif
-1725,秒,,禾,1981,9,3,2,"Nogi, Nogihen",second (part of time),விநாடி,ビョウ,,会意 Com. Ideographic,byoo,-,秒.gif
-1726,病,,疒,1981,10,3,4,Yamaidare,sick,நோய்,ビョウ、[ヘイ]、や-む、やまい,うれ,形声 Phonetic,"byoo, [hei]","ya(mu), yamai",病.gif
+1725,秒,,禾,1981,9,3,2,"Nogi, Nogihen",second (part of time),விநாடி / செகண்டு,ビョウ,,会意 Com. Ideographic,byoo,-,秒.gif
+1726,病,,疒,1981,10,3,4,Yamaidare,sick,நோயுற்ற,ビョウ、[ヘイ]、や-む、やまい,うれ,形声 Phonetic,"byoo, [hei]","ya(mu), yamai",病.gif
 1729,品,,口,1981,9,3,4,"Kuchi, Kuchihen",article,கட்டுரை,ヒン、しな,ホン、ポン、ボン,会意 Com. Ideographic,hin,shina,品.gif
 1747,負,,貝,1981,9,3,3,"Kai, Kaihen",lose,இழ,フ、ま-ける、ま-かす、お-う,,会意 Com. Ideographic,fu,"ma(keru), ma(kasu), o(u)",負.gif
 1761,部,,邑,1981,11,3,3,Oozato,part,பகுதி,ブ,フ、わ、べ,形声 Phonetic,bu,-,部.gif
 1766,服,,月,1981,8,3,4,"Tsuki, Tsukihen",clothes,உடைகள்,フク,,形声 Phonetic,fuku,-,服.gif
-1770,福,福 [4],示,1981,13,3,3,"Shimesu, Shimesuhen",luck,"பாக்கியம், அதிர்ஷ்டம்",フク,,形声 Phonetic,fuku,-,福.gif
+1770,福,福 [4],示,1981,13,3,3,"Shimesu, Shimesuhen",luck,அதிர்ஷ்டம்,フク,,形声 Phonetic,fuku,-,福.gif
 1777,物,,牛,1981,8,3,4,"Ushi, Ushihen",thing,பொருள்,ブツ、モツ、もの,,形声 Phonetic,"butsu, motsu",mono,物.gif
 1789,平,,干,1981,5,3,3,Ichijuu,flat,சமமான,ヘイ、ビョウ、たい-ら、ひら,ヒョウ、ピョウ,会意 Com. Ideographic,"hei, byoo","tai(ra), hira",平.gif
 1809,返,,辵,1981,7,3,3,Shinnyoo,return,திரும்பு,ヘン、かえ-す、かえ-る,,形声 Phonetic,hen,"kae(su), kae(ru)",返.gif
@@ -416,19 +416,19 @@
 1911,味,,口,1981,8,3,4,"Kuchi, Kuchihen",flavor,சுவை,ミ、あじ、あじ-わう,,形声 Phonetic,mi,"aji, aji(wau)",味.gif
 1927,命,,口,1981,8,3,3,"Kuchi, Kuchihen",fate,விதி,メイ、ミョウ、いのち,,会意 Com. Ideographic,"mei, myoo",inochi,命.gif
 1936,面,,面,1981,9,3,3,Men,face,முகம்,メン、おも、おもて、つら,,象形 Pictographic,men,"omo, omote, tsura",面.gif
-1951,問,,口,1981,11,3,4,"Kuchi, Kuchihen",question,கேள்வி (?),モン、と-う、と-い、[とん],,会意 Com. Ideographic,mon,"to(u), to(i), [ton]",問.gif
+1951,問,,口,1981,11,3,4,"Kuchi, Kuchihen",question,கேள்வி,モン、と-う、と-い、[とん],,会意 Com. Ideographic,mon,"to(u), to(i), [ton]",問.gif
 1957,役,,彳,1981,7,3,3,Gyooninben,service,சேவை,ヤク、エキ,,会意 Com. Ideographic,"eki, yaku",-,役.gif
 1960,薬,藥,艸,1981,16,3,3,Kusakanmuri,medicine,மருந்து,ヤク、くすり,,形声 Phonetic,yaku,kusuri,薬.gif
-1963,由,,田,1981,5,3,3,"Ta, Tahen",reason,காரணம் (?),ユ、ユウ、[ユイ]、よし,よ,象形 Pictographic,"yu, yuu, [yui]",yoshi,由.gif
+1963,由,,田,1981,5,3,3,"Ta, Tahen",reason,காரணம்,ユ、ユウ、[ユイ]、よし,よ,象形 Pictographic,"yu, yuu, [yui]",yoshi,由.gif
 1964,油,,水,1981,8,3,2,"Mizu, Sanzui, Shitamizu",oil,எண்ணெய்,ユ、あぶら,,形声 Phonetic,yu,abura,油.gif
 1972,有,,月,1981,6,3,4,"Tsuki, Tsukihen",have,கொண்டிரு,ユウ、ウ、あ-る,ま,会意 Com. Ideographic,"yuu, u",a(ru),有.gif
 1980,遊,,辵,1981,12,3,3,Shinnyoo,play,விளையாடு,ユウ、[ユ]、あそ-ぶ,,形声 Phonetic,"yuu, [yu]",aso(bu),遊.gif
 1987,予,豫,豕,1981,4,3,3,Haneboo,in advance,முன்கூட்டியே,ヨ,あらかじ,象形 Pictographic,yo,-,予.gif
 1993,羊,,羊,1981,6,3,1,Hitsuji,sheep,ஆடு,ヨウ、ひつじ,,象形 Pictographic,yoo,hitsuji,羊.gif
-1995,洋,,水,1981,9,3,4,"Mizu, Sanzui, Shitamizu",ocean,"சமுத்திரம், கடல்",ヨウ,,形声 Phonetic,yoo,-,洋.gif
+1995,洋,,水,1981,9,3,4,"Mizu, Sanzui, Shitamizu",ocean,சமுத்திரம்,ヨウ,,形声 Phonetic,yoo,-,洋.gif
 2001,葉,,艸,1981,12,3,3,Kusakanmuri,leaf,இலை,ヨウ、は,,形声 Phonetic,yoo,ha,葉.gif
 2002,陽,,阜,1981,12,3,3,Kozatohen,sunshine,சூரிய ஒளி,ヨウ,あき、ひ、び,形声 Phonetic,yoo,-,陽.gif
-2005,様,樣,木,1981,14,3,3,"Ki, Kihen",formal title,மரியாதைப்பெயர் / பட்டம்,ヨウ、さま,,形声 Phonetic,yoo,sama,様.gif
+2005,様,樣,木,1981,14,3,3,"Ki, Kihen",formal title,மரியாதைபெயர் / பட்டம்,ヨウ、さま,,形声 Phonetic,yoo,sama,様.gif
 2026,落,,艸,1981,12,3,3,Kusakanmuri,fall,விழு,ラク、お-ちる、お-とす,,形声 Phonetic,raku,"o(chiru), o(tosu)",落.gif
 2050,流,,水,1981,10,3,3,"Mizu, Sanzui, Shitamizu",stream,ஓடை,リュウ、[ル]、なが-れる、なが-す,,会意 Com. Ideographic,"ryuu, [ru]","naga(reru), naga(su)",流.gif
 2057,旅,,方,1981,10,3,4,"Hoo, Hoohen",trip,பயணம்,リョ、たび,,会意 Com. Ideographic,ryo,tabi,旅.gif
@@ -451,9 +451,9 @@
 72,栄,榮,木,1981,9,4,2,"Ki, Kihen",prosperity,செழிப்பு,エイ、さか-える、は-え、は-える,ヨウ,形声 Phonetic,ei,"saka(eru), ha(e), ha(eru)",栄.gif
 100,塩,鹽,鹵,1981,13,4,2,"Tsuchi, Tsuchihen",salt,உப்பு,エン、しお,,形声 Phonetic,en,shio,塩.gif
 120,億,,人,1981,15,4,2,"Hito, Ninben, Hitoyane",hundred million,நூறு கோடி,オク,,形声 Phonetic,oku,-,億.gif
-134,加,,力,1981,5,4,3,Chikara,add,"சேர், கூட்டு",カ、くわ-える、くわ-わる,ケ,会意 Com. Ideographic,ka,"kuwa(eru), kuwa(waru)",加.gif
+134,加,,力,1981,5,4,3,Chikara,add,சேர்,カ、くわ-える、くわ-わる,ケ,会意 Com. Ideographic,ka,"kuwa(eru), kuwa(waru)",加.gif
 141,果,,木,1981,8,4,3,"Ki, Kihen",fruit,பழம்,カ、は-たす、は-てる、は-て,くだもの,象形 Pictographic,ka,"ha(tasu), ha(teru), ha(te)",果.gif
-151,貨,,貝,1981,11,4,2,"Kai, Kaihen",freight,வணிகம்,カ,,形声 Phonetic,ka,-,貨.gif
+151,貨,,貝,1981,11,4,2,"Kai, Kaihen",freight,சரக்குப் போக்குவரத்து,カ,,形声 Phonetic,ka,-,貨.gif
 162,課,,言,1981,15,4,2,"Gon, Gonben",section,பகுதி,カ,,形声 Phonetic,ka,-,課.gif
 168,芽,,艸,1981,8,4,1,Kusakanmuri,bud,மொட்டு,ガ、め,,形声 Phonetic,ga,me,芽.gif
 178,改,,攴,1981,7,4,2,Nobun,reformation,சீரமைப்பு,カイ、あらた-める、あらた-まる,,形声 Phonetic,kai,"arata(meru), arata(maru)",改.gif
@@ -461,7 +461,7 @@
 199,害,,宀,1981,10,4,3,Ukanmuri,harm,தீங்கு,ガイ,,会意 Com. Ideographic,gai,-,害.gif
 202,街,,行,1981,12,4,1,Gyoogamae,street,தெரு,ガイ、[カイ]、まち,,形声 Phonetic,"gai, [kai]",machi,街.gif
 210,各,,口,1981,6,4,2,"Kuchi, Kuchihen",each,ஒவ்வொன்று,カク、おのおの,,会意 Com. Ideographic,kaku,onoono,各.gif
-218,覚,覺,見,1981,12,4,3,Miru,memorize,மனப்பாடம்,カク、おぼ-える、さ-ます、さ-める,,形声 Phonetic,kaku,"obo(eru), sa(masu), sa(meru)",覚.gif
+218,覚,覺,見,1981,12,4,3,Miru,memorize,மனப்பாடம் செய்,カク、おぼ-える、さ-ます、さ-める,,形声 Phonetic,kaku,"obo(eru), sa(masu), sa(meru)",覚.gif
 252,完,,宀,1981,7,4,3,Ukanmuri,perfect,சரியான,カン,,会意 Com. Ideographic,kan,-,完.gif
 254,官,,宀,1981,8,4,3,Ukanmuri,government official,அரசு அதிகாரி,カン,,会意 Com. Ideographic,kan,-,官.gif
 278,管,,竹,1981,14,4,2,"Take, Takekanmuri",pipe,குழாய்,カン、くだ,,形声 Phonetic,kan,kuda,管.gif
@@ -470,8 +470,8 @@
 300,願,,頁,1981,19,4,3,Oogai,request,வேண்டுகோள்,ガン、ねが-う,,形声 Phonetic,gan,nega(u),願.gif
 307,希,,巾,1981,7,4,2,"Haba, Kinben",hope,நம்பிக்கை,キ,ケ、こいねが、まれ,象形 Pictographic,ki,-,希.gif
 312,季,,子,1981,8,4,2,"Ko, Kohen",seasons,பருவங்கள்,キ,すえ,会意 Com. Ideographic,ki,-,季.gif
-313,紀,,糸,1981,9,4,1,"Ito, Itohen",chronicle,"வரலாறு, சகாப்தம்",キ,おさ、のり,形声 Phonetic,ki,-,紀.gif
-325,喜,,口,1981,12,4,3,"Kuchi, Kuchihen",rejoice,மகிழ்,キ、よろこ-ぶ,,会意 Com. Ideographic,ki,yoroko(bu),喜.gif
+313,紀,,糸,1981,9,4,1,"Ito, Itohen",chronicle,வரலாற்றுப் பதிவு,キ,おさ、のり,形声 Phonetic,ki,-,紀.gif
+325,喜,,口,1981,12,4,3,"Kuchi, Kuchihen",rejoice,மகிழ்ச்சி கொள்,キ、よろこ-ぶ,,会意 Com. Ideographic,ki,yoroko(bu),喜.gif
 333,旗,,方,1981,14,4,1,"Hoo, Hoohen",national flag,தேசிய கொடி,キ、はた,,形声 Phonetic,ki,hata,旗.gif
 334,器,器 [4],口,1981,15,4,1,"Kuchi, Kuchihen",container,கொள்கலம்,キ、うつわ,,会意 Com. Ideographic,ki,utsuwa,器.gif
 337,機,,木,1981,16,4,3,"Ki, Kihen",machine,இயந்திரம்,キ、はた,,形声 Phonetic,ki,hata,機.gif
@@ -481,15 +481,15 @@
 376,救,,攴,1981,11,4,1,Nobun,salvation,மீட்பு,キュウ、すく-う,ク,会意 Com. Ideographic,kyuu,suku(u),救.gif
 378,給,,糸,1981,12,4,3,"Ito, Itohen",salary,சம்பளம்,キュウ,たま,形声 Phonetic,kyuu,-,給.gif
 387,挙,擧,手,1981,10,4,1,Te,raise,உயர்த்து,キョ、あ-げる、あ-がる,コ,会意 Com. Ideographic,kyo,"a(geru), a(garu)",挙.gif
-393,漁,,水,1981,14,4,2,"Mizu, Sanzui, Shitamizu",fishing,மீன்பிடி,ギョ、リョウ,すなど、あさ,形声 Phonetic,"gyo, ryoo",-,漁.gif
+393,漁,,水,1981,14,4,2,"Mizu, Sanzui, Shitamizu",fishing,மீன்பிடித்தல்,ギョ、リョウ,すなど、あさ,形声 Phonetic,"gyo, ryoo",-,漁.gif
 395,共,,八,1981,6,4,3,Hachi,together,ஒன்றாக,キョウ、とも,,会意 Com. Ideographic,kyoo,tomo,共.gif
 401,協,,十,1981,8,4,2,Juu,cooperation,ஒத்துழைப்பு,キョウ,,形声 Phonetic,kyoo,-,協.gif
 416,鏡,,金,1981,19,4,1,"Kane, Kanehen",mirror,கண்ணாடி,キョウ、かがみ,,形声 Phonetic,kyoo,kagami,鏡.gif
-417,競,,立,1981,20,4,2,Tatsu,compete,போட்டியிடு,キョウ、ケイ、きそ-う、せ-る,,会意 Com. Ideographic,"kyoo, kei","kiso(u), se(ru)",競.gif
+417,競,,立,1981,20,4,2,Tatsu,compete,போட்டி செய்,キョウ、ケイ、きそ-う、せ-る,,会意 Com. Ideographic,"kyoo, kei","kiso(u), se(ru)",競.gif
 426,極,,木,1981,12,4,2,"Ki, Kihen",poles,துருவங்கள்,キョク、ゴク、きわ-める、きわ-まる、きわ-み,,形声 Phonetic,"kyoku, goku","kiwa(meru), kiwa(maru), kiwa(mi)",極.gif
 463,訓,,言,1981,10,4,2,"Gon, Gonben",instruction,வழிமுறை,クン,キン,形声 Phonetic,kun,-,訓.gif
 466,軍,,車,1981,9,4,2,"Kuruma, Kurumahen",army,இராணுவம்,グン,いくさ,象形 Pictographic,gun,-,軍.gif
-467,郡,,邑,1981,10,4,1,Oozato,county,நாடு (மாவட்டம் அளவு),グン,こおり、ごおり,形声 Phonetic,gun,-,郡.gif
+467,郡,,邑,1981,10,4,1,Oozato,county,மாவட்டம்,グン,こおり、ごおり,形声 Phonetic,gun,-,郡.gif
 473,径,徑,彳,1981,8,4,1,Gyooninben,diameter,விட்டம்,ケイ,みち,形声 Phonetic,kei,-,径.gif
 476,型,,土,1981,9,4,2,"Tsuchi, Tsuchihen",model,மாதிரி,ケイ、かた,,形声 Phonetic,kei,kata,型.gif
 486,景,,日,1981,12,4,3,"Nichi, Nichihen",scenery,காட்சியமைப்பு,ケイ,キョウ、かげ,形声 Phonetic,kei,-,景.gif
@@ -501,17 +501,17 @@
 543,験,驗,馬,1981,18,4,4,"Uma, Umahen",test,சோதனை,ケン、[ゲン],しるし,形声 Phonetic,"ken, [gen]",-,験.gif
 561,固,,囗,1981,8,4,2,Kunigamae,hard,கடினம்,コ、かた-める、かた-まる、かた-い,,会意 Com. Ideographic,ko,"kata(meru), kata(maru), kata(i)",固.gif
 592,功,,力,1981,5,4,1,Chikara,achievement,சாதனை,コウ、[ク],いさお,形声 Phonetic,"koo, [ku]",-,功.gif
-600,好,,女,1981,6,4,3,"Onna, Onnahen",like,பிடித்த,コウ、この-む、す-く,よしみ、よ,会意 Com. Ideographic,koo,"kono(mu), su(ku)",好.gif
+600,好,,女,1981,6,4,3,"Onna, Onnahen",like,பிடி,コウ、この-む、す-く,よしみ、よ,会意 Com. Ideographic,koo,"kono(mu), su(ku)",好.gif
 622,候,,人,1981,10,4,3,"Hito, Ninben, Hitoyane",climate,காலநிலை,コウ、そうろう,そうろ,形声 Phonetic,koo,sooroo,候.gif
-625,航,,舟,1981,10,4,2,"Fune, Funehen",cruise,சுற்றுலாக்கப்பல்,コウ,,形声 Phonetic,koo,-,航.gif
+625,航,,舟,1981,10,4,2,"Fune, Funehen",cruise,பயணக் கப்பல் சுற்றுலா,コウ,,形声 Phonetic,koo,-,航.gif
 629,康,,广,1981,11,4,2,Madare,health,ஆரோக்கியம்,コウ,やす,会意 Com. Ideographic,koo,-,康.gif
 658,告,,口,1981,7,4,3,"Kuchi, Kuchihen",tell,சொல்,コク、つ-げる,,象形 Pictographic,koku,tsu(geru),告.gif
 688,差,,工,1981,10,4,3,"E, Takumihen",distinction,வேறுபாடு,サ、さ-す,,形声 Phonetic,sa,sa(su),差.gif
 707,菜,,艸,1981,11,4,3,Kusakanmuri,vegetable,காய்கறி,サイ、な,,形声 Phonetic,sai,na,菜.gif
 708,最,,曰,1981,12,4,3,Hirabi,most,மிகவும்,サイ、もっと-も,,会意 Com. Ideographic,sai,motto(mo),最.gif
 718,材,,木,1981,7,4,2,"Ki, Kihen",lumber,மரப்பொருள்,ザイ,,形声 Phonetic,zai,-,材.gif
-725,昨,,日,1981,9,4,3,"Nichi, Nichihen",previous,முந்தைய,サク,きのう,形声 Phonetic,saku,-,昨.gif
-734,札,,木,1981,5,4,2,"Ki, Kihen",tag,குறிப்புச்சீட்டு,サツ、ふだ,,会意 Com. Ideographic,satsu,fuda,札.gif
+725,昨,,日,1981,9,4,3,"Nichi, Nichihen",previous,முன்னைய,サク,きのう,形声 Phonetic,saku,-,昨.gif
+734,札,,木,1981,5,4,2,"Ki, Kihen",tag,குறிச்சீட்டு,サツ、ふだ,,会意 Com. Ideographic,satsu,fuda,札.gif
 735,刷,,刀,1981,8,4,2,"Katana, Rittoo",printing,அச்சிடுதல்,サツ、す-る,はけ、ばけ,会意 Com. Ideographic,satsu,su(ru),刷.gif
 738,殺,殺 [4],殳,1981,10,4,3,Rumata,kill,கொல்,サツ、[サイ]、[セツ]、ころ-す,,会意 Com. Ideographic,"satsu, [sai], [setsu]",koro(su),殺.gif
 739,察,,宀,1981,14,4,3,Ukanmuri,guess,ஊகம்,サツ,,会意 Com. Ideographic,satsu,-,察.gif
@@ -519,14 +519,14 @@
 750,産,,生,1981,11,4,3,Umareru,give birth,பிறப்பு அளி,サン、う-む、う-まれる、うぶ,,会意 Com. Ideographic,san,"u(mu), u(mareru), ubu",産.gif
 752,散,,攴,1981,12,4,3,Nobun,scatter,சிதறு,サン、ち-る、ち-らす、ち-らかす、ち-らかる,,会意 Com. Ideographic,san,"chi(ru), chi(rasu), chi(rakasu), chi(rakaru)",散.gif
 756,残,殘,歹,1981,10,4,3,Kabanehen,remainder,மீதம்,ザン、のこ-る、のこ-す,,形声 Phonetic,zan,"noko(ru), noko(su)",残.gif
-759,士,,士,1981,3,4,1,Samurai,gentleman,மாண்புமிக்கவர்,シ,,象形 Pictographic,shi,-,士.gif
+759,士,,士,1981,3,4,1,Samurai,gentleman,மாண்புமிகு,シ,,象形 Pictographic,shi,-,士.gif
 763,氏,,氏,1981,4,4,1,Uji,family name,குடும்பப் பெயர்,シ、うじ,,象形 Pictographic,shi,uji,氏.gif
 765,史,,口,1981,5,4,2,"Kuchi, Kuchihen",history,வரலாறு,シ,ふみ,会意 Com. Ideographic,shi,-,史.gif
 766,司,,口,1981,5,4,2,"Kuchi, Kuchihen",director,இயக்குநர்,シ,ス、ズ、つかさど、つかさ,会意 Com. Ideographic,shi,-,司.gif
-797,試,,言,1981,13,4,4,"Gon, Gonben",test,"முயற்சி, சோதனை",シ、こころ-みる、ため-す,,形声 Phonetic,shi,"kokoro(miru), tame(su)",試.gif
+797,試,,言,1981,13,4,4,"Gon, Gonben",test,சோதனை,シ、こころ-みる、ため-す,,形声 Phonetic,shi,"kokoro(miru), tame(su)",試.gif
 813,児,兒,儿,1981,7,4,2,Hitoashi,child,குழந்தை,ジ、[ニ],こ、ご,象形 Pictographic,"ji, [ni]",-,児.gif
-816,治,,水,1981,8,4,3,"Mizu, Sanzui, Shitamizu",govern,ஆட்சி,ジ、チ、おさ-める、おさ-まる、なお-る、なお-す,,形声 Phonetic,"chi, ji","osa(meru), osa(maru), nao(ru), nao(su)",治.gif
-821,辞,辭,辛,1981,13,4,3,Karai,resign,விலகு,ジ、や-める,,会意 Com. Ideographic,ji,ya(meru),辞.gif
+816,治,,水,1981,8,4,3,"Mizu, Sanzui, Shitamizu",govern,ஆட்சி செய்,ジ、チ、おさ-める、おさ-まる、なお-る、なお-す,,形声 Phonetic,"chi, ji","osa(meru), osa(maru), nao(ru), nao(su)",治.gif
+821,辞,辭,辛,1981,13,4,3,Karai,resign,இராஜினாமா செய்,ジ、や-める,,会意 Com. Ideographic,ji,ya(meru),辞.gif
 831,失,,大,1981,5,4,3,Dai,lose,இழ,シツ、うしな-う,,象形 Pictographic,shitsu,ushina(u),失.gif
 856,借,,人,1981,10,4,4,"Hito, Ninben, Hitoyane",borrow,கடன் வாங்கு,シャク、か-りる,,形声 Phonetic,shaku,ka(riru),借.gif
 874,種,,禾,1981,14,4,3,"Nogi, Nogihen",kind,அன்பான,シュ、たね,,形声 Phonetic,shu,tane,種.gif
@@ -534,14 +534,14 @@
 919,祝,祝 [4],示,1981,9,4,2,"Shimesu, Shimesuhen",celebrate,கொண்டாடு,シュク、[シュウ]、いわ-う,のりと、ほ,会意 Com. Ideographic,"shuku, [shuu]",iwa(u),祝.gif
 939,順,,頁,1981,12,4,2,Oogai,obey,கீழ்ப்படி,ジュン,したが,形声 Phonetic,jun,-,順.gif
 944,初,,刀,1981,7,4,3,"Katana, Rittoo",first,முதலாவது,ショ、はじ-め、はじ-めて、はつ、うい、そ-める,うぶ,会意 Com. Ideographic,sho,"haji(me), haji(mete), hatsu, ui, so(meru)",初.gif
-971,松,,木,1981,8,4,1,"Ki, Kihen",pine,பைன் (தேவதாரு மரம்),ショウ、まつ,,形声 Phonetic,shoo,matsu,松.gif
+971,松,,木,1981,8,4,1,"Ki, Kihen",pine,பைன்,ショウ、まつ,,形声 Phonetic,shoo,matsu,松.gif
 980,笑,,竹,1981,10,4,3,"Take, Takekanmuri",laugh,சிரி,ショウ、わら-う、え-む,,象形 Pictographic,shoo,"wara(u), e(mu)",笑.gif
-981,唱,,口,1981,11,4,1,"Kuchi, Kuchihen",chant,ஓது,ショウ、とな-える,うた,形声 Phonetic,shoo,tona(eru),唱.gif
+981,唱,,口,1981,11,4,1,"Kuchi, Kuchihen",chant,பாடு,ショウ、とな-える,うた,形声 Phonetic,shoo,tona(eru),唱.gif
 990,焼,燒,火,1981,12,4,2,"Hi, Hihen, Renga",bake,சுடு,ショウ、や-く、や-ける,,形声 Phonetic,shoo,"ya(ku), ya(keru)",焼.gif
 996,象,,豕,1981,12,4,2,Inoko,elephant,யானை,ショウ、ゾウ,に,象形 Pictographic,"shoo, zoo",-,象.gif
 999,照,,火,1981,13,4,2,"Hi, Hihen, Renga",illuminate,ஒளியூட்டு,ショウ、て-る、て-らす、て-れる,,形声 Phonetic,shoo,"te(ru), te(rasu), te(reru)",照.gif
 1005,賞,,貝,1981,15,4,2,"Kai, Kaihen",prize,பரிசு,ショウ,,形声 Phonetic,shoo,-,賞.gif
-1044,臣,,臣,1981,7,4,2,Shin,retainer,"சேவகன், பணியாள்",シン、ジン,おみ,象形 Pictographic,"shin, jin",-,臣.gif
+1044,臣,,臣,1981,7,4,2,Shin,retainer,சேவைமகன்,シン、ジン,おみ,象形 Pictographic,"shin, jin",-,臣.gif
 1049,信,,人,1981,9,4,3,"Hito, Ninben, Hitoyane",trust,நம்பிக்கை,シン,の,会意 Com. Ideographic,shin,-,信.gif
 1108,成,,戈,1981,6,4,3,"Hokogamae, Hokozukuri",become,ஆகு,セイ、[ジョウ]、な-る、な-す,,会意 Com. Ideographic,"sei, [joo]","na(ru), na(su)",成.gif
 1120,省,,目,1981,9,4,2,"Me, Mehen",government ministry,அரசு அமைச்சகம்,セイ、ショウ、かえり-みる、はぶ-く,,形声 Phonetic,"sei, shoo","kaeri(miru), habu(ku)",省.gif
@@ -557,12 +557,12 @@
 1192,選,,辵,1981,15,4,3,Shinnyoo,choose,தேர்ந்தெடு,セン、えら-ぶ,,形声 Phonetic,sen,era(bu),選.gif
 1199,然,,火,1981,12,4,3,"Hi, Hihen, Renga",so,ஆகையால்,ゼン、ネン,しか,会意 Com. Ideographic,"zen, nen",-,然.gif
 1220,争,爭,爪,1981,6,4,3,Ku,conflict,மோதல்,ソウ、あらそ-う,,会意 Com. Ideographic,soo,araso(u),争.gif
-1227,倉,,人,1981,10,4,1,"Hito, Ninben, Hitoyane",warehouse,களஞ்சியம் (?),ソウ、くら,,象形 Pictographic,soo,kura,倉.gif
+1227,倉,,人,1981,10,4,1,"Hito, Ninben, Hitoyane",warehouse,களஞ்சியம்,ソウ、くら,,象形 Pictographic,soo,kura,倉.gif
 1231,巣,巢,巛,1981,11,4,1,Tsukanmuri,nest,கூடு,ソウ、す,,象形 Pictographic,soo,su,巣.gif
 1262,束,,木,1981,7,4,3,"Ki, Kihen",bundle,மூட்டை,ソク、たば,つか、づか,象形 Pictographic,soku,taba,束.gif
 1269,側,,人,1981,11,4,3,"Hito, Ninben, Hitoyane",side,பக்கம்,ソク、がわ,そば,形声 Phonetic,soku,gawa,側.gif
-1275,続,續,糸,1981,13,4,3,"Ito, Itohen",continue,தொடர்,ゾク、つづ-く、つづ-ける,,形声 Phonetic,zoku,"tsuzu(ku), tsuzu(keru)",続.gif
-1276,卒,,十,1981,8,4,2,Juu,graduate,பட்டம்,ソツ,,象形 Pictographic,sotsu,-,卒.gif
+1275,続,續,糸,1981,13,4,3,"Ito, Itohen",continue,தொடர்ந்து செய்,ゾク、つづ-く、つづ-ける,,形声 Phonetic,zoku,"tsuzu(ku), tsuzu(keru)",続.gif
+1276,卒,,十,1981,8,4,2,Juu,graduate,பட்டம் பெற,ソツ,,象形 Pictographic,sotsu,-,卒.gif
 1280,孫,,子,1981,10,4,2,"Ko, Kohen",grandchild,பேரக்குழந்தை,ソン、まご,,会意 Com. Ideographic,son,mago,孫.gif
 1301,帯,帶,巾,1981,10,4,2,"Haba, Kinben",sash,பட்டை ,タイ、お-びる、おび,,象形 Pictographic,tai,"o(biru), obi",帯.gif
 1308,隊,,阜,1981,12,4,1,Kozatohen,group,குழு,タイ,,会意 Com. Ideographic,tai,-,隊.gif
@@ -572,7 +572,7 @@
 1377,仲,,人,1981,6,4,2,"Hito, Ninben, Hitoyane",relationship,உறவு,チュウ、なか,,形声 Phonetic,chuu,naka,仲.gif
 1391,貯,,貝,1981,12,4,2,"Kai, Kaihen",savings,சேமிப்பு,チョ,たくわ,形声 Phonetic,cho,-,貯.gif
 1395,兆,,儿,1981,6,4,2,Hitoashi,"portent, trillion","சகுனம், ஒரு லட்சம் கோடி",チョウ、きざ-す、きざ-し,,象形 Pictographic,choo,"kiza(su), kiza(shi)",兆.gif
-1409,腸,,肉,1981,13,4,1,"Niku, Nikuzuki",intestines,குடல்,チョウ,はらわた,形声 Phonetic,choo,-,腸.gif
+1409,腸,,肉,1981,13,4,1,"Niku, Nikuzuki",intestines,குடல்கள்,チョウ,はらわた,形声 Phonetic,choo,-,腸.gif
 1437,低,,人,1981,7,4,3,"Hito, Ninben, Hitoyane",low,தாழ்,テイ、ひく-い、ひく-める、ひく-まる,,形声 Phonetic,tei,"hiku(i), hiku(meru), hiku(maru)",低.gif
 1442,底,,广,1981,8,4,2,Madare,bottom,அடி,テイ、そこ,,形声 Phonetic,tei,soko,底.gif
 1451,停,,人,1981,11,4,2,"Hito, Ninben, Hitoyane",halt,நிறுத்து,テイ,,形声 Phonetic,tei,-,停.gif
@@ -585,20 +585,20 @@
 1540,堂,,土,1981,11,4,4,"Tsuchi, Tsuchihen",public chamber,பொது மன்றம்,ドウ,,形声 Phonetic,doo,-,堂.gif
 1543,働,,人,1981,13,4,3,"Hito, Ninben, Hitoyane",work,வேலை,ドウ、はたら-く,,形声 Phonetic,doo,hatara(ku),働.gif
 1549,特,,牛,1981,10,4,4,"Ushi, Ushihen",special,சிறப்பு,トク,,形声 Phonetic,toku,-,特.gif
-1550,得,,彳,1981,11,4,3,Gyooninben,acquire,அடை,トク、え-る、う-る,,会意 Com. Ideographic,toku,"e(ru), u(ru)",得.gif
+1550,得,,彳,1981,11,4,3,Gyooninben,acquire,பெறு,トク、え-る、う-る,,会意 Com. Ideographic,toku,"e(ru), u(ru)",得.gif
 1554,毒,,毋,1981,8,4,2,"Haha, Hahanokan",poison,விஷம்,ドク,,象形 Pictographic,doku,-,毒.gif
 1592,熱,,火,1981,15,4,3,"Hi, Hihen, Renga",heat,சூடு,ネツ、あつ-い,,会意 Com. Ideographic,netsu,atsu(i),熱.gif
 1594,念,,心,1981,8,4,3,"Kokoro, Risshinben, Shitagokoro",thought,சிந்தனை,ネン,,形声 Phonetic,nen,-,念.gif
 1619,敗,,攴,1981,11,4,3,Nobun,failure,தோல்வி,ハイ、やぶ-れる,,会意 Com. Ideographic,hai,yabu(reru),敗.gif
-1624,梅,梅 [4],木,1981,10,4,1,"Ki, Kihen",ume (Japanese apricot),ஜப்பானிய பிளம் பழம்,バイ、うめ,メ,形声 Phonetic,bai,ume,梅.gif
-1637,博,,十,1981,12,4,1,Juu,Dr.,முனைவர்,ハク、[バク],ひろ,形声 Phonetic,"haku, [baku]",-,博.gif
-1672,飯,,食,1981,12,4,4,"Shoku, Shokuhen",meal,சாப்பாடு,ハン、めし,いい,形声 Phonetic,han,meshi,飯.gif
+1624,梅,梅 [4],木,1981,10,4,1,"Ki, Kihen",ume (Japanese apricot),ஜப்பானிய அப்ரிகாட்,バイ、うめ,メ,形声 Phonetic,bai,ume,梅.gif
+1637,博,,十,1981,12,4,1,Juu,Dr.,டாக்டர்,ハク、[バク],ひろ,形声 Phonetic,"haku, [baku]",-,博.gif
+1672,飯,,食,1981,12,4,4,"Shoku, Shokuhen",meal,உணவு,ハン、めし,いい,形声 Phonetic,han,meshi,飯.gif
 1693,飛,,飛,1981,9,4,3,Tobu,fly,பற,ヒ、と-ぶ、と-ばす,,象形 Pictographic,hi,"to(bu), to(basu)",飛.gif
 1699,費,,貝,1981,12,4,3,"Kai, Kaihen",expense,செலவு,ヒ、つい-やす、つい-える,,形声 Phonetic,hi,"tsui(yasu), tsui(eru)",費.gif
 1712,必,,心,1981,5,4,3,"Kokoro, Risshinben, Shitagokoro",without fail,நிச்சயமாக,ヒツ、かなら-ず,,象形 Pictographic,hitsu,kanara(zu),必.gif
 1720,票,,示,1981,11,4,1,"Shimesu, Shimesuhen",ballot,வாக்குச்சீட்டு,ヒョウ,,会意 Com. Ideographic,hyoo,-,票.gif
-1723,標,,木,1981,15,4,2,"Ki, Kihen",sign,குறியீடு,ヒョウ,,形声 Phonetic,hyoo,-,標.gif
-1736,不,,一,1981,4,4,4,Fu,non-,"""-அற்ற""",フ、ブ,,仮借 Loan,"fu, bu",-,不.gif
+1723,標,,木,1981,15,4,2,"Ki, Kihen",signpost,மைல்கல்,ヒョウ,,形声 Phonetic,hyoo,-,標.gif
+1736,不,,一,1981,4,4,4,Fu,non-,எதிர்-,フ、ブ,,仮借 Loan,"fu, bu",-,不.gif
 1737,夫,,大,1981,4,4,3,Dai,husband,கணவன்,フ、[フウ]、おっと,か,象形 Pictographic,"fu, [fuu]",otto,夫.gif
 1739,付,,人,1981,5,4,3,"Hito, Ninben, Hitoyane",attach,இணை,フ、つ-ける、つ-く,,会意 Com. Ideographic,fu,"tsu(keru), tsu(ku)",付.gif
 1742,府,,广,1981,8,4,2,Madare,urban prefecture,நகரப் பிரிவு,フ,,形声 Phonetic,fu,-,府.gif
@@ -606,13 +606,13 @@
 1778,粉,,米,1981,10,4,2,"Kome, Komehen",flour,மாவு,フン、こ、こな,,形声 Phonetic,fun,"ko,kona",粉.gif
 1790,兵,,八,1981,7,4,2,Hachi,soldier,சிப்பாய்,ヘイ、ヒョウ,つわもの,会意 Com. Ideographic,"hei, hyoo",-,兵.gif
 1805,別,,刀,1981,7,4,4,"Katana, Rittoo",separate,பிரி,ベツ、わか-れる,,会意 Com. Ideographic,betsu,waka(reru),別.gif
-1808,辺,邊,辵,1981,5,4,2,Shinnyoo,environs,சுற்றம்,ヘン、あた-り、べ,ふち、は、へ,形声 Phonetic,hen,"ata(ri), be",辺.gif
+1808,辺,邊,辵,1981,5,4,2,Shinnyoo,environs,சுற்றுப்புறம்,ヘン、あた-り、べ,ふち、は、へ,形声 Phonetic,hen,"ata(ri), be",辺.gif
 1810,変,變,言,1981,9,4,3,Suinyoo,change,மாற்று,ヘン、か-わる、か-える,,会意 Com. Ideographic,hen,"ka(waru), ka(eru)",変.gif
 1815,便,,人,1981,9,4,3,"Hito, Ninben, Hitoyane",convenience,வசதி,ベン、ビン、たよ-り,,会意 Com. Ideographic,"ben, bin",tayo(ri),便.gif
 1830,包,,勹,1981,5,4,2,Tsutsumigamae,wrap,சுற்று,ホウ、つつ-む,,象形 Pictographic,hoo,tsutsu(mu),包.gif
 1837,法,,水,1981,8,4,3,"Mizu, Sanzui, Shitamizu",method,முறை,ホウ、[ハッ]、[ホッ],のっと、のり,会意 Com. Ideographic,"hoo, [haQ], [hoQ]",-,法.gif
 1865,望,,月,1981,11,4,3,"Tsuki, Tsukihen",hope,நம்பிக்கை,ボウ、モウ、のぞ-む,もち,形声 Phonetic,"boo, moo",nozo(mu),望.gif
-1878,牧,,牛,1981,8,4,1,"Ushi, Ushihen","Pasture, graze, herd, or take care of livestock",கால்நடை வளர்ப்பு,ボク、まき,モク、か、が,会意 Com. Ideographic,boku,maki,牧.gif
+1878,牧,,牛,1981,8,4,1,"Ushi, Ushihen",breed,இனப்பெருக்கு,ボク、まき,モク、か、が,会意 Com. Ideographic,boku,maki,牧.gif
 1904,末,,木,1981,5,4,3,"Ki, Kihen",end,முடிவு,マツ、バツ、すえ,,指事 Ideographic,"matsu, batsu",sue,末.gif
 1907,満,滿,水,1981,12,4,3,"Mizu, Sanzui, Shitamizu",full,நிறைந்த,マン、み-ちる、み-たす,,形声 Phonetic,man,"mi(chiru), mi(tasu)",満.gif
 1910,未,,木,1981,5,4,3,"Ki, Kihen",not yet,இன்னும் இல்லை,ミ,ひつじ、いま,象形 Pictographic,mi,-,未.gif
@@ -652,7 +652,7 @@
 108,応,應,心,1981,7,5,2,"Kokoro, Risshinben, Shitagokoro",respond,பதில் அளி,オウ、こた-える,,形声 Phonetic,oo,kota(eru),応.gif
 109,往,,彳,1981,8,5,1,Gyooninben,outward journey,வெளிப்பயணம்,オウ,い、ゆ,形声 Phonetic,oo,-,往.gif
 114,桜,櫻,木,1981,10,5,1,"Ki, Kihen",cherry tree,செர்ரி மரம்,オウ、さくら,,形声 Phonetic,oo,sakura,桜.gif
-128,恩,,心,1981,10,5,1,"Kokoro, Risshinben, Shitagokoro",grace,கருணை (அருள்),オン,,形声 Phonetic,on,-,恩.gif
+128,恩,,心,1981,10,5,1,"Kokoro, Risshinben, Shitagokoro",grace,கருணை,オン,,形声 Phonetic,on,-,恩.gif
 135,可,,口,1981,5,5,3,"Kuchi, Kuchihen",possible,சாத்தியம்,カ,,会意 Com. Ideographic,ka,-,可.gif
 136,仮,假,人,1981,6,5,2,"Hito, Ninben, Hitoyane",temporary,தற்காலிக,カ、[ケ]、かり,たと,形声 Phonetic,"ka, [ke]",kari,仮.gif
 140,価,價,人,1981,8,5,2,"Hito, Ninben, Hitoyane",value,மதிப்பு,カ、あたい,,形声 Phonetic,ka,atai,価.gif
@@ -660,14 +660,14 @@
 153,過,,辵,1981,12,5,3,Shinnyoo,go beyond,தாண்டி செல்,カ、す-ぎる、す-ごす、あやま-つ、あやま-ち,よぎ,形声 Phonetic,ka,"su(giru), su(gosu), ayama(tsu), ayama(chi)",過.gif
 169,賀,,貝,1981,12,5,1,"Kai, Kaihen",congratulations,வாழ்த்துகள்,ガ,カ,会意 Com. Ideographic,ga,-,賀.gif
 176,快,,心,1981,7,5,2,"Kokoro, Risshinben, Shitagokoro",cheerful,மகிழ்ச்சியான,カイ、こころよ-い,,形声 Phonetic,kai,kokoroyo(i),快.gif
-191,解,,角,1981,13,5,3,"Tsuno, Tsunohen",untie,தீர்வு காணல் (அவிழ்),カイ、ゲ、と-く、と-かす、と-ける,ケ,会意 Com. Ideographic,"kai, ge","to(ku), to(kasu), to(keru)",解.gif
-214,格,,木,1981,10,5,3,"Ki, Kihen",status,"தகுதி, தரம்",カク、[コウ],,形声 Phonetic,"kaku, [koo]",-,格.gif
+191,解,,角,1981,13,5,3,"Tsuno, Tsunohen",untie,அணை,カイ、ゲ、と-く、と-かす、と-ける,ケ,会意 Com. Ideographic,"kai, ge","to(ku), to(kasu), to(keru)",解.gif
+214,格,,木,1981,10,5,3,"Ki, Kihen",status,நிலை,カク、[コウ],,形声 Phonetic,"kaku, [koo]",-,格.gif
 222,確,,石,1981,15,5,3,"Ishi, Ishihen",certain,நிச்சயமான,カク、たし-か、たし-かめる,,形声 Phonetic,kaku,"tashi(ka), tashi(kameru)",確.gif
 229,額,,頁,1981,18,5,2,Oogai,amount,அளவு,ガク、ひたい,ぬか,形声 Phonetic,gaku,hitai,額.gif
 248,刊,,刀,1981,5,5,2,"Katana, Rittoo",publish,வெளியிடு,カン,,形声 Phonetic,kan,-,刊.gif
 274,幹,,干,1981,13,5,1,Ichijuu,tree-trunk,மரத் தண்டு,カン、みき,,形声 Phonetic,kan,miki,幹.gif
 277,慣,,心,1981,14,5,3,"Kokoro, Risshinben, Shitagokoro",accustomed,பழக்கமான,カン、な-れる、な-らす,,形声 Phonetic,kan,"na(reru), na(rasu)",慣.gif
-297,眼,,目,1981,11,5,1,"Me, Mehen",eyeball,கருவிழி,ガン、[ゲン]、まなこ,め,形声 Phonetic,"gan, [gen]",manako,眼.gif
+297,眼,,目,1981,11,5,1,"Me, Mehen",eyeball,கண் மணி,ガン、[ゲン]、まなこ,め,形声 Phonetic,"gan, [gen]",manako,眼.gif
 321,基,,土,1981,11,5,2,"Tsuchi, Tsuchihen",foundation,அடித்தளம்,キ、もと、もとい,,形声 Phonetic,ki,"moto, motoi",基.gif
 322,寄,,宀,1981,11,5,3,Ukanmuri,approach,அணுகு,キ、よ-る、よ-せる,,形声 Phonetic,ki,"yo(ru), yo(seru)",寄.gif
 323,規,,見,1981,11,5,3,Miru,rule,விதி,キ,ぶんまわし、のり、ただ,会意 Com. Ideographic,ki,-,規.gif
@@ -676,10 +676,10 @@
 357,逆,,辵,1981,9,5,2,Shinnyoo,inverted,தலைகீழ்,ギャク、さか、さか-らう,ゲキ,形声 Phonetic,gyaku,"saka, saka(rau)",逆.gif
 360,久,,丿,1981,3,5,2,No,long time,நெடுநாள்,キュウ、[ク]、ひさ-しい,,象形 Pictographic,"kyuu, [ku]",hisa(shii),久.gif
 364,旧,舊,臼,1981,5,5,2,"Nichi, Nichihen",old times,பழைய காலம்,キュウ,ふる,会意 Com. Ideographic,kyuu,-,旧.gif
-384,居,,尸,1981,8,5,3,Shikabane,reside,வசித்தல்,キョ、い-る,コ、ゴ、お,会意 Com. Ideographic,kyo,i(ru),居.gif
+384,居,,尸,1981,8,5,3,Shikabane,reside,வசிப்பு,キョ、い-る,コ、ゴ、お,会意 Com. Ideographic,kyo,i(ru),居.gif
 389,許,,言,1981,11,5,3,"Gon, Gonben",permit,அனுமதி,キョ、ゆる-す,コ、もと,形声 Phonetic,kyo,yuru(su),許.gif
 413,境,,土,1981,14,5,2,"Tsuchi, Tsuchihen",boundary,எல்லை,キョウ、[ケイ]、さかい,,形声 Phonetic,"kyoo, [kei]",sakai,境.gif
-430,均,,土,1981,7,5,2,"Tsuchi, Tsuchihen",level,சராசரி,キン,ひと,形声 Phonetic,kin,-,均.gif
+430,均,,土,1981,7,5,2,"Tsuchi, Tsuchihen",level,நிலை,キン,ひと,形声 Phonetic,kin,-,均.gif
 438,禁,,示,1981,13,5,2,"Shimesu, Shimesuhen",prohibition,தடை,キン,,会意 Com. Ideographic,kin,-,禁.gif
 446,句,,口,1981,5,5,1,"Kuchi, Kuchihen",phrase,சொற்றொடர்,ク,,会意 Com. Ideographic,ku,-,句.gif
 468,群,,羊,1981,13,5,2,Hitsuji,flock,மந்தை,グン、む-れる、む-れ、[むら],,形声 Phonetic,gun,"mu(reru), mu(re), [mura]",群.gif
@@ -688,7 +688,7 @@
 515,件,,人,1981,6,5,3,"Hito, Ninben, Hitoyane",affair,சம்பவம்,ケン,,会意 Com. Ideographic,ken,-,件.gif
 517,券,,刀,1981,8,5,2,"Katana, Rittoo",ticket,சீட்டு,ケン,,会意 Com. Ideographic,ken,-,券.gif
 528,険,險,阜,1981,11,5,3,Kozatohen,precipitous,மிகவும் செங்குத்தான,ケン、けわ-しい,,形声 Phonetic,ken,kewa(shii),険.gif
-531,検,檢,木,1981,12,5,1,"Ki, Kihen",examine,ஆய்வு,ケン,,形声 Phonetic,ken,-,検.gif
+531,検,檢,木,1981,12,5,1,"Ki, Kihen",examine,ஆய்வு செய்,ケン,,形声 Phonetic,ken,-,検.gif
 550,限,,阜,1981,9,5,3,Kozatohen,limit,எல்லை,ゲン、かぎ-る,,会意 Com. Ideographic,gen,kagi(ru),限.gif
 552,現,,玉,1981,11,5,3,"Tama, Oo",appear,தோன்று,ゲン、あらわ-れる、あらわ-す,うつつ,形声 Phonetic,gen,"arawa(reru), arawa(su)",現.gif
 554,減,,水,1981,12,5,2,"Mizu, Sanzui, Shitamizu",decrease,குறை,ゲン、へ-る、へ-らす,,形声 Phonetic,gen,"he(ru), he(rasu)",減.gif
@@ -698,9 +698,9 @@
 609,効,效,力,1981,8,5,2,Chikara,effect,விளைவு,コウ、き-く,,会意 Com. Ideographic,koo,ki(ku),効.gif
 614,厚,,厂,1981,9,5,2,Gandare,thick,தடித்த,コウ、あつ-い,,会意 Com. Ideographic,koo,atsu(i),厚.gif
 624,耕,,耒,1981,10,5,2,Sukihen,till,வரை,コウ、たがや-す,,形声 Phonetic,koo,tagaya(su),耕.gif
-640,鉱,鑛,金,1981,13,5,2,"Kane, Kanehen",mineral,தாதுப்பொருள்,コウ,あらがね,形声 Phonetic,koo,-,鉱.gif
-641,構,,木,1981,14,5,3,"Ki, Kihen",construct,கட்டுமானம்,コウ、かま-える、かま-う,,形声 Phonetic,koo,"kama(eru), kama(u)",構.gif
-645,興,,臼,1981,16,5,1,Usu,entertain,பொழுதுபோக்கு,コウ、キョウ、おこ-る、おこ-す,お,会意 Com. Ideographic,"koo, kyoo","oko(ru), oko(su)",興.gif
+640,鉱,鑛,金,1981,13,5,2,"Kane, Kanehen",mineral,தாது,コウ,あらがね,形声 Phonetic,koo,-,鉱.gif
+641,構,,木,1981,14,5,3,"Ki, Kihen",construct,கட்டி அமை,コウ、かま-える、かま-う,,形声 Phonetic,koo,"kama(eru), kama(u)",構.gif
+645,興,,臼,1981,16,5,1,Usu,entertain,பொழுதுபோக்கு அளி,コウ、キョウ、おこ-る、おこ-す,お,会意 Com. Ideographic,"koo, kyoo","oko(ru), oko(su)",興.gif
 648,講,,言,1981,17,5,2,"Gon, Gonben",lecture,விரிவுரை,コウ,,形声 Phonetic,koo,-,講.gif
 676,混,,水,1981,11,5,2,"Mizu, Sanzui, Shitamizu",mix,கலக்கு,コン、ま-じる、ま-ざる、ま-ぜる、こ-む,,形声 Phonetic,kon,"ma(jiru), ma(zaru), ma(zeru), ko(mu)",混.gif
 685,査,,木,1981,9,5,2,"Ki, Kihen",investigate,விசாரி,サ,,形声 Phonetic,sa,-,査.gif
@@ -708,32 +708,32 @@
 695,災,,火,1981,7,5,1,"Hi, Hihen, Renga",disaster,பேரிடர்,サイ、わざわ-い,,会意 Com. Ideographic,sai,wazawa(i),災.gif
 696,妻,,女,1981,8,5,3,"Onna, Onnahen",wife,மனைவி,サイ、つま,め,象形 Pictographic,sai,tsuma,妻.gif
 702,採,,手,1981,11,5,2,Tehen,pick,தேர்ந்தெடு,サイ、と-る,,形声 Phonetic,sai,to(ru),採.gif
-715,際,,阜,1981,14,5,3,Kozatohen,occasion,"சமயம், நிகழ்வு",サイ、きわ,,会意 Com. Ideographic,sai,kiwa,際.gif
+715,際,,阜,1981,14,5,3,Kozatohen,occasion,சந்தர்ப்பு,サイ、きわ,,会意 Com. Ideographic,sai,kiwa,際.gif
 717,在,,土,1981,6,5,3,"Tsuchi, Tsuchihen",exist,இரு,ザイ、あ-る,,会意 Com. Ideographic,zai,a(ru),在.gif
 720,財,,貝,1981,10,5,3,"Kai, Kaihen",wealth,செல்வம்,ザイ、[サイ],たから,形声 Phonetic,"zai, [sai]",-,財.gif
 721,罪,,网,1981,13,5,3,Amigashira,guilt,குற்றம்,ザイ、つみ,,会意 Com. Ideographic,zai,tsumi,罪.gif
-742,雑,雜,隹,1981,14,5,3,Furutori,miscellaneous,"பல்வேறு, கலவை, இதர",ザツ、ゾウ,,形声 Phonetic,"zatsu, zoo",-,雑.gif
+742,雑,雜,隹,1981,14,5,3,Furutori,miscellaneous,பல்வேறு,ザツ、ゾウ,,形声 Phonetic,"zatsu, zoo",-,雑.gif
 754,酸,,酉,1981,14,5,1,"Tori, Torihen",acid,அமிலம்,サン、す-い,,形声 Phonetic,san,su(i),酸.gif
-755,賛,贊,貝,1981,15,5,3,"Kai, Kaihen",approve,ஒப்புதல்,サン,,会意 Com. Ideographic,san,-,賛.gif
+755,賛,贊,貝,1981,15,5,3,"Kai, Kaihen",approve,ஒப்புதல் அளி,サン,,会意 Com. Ideographic,san,-,賛.gif
 761,支,,支,1981,4,5,3,Shi,branch,கிளை,シ、ささ-える,つか,会意 Com. Ideographic,shi,sasa(eru),支.gif
 775,志,,心,1981,7,5,2,"Kokoro, Risshinben, Shitagokoro",intention,நோக்கம்,シ、こころざ-す、こころざし,,形声 Phonetic,shi,"kokoroza(su), kokorozashi",志.gif
-781,枝,,木,1981,8,5,2,"Ki, Kihen",branch,"கிளை, வகு (?)",シ、えだ,,形声 Phonetic,shi,eda,枝.gif
+781,枝,,木,1981,8,5,2,"Ki, Kihen",branch,கிளை,シ、えだ,,形声 Phonetic,shi,eda,枝.gif
 788,師,,巾,1981,10,5,3,"Haba, Kinben",expert,நிபுணர்,シ,,会意 Com. Ideographic,shi,-,師.gif
 799,資,,貝,1981,13,5,3,"Kai, Kaihen",resources,வளங்கள்,シ,もと,形声 Phonetic,shi,-,資.gif
-800,飼,,食,1981,13,5,1,"Shoku, Shokuhen",domesticate,பழக்கப்படுத்து,シ、か-う,,形声 Phonetic,shi,ka(u),飼.gif
+800,飼,,食,1981,13,5,1,"Shoku, Shokuhen",domesticate,செல்லப்பழக்கு செய்,シ、か-う,,形声 Phonetic,shi,ka(u),飼.gif
 806,示,,示,1981,5,5,3,"Shimesu, Shimesuhen",indicate,காட்டு,ジ、シ、しめ-す,,象形 Pictographic,"ji, shi",shime(su),示.gif
 812,似,,人,1981,7,5,3,"Hito, Ninben, Hitoyane",becoming,ஆகுதல்,ジ、に-る,,形声 Phonetic,ji,ni(ru),似.gif
-827,識,,言,1981,19,5,3,"Gon, Gonben",consciousness,அறிவு,シキ,,形声 Phonetic,shiki,-,識.gif
+827,識,,言,1981,19,5,3,"Gon, Gonben",discriminating,வேறுபடுத்தும் அறிவு கொண்ட,シキ,,形声 Phonetic,shiki,-,識.gif
 838,質,,貝,1981,15,5,4,"Kai, Kaihen",quality,தரம்,シツ、シチ、[チ],ただ,会意 Com. Ideographic,"shitsu, shichi, [chi]",-,質.gif
 844,舎,舍,舌,1981,8,5,1,"Hito, Ninben, Hitoyane",cottage,குடில்,シャ,,会意 Com. Ideographic,sha,-,舎.gif
 852,謝,,言,1981,17,5,1,"Gon, Gonben",apologize,மன்னிப்பு கேள்,シャ、あやま-る,,形声 Phonetic,sha,ayama(ru),謝.gif
-879,授,,手,1981,11,5,2,Tehen,instruct,அறிவுறுத்து,ジュ、さず-ける、さず-かる,,形声 Phonetic,ju,"sazu(keru), sazu(karu)",授.gif
+879,授,,手,1981,11,5,2,Tehen,instruct,வழிமுறை கூறு,ジュ、さず-ける、さず-かる,,形声 Phonetic,ju,"sazu(keru), sazu(karu)",授.gif
 893,修,,人,1981,10,5,2,"Hito, Ninben, Hitoyane",discipline,ஒழுக்கம்,シュウ、[シュ]、おさ-める、おさ-まる,,会意 Com. Ideographic,"shuu, [shu]","osa(meru), osa(maru)",修.gif
 927,述,,辵,1981,8,5,2,Shinnyoo,mention,குறிப்பிடு,ジュツ、の-べる,,会意 Com. Ideographic,jutsu,no(beru),述.gif
 928,術,,行,1981,11,5,3,Gyoogamae,art,கலை,ジュツ,,会意 Com. Ideographic,jutsu,-,術.gif
 940,準,,水,1981,13,5,2,"Mizu, Sanzui, Shitamizu",standard,தரநிலை,ジュン,,形声 Phonetic,jun,-,準.gif
 955,序,,广,1981,7,5,1,Madare,preface,முன்னுரை,ジョ,つい,形声 Phonetic,jo,-,序.gif
-968,招,,手,1981,8,5,3,Tehen,beckon,"அழை, கூப்பிடு",ショウ、まね-く,,形声 Phonetic,shoo,mane(ku),招.gif
+968,招,,手,1981,8,5,3,Tehen,beckon,அழை,ショウ、まね-く,,形声 Phonetic,shoo,mane(ku),招.gif
 969,承,,手,1981,8,5,2,Te,acquiesce,ஒப்புக்கொள்,ショウ、うけたまわ-る,う,会意 Com. Ideographic,shoo,uketamawa(ru),承.gif
 995,証,證,言,1981,12,5,1,"Gon, Gonben",evidence,ஆதாரம்,ショウ,あかし、あか,形声 Phonetic,shoo,-,証.gif
 1012,条,條,木,1981,7,5,2,"Ki, Kihen",clause,கூற்று,ジョウ,,会意 Com. Ideographic,joo,-,条.gif
@@ -747,14 +747,14 @@
 1117,政,,攴,1981,9,5,3,Nobun,politics,அரசியல்,セイ、[ショウ]、まつりごと,ただ,形声 Phonetic,"sei, [shoo]",matsurigoto,政.gif
 1127,勢,,力,1981,13,5,2,Chikara,power,அதிகாரம்,セイ、いきお-い,セ、ゼ,会意 Com. Ideographic,sei,ikio(i),勢.gif
 1130,精,,米,1981,14,5,3,"Kome, Komehen",refined,நுட்பமான,セイ、[ショウ],くわ,形声 Phonetic,"sei, [shoo]",-,精.gif
-1131,製,,衣,1981,14,5,1,"Koromo, Koromohen",manufacture,உற்பத்தி,セイ,,形声 Phonetic,sei,-,製.gif
+1131,製,,衣,1981,14,5,1,"Koromo, Koromohen",manufacture,உற்பத்தி செய்,セイ,,形声 Phonetic,sei,-,製.gif
 1137,税,,禾,1981,12,5,2,"Nogi, Nogihen",tax,வரி,ゼイ,,形声 Phonetic,zei,-,税.gif
 1149,責,,貝,1981,11,5,3,"Kai, Kaihen",blame,குற்றம் சாட்டு,セキ、せ-める,シャク,形声 Phonetic,seki,se(meru),責.gif
-1152,績,,糸,1981,17,5,2,"Ito, Itohen",achievements,சாதனைகள்,セキ,う,形声 Phonetic,seki,-,績.gif
+1152,績,,糸,1981,17,5,2,"Ito, Itohen",exploits,சாதனைகள்,セキ,う,形声 Phonetic,seki,-,績.gif
 1158,接,,手,1981,11,5,2,Tehen,contact,தொடர்பு,セツ、つ-ぐ,,形声 Phonetic,setsu,tsu(gu),接.gif
 1159,設,,言,1981,11,5,2,"Gon, Gonben",establish,நிறுவு,セツ、もう-ける,,会意 Com. Ideographic,setsu,moo(keru),設.gif
 1164,舌,,舌,1981,6,5,1,Shita,tongue,நாக்கு,ゼツ、した,,象形 Pictographic,zetsu,shita,舌.gif
-1165,絶,絕,糸,1981,12,5,3,"Ito, Itohen",discontinue,கைவிடு,ゼツ、た-える、た-やす、た-つ,,形声 Phonetic,zetsu,"ta(eru), ta(yasu), ta(tsu)",絶.gif
+1165,絶,絕,糸,1981,12,5,3,"Ito, Itohen",discontinue,நிறுத்து,ゼツ、た-える、た-やす、た-つ,,形声 Phonetic,zetsu,"ta(eru), ta(yasu), ta(tsu)",絶.gif
 1188,銭,錢,金,1981,14,5,1,"Kane, Kanehen",coin,நாணயம்,セン、ぜに,,形声 Phonetic,sen,zeni,銭.gif
 1206,祖,祖 [4],示,1981,9,5,3,"Shimesu, Shimesuhen",ancestor,மூதாதை,ソ,,形声 Phonetic,so,-,祖.gif
 1208,素,,糸,1981,10,5,1,"Ito, Itohen",elementary,அடிப்படை,ソ、ス,もと、しろ,象形 Pictographic,"so, su",-,素.gif
@@ -768,7 +768,7 @@
 1277,率,,玄,1981,11,5,1,Gen,rate,விகிதம்,ソツ、リツ、ひき-いる,,象形 Pictographic,"sotsu, ritsu",hiki(iru),率.gif
 1282,損,,手,1981,13,5,2,Tehen,loss,இழப்பு,ソン、そこ-なう、そこ-ねる,,会意 Com. Ideographic,son,"soko(nau), soko(neru)",損.gif
 1300,退,,辵,1981,9,5,3,Shinnyoo,retreat,பின்னடை,タイ、しりぞ-く、しりぞ-ける,び,会意 Com. Ideographic,tai,"shirizo(ku), shirizo(keru)",退.gif
-1307,貸,,貝,1981,12,5,4,"Kai, Kaihen",lend,கடன்,タイ、か-す,,形声 Phonetic,tai,ka(su),貸.gif
+1307,貸,,貝,1981,12,5,4,"Kai, Kaihen",lend,கடன் கொடு,タイ、か-す,,形声 Phonetic,tai,ka(su),貸.gif
 1310,態,,心,1981,14,5,1,"Kokoro, Risshinben, Shitagokoro",condition,நிலைமை,タイ,わざ,形声 Phonetic,tai,-,態.gif
 1347,団,團,囗,1981,6,5,2,Kunigamae,group,குழு,ダン、[トン],,形声 Phonetic,"dan, [ton]",-,団.gif
 1350,断,斷,斤,1981,11,5,3,"Kin, Onozukuri",cut off,வெட்டி நீக்கு,ダン、た-つ、ことわ-る,,会意 Com. Ideographic,dan,"ta(tsu), kotowa(ru)",断.gif
@@ -781,57 +781,57 @@
 1527,統,,糸,1981,12,5,1,"Ito, Itohen",unite,ஒன்று சேர்,トウ、す-べる,,形声 Phonetic,too,su(beru),統.gif
 1544,銅,,金,1981,14,5,2,"Kane, Kanehen",copper,செம்பு,ドウ,,形声 Phonetic,doo,-,銅.gif
 1545,導,,寸,1981,15,5,2,Sun,guide,வழிகாட்டு,ドウ、みちび-く,,形声 Phonetic,doo,michibi(ku),導.gif
-1552,徳,德,彳,1981,14,5,1,Gyooninben,benevolence,கருணை (?),トク,,会意 Com. Ideographic,toku,-,徳.gif
+1552,徳,德,彳,1981,14,5,1,Gyooninben,benevolence,கருணை,トク,,会意 Com. Ideographic,toku,-,徳.gif
 1555,独,獨,犬,1981,9,5,1,"Inu, Kemonohen",alone,தனி,ドク、ひと-り,,形声 Phonetic,doku,hito(ri),独.gif
 1587,任,,人,1981,6,5,3,"Hito, Ninben, Hitoyane",responsibility,பொறுப்பு,ニン、まか-せる、まか-す,,形声 Phonetic,nin,"maka(seru), maka(su)",任.gif
 1597,燃,,火,1981,16,5,2,"Hi, Hihen, Renga",burn,எரி,ネン、も-える、も-やす、も-す,,形声 Phonetic,nen,"mo(eru), mo(yasu), mo(su)",燃.gif
 1600,能,,肉,1981,10,5,3,"Niku, Nikuzuki",ability,திறன்,ノウ,ノ、あた、よ、た,象形 Pictographic,noo,-,能.gif
-1607,破,,石,1981,10,5,3,"Ishi, Ishihen",rend,பிள,ハ、やぶ-る、やぶ-れる,わ,形声 Phonetic,ha,"yabu(ru), yabu(reru)",破.gif
+1607,破,,石,1981,10,5,3,"Ishi, Ishihen",rend,பிளக்கு,ハ、やぶ-る、やぶ-れる,わ,形声 Phonetic,ha,"yabu(ru), yabu(reru)",破.gif
 1658,犯,,犬,1981,5,5,3,"Inu, Kemonohen",crime,குற்றம்,ハン、おか-す,ボン,形声 Phonetic,han,oka(su),犯.gif
-1662,判,,刀,1981,7,5,3,"Katana, Rittoo",judge,மதிப்பிடு (?),ハン、バン,わか,形声 Phonetic,"han, ban",-,判.gif
+1662,判,,刀,1981,7,5,3,"Katana, Rittoo",judge,நீதிபதி,ハン、バン,わか,形声 Phonetic,"han, ban",-,判.gif
 1666,版,,片,1981,8,5,2,Katahen,printing block,அச்சுப் பலகை,ハン,,形声 Phonetic,han,-,版.gif
 1683,比,,比,1981,4,5,2,Kuraberu,compare,ஒப்பிடு,ヒ、くら-べる,,会意 Com. Ideographic,hi,kura(beru),比.gif
-1690,肥,,肉,1981,8,5,1,"Niku, Nikuzuki",fertilizer,உரம்,ヒ、こ-える、こえ、こ-やす、こ-やし,,会意 Com. Ideographic,hi,"ko(eru), koe,ko(yasu), ko(yashi)",肥.gif
+1690,肥,,肉,1981,8,5,1,"Niku, Nikuzuki",fertilizer,உரமிடு,ヒ、こ-える、こえ、こ-やす、こ-やし,,会意 Com. Ideographic,hi,"ko(eru), koe,ko(yasu), ko(yashi)",肥.gif
 1691,非,,非,1981,8,5,3,Arazu,negative,எதிர்மறை,ヒ,,象形 Pictographic,hi,-,非.gif
 1706,備,,人,1981,12,5,3,"Hito, Ninben, Hitoyane",provide,வழங்கு,ビ、そな-える、そな-わる,つぶさ,形声 Phonetic,bi,"sona(eru), sona(waru)",備.gif
 1719,俵,,人,1981,10,5,1,"Hito, Ninben, Hitoyane",bag,பை,ヒョウ、たわら,,形声 Phonetic,hyoo,tawara,俵.gif
-1721,評,,言,1981,12,5,2,"Gon, Gonben",evaluate,மதிப்பிடு (?),ヒョウ,,形声 Phonetic,hyoo,-,評.gif
+1721,評,,言,1981,12,5,2,"Gon, Gonben",evaluate,மதிப்பிடு,ヒョウ,,形声 Phonetic,hyoo,-,評.gif
 1731,貧,,貝,1981,11,5,3,"Kai, Kaihen",poor,ஏழை,ヒン、ビン、まず-しい,,会意 Com. Ideographic,"hin, bin",mazu(shii),貧.gif
 1740,布,,巾,1981,5,5,2,"Haba, Kinben",linen,லினன் துணி,フ、ぬの,ホ、し,形声 Phonetic,fu,nuno,布.gif
 1750,婦,,女,1981,11,5,3,"Onna, Onnahen",lady,பெண்,フ,,形声 Phonetic,fu,-,婦.gif
-1752,富,,宀,1981,12,5,3,Ukanmuri,rich,செல்வம்,フ、[フウ]、と-む、とみ,,形声 Phonetic,"fu, [fuu]","to(mu), tomi",富.gif
-1760,武,,止,1981,8,5,2,Tomeru,military,இராணுவம்,ブ、ム,,会意 Com. Ideographic,"bu, mu",-,武.gif
+1752,富,,宀,1981,12,5,3,Ukanmuri,rich,செல்வந்த,フ、[フウ]、と-む、とみ,,形声 Phonetic,"fu, [fuu]","to(mu), tomi",富.gif
+1760,武,,止,1981,8,5,2,Tomeru,military,இராணுவ,ブ、ム,,会意 Com. Ideographic,"bu, mu",-,武.gif
 1769,復,,彳,1981,12,5,2,Gyooninben,again,மீண்டும்,フク,,形声 Phonetic,fuku,-,復.gif
 1772,複,,衣,1981,14,5,2,"Koromo, Koromohen",duplicate,நகல்,フク,,形声 Phonetic,fuku,-,複.gif
 1776,仏,佛,人,1981,4,5,2,"Hito, Ninben, Hitoyane",Buddha,புத்தர்,ブツ、ほとけ,フツ,形声 Phonetic,butsu,hotoke,仏.gif
-1813,編,,糸,1981,15,5,2,"Ito, Itohen",compile,தொகுத்தல்,ヘン、あ-む,,形声 Phonetic,hen,a(mu),編.gif
-1814,弁,辨,辛,1981,5,5,1,"Komanuki, Nijuuashi",valve,வால்வு (?),ベン,わきま,象形 Pictographic,ben,-,弁.gif
-1818,保,,人,1981,9,5,2,"Hito, Ninben, Hitoyane",preserve,பாதுகாத்தல்,ホ、たも-つ,やす,会意 Com. Ideographic,ho,tamo(tsu),保.gif
+1813,編,,糸,1981,15,5,2,"Ito, Itohen",compile,தொகுத்து இயக்கு,ヘン、あ-む,,形声 Phonetic,hen,a(mu),編.gif
+1814,弁,辨,辛,1981,5,5,1,"Komanuki, Nijuuashi",valve,வால்வு,ベン,わきま,象形 Pictographic,ben,-,弁.gif
+1818,保,,人,1981,9,5,2,"Hito, Ninben, Hitoyane",preserve,பாதுகாத்து வை,ホ、たも-つ,やす,会意 Com. Ideographic,ho,tamo(tsu),保.gif
 1825,墓,,土,1981,13,5,1,"Tsuchi, Tsuchihen",grave,கல்லறை,ボ、はか,,形声 Phonetic,bo,haka,墓.gif
 1846,報,,土,1981,12,5,3,"Tsuchi, Tsuchihen",report,அறிக்கை,ホウ、むく-いる,し,会意 Com. Ideographic,hoo,muku(iru),報.gif
 1848,豊,豐,豆,1981,13,5,2,Mame,bountiful,செழிப்பான,ホウ、ゆた-か,ブ,象形 Pictographic,hoo,yuta(ka),豊.gif
-1858,防,,阜,1981,7,5,2,Kozatohen,prevent,"தடு, காத்தல்",ボウ、ふせ-ぐ,ホウ,形声 Phonetic,boo,fuse(gu),防.gif
+1858,防,,阜,1981,7,5,2,Kozatohen,prevent,தடுப்பு செய்,ボウ、ふせ-ぐ,ホウ,形声 Phonetic,boo,fuse(gu),防.gif
 1869,貿,,貝,1981,12,5,2,"Kai, Kaihen",trade,வர்த்தகம்,ボウ,,形声 Phonetic,boo,-,貿.gif
 1871,暴,,日,1981,15,5,2,"Nichi, Nichihen",outburst,திடீர் எழுச்சி,ボウ、[バク]、あば-く、あば-れる,,会意 Com. Ideographic,"boo, [baku]","aba(ku), aba(reru)",暴.gif
 1921,務,,力,1981,11,5,3,Chikara,duty,கடமை,ム、つと-める、つと-まる,,形声 Phonetic,mu,"tsuto(meru), tsuto(maru)",務.gif
 1923,夢,,夕,1981,13,5,3,Yuube,dream,கனவு,ム、ゆめ,,会意 Com. Ideographic,mu,yume,夢.gif
-1929,迷,,辵,1981,9,5,3,Shinnyoo,astray,தடுமாற்றம்,メイ、まよ-う,マイ,形声 Phonetic,mei,mayo(u),迷.gif
+1929,迷,,辵,1981,9,5,3,Shinnyoo,astray,வழுவி செல்,メイ、まよ-う,マイ,形声 Phonetic,mei,mayo(u),迷.gif
 1937,綿,,糸,1981,14,5,2,"Ito, Itohen",cotton,பருத்தி,メン、わた,,会意 Com. Ideographic,men,wata,綿.gif
-1968,輸,,車,1981,16,5,2,"Kuruma, Kurumahen",transport,போக்குவரத்து,ユ,,形声 Phonetic,yu,-,輸.gif
-1988,余,餘,食,1981,7,5,3,"Hito, Ninben, Hitoyane",leave over,"மீதி, உபரி",ヨ、あま-る、あま-す,,形声 Phonetic,yo,"ama(ru), ama(su)",余.gif
+1968,輸,,車,1981,16,5,2,"Kuruma, Kurumahen",transport,போக்கு,ユ,,形声 Phonetic,yu,-,輸.gif
+1988,余,餘,食,1981,7,5,3,"Hito, Ninben, Hitoyane",leave over,மீதமிடு,ヨ、あま-る、あま-す,,形声 Phonetic,yo,"ama(ru), ama(su)",余.gif
 1990,預,,頁,1981,13,5,2,Oogai,deposit,வைப்பு,ヨ、あず-ける、あず-かる,,形声 Phonetic,yo,"azu(keru), azu(karu)",預.gif
 1997,容,,宀,1981,10,5,3,Ukanmuri,contain,கொண்டிரு,ヨウ,い,会意 Com. Ideographic,yoo,-,容.gif
 2048,略,,田,1981,11,5,2,"Ta, Tahen",abbreviation,சுருக்கம்,リャク,ほぼ,形声 Phonetic,ryaku,-,略.gif
 2051,留,,田,1981,10,5,3,"Ta, Tahen",detain,தடுத்து வை,リュウ、[ル]、と-める、と-まる,,会意 Com. Ideographic,"ryuu, [ru]","to(meru), to(maru)",留.gif
-2069,領,,頁,1981,14,5,2,Oogai,territory,எல்லை (?),リョウ,,形声 Phonetic,ryoo,-,領.gif
-27,異,,田,1981,11,6,2,"Ta, Tahen",uncommon,சாதாரணமற்ற,イ、こと,あや,象形 Pictographic,i,koto(naru),異.gif
-37,遺,,辵,1981,15,6,1,Shinnyoo,bequeath,"கைஅளி, உயில்",イ、[ユイ],のこ,形声 Phonetic,"i, [yui]",-,遺.gif
-39,域,,土,1981,11,6,2,"Tsuchi, Tsuchihen",range,எல்லை (?),イキ,,形声 Phonetic,iki,-,域.gif
-59,宇,,宀,1981,6,6,2,Ukanmuri,"universe, cosmos","பிரபஞ்சம், விண்வெளி , அண்டம்",ウ,,形声 Phonetic,u,-,宇.gif
-71,映,,日,1981,9,6,4,"Nichi, Nichihen",reflect,பிரதிபலிப்பு,エイ、うつ-る、うつ-す、は-える,,形声 Phonetic,ei,"utsu(ru), utsu(su), ha(eru)",映.gif
-88,延,,廴,1981,8,6,2,Ennyoo,prolong,நீட்டிப்பு,エン、の-びる、の-べる、の-ばす,び,会意 Com. Ideographic,en,"no(biru), no(beru), no(basu)",延.gif
+2069,領,,頁,1981,14,5,2,Oogai,territory,பரப்பளவு,リョウ,,形声 Phonetic,ryoo,-,領.gif
+27,異,,田,1981,11,6,2,"Ta, Tahen",uncommon,அசாதாரணமான,イ、こと,あや,象形 Pictographic,i,koto(naru),異.gif
+37,遺,,辵,1981,15,6,1,Shinnyoo,bequeath,வாரிசாக அளி,イ、[ユイ],のこ,形声 Phonetic,"i, [yui]",-,遺.gif
+39,域,,土,1981,11,6,2,"Tsuchi, Tsuchihen",range,விரிவு,イキ,,形声 Phonetic,iki,-,域.gif
+59,宇,,宀,1981,6,6,2,Ukanmuri,eaves,மாடியின் வெளித்தொடுப்பு,ウ,,形声 Phonetic,u,-,宇.gif
+71,映,,日,1981,9,6,4,"Nichi, Nichihen",reflect,பிரதிபலிப்பு செய்,エイ、うつ-る、うつ-す、は-える,,形声 Phonetic,ei,"utsu(ru), utsu(su), ha(eru)",映.gif
+88,延,,廴,1981,8,6,2,Ennyoo,prolong,நீட்டிப்பு செய்,エン、の-びる、の-べる、の-ばす,び,会意 Com. Ideographic,en,"no(biru), no(beru), no(basu)",延.gif
 89,沿,,水,1981,8,6,1,"Mizu, Sanzui, Shitamizu",run alongside,பக்கமாக செல்,エン、そ-う,,形声 Phonetic,en,so(u),沿.gif
-166,我,,戈,1981,7,6,1,"Hokogamae, Hokozukuri","ego, I, we","அகந்தை, நான், நாம்",ガ、われ、わ,,仮借 Loan,ga,"ware, wa",我.gif
+166,我,,戈,1981,7,6,1,"Hokogamae, Hokozukuri","ego, I, we","நான், நாம்",ガ、われ、わ,,仮借 Loan,ga,"ware, wa",我.gif
 174,灰,,火,1981,6,6,2,"Hi, Hihen, Renga",ashes,சாம்பல்,カイ、はい,,会意 Com. Ideographic,kai,hai,灰.gif
 212,拡,擴,手,1981,8,6,2,Tehen,broaden,விரிவு படுத்து,カク,ひろ,形声 Phonetic,kaku,-,拡.gif
 213,革,,革,1981,9,6,2,"Kakunokawa, Kawahen",leather,தோல்,カク、かわ,,象形 Pictographic,kaku,kawa,革.gif
@@ -844,17 +844,17 @@
 287,簡,,竹,1981,18,6,2,"Take, Takekanmuri",simplicity,எளிமை,カン,ケン,形声 Phonetic,kan,-,簡.gif
 303,危,,卩,1981,6,6,3,"Fushizukuri, Warifu",dangerous,ஆபத்தான,キ、あぶ-ない、あや-うい、あや-ぶむ,,形声 Phonetic,ki,"abu(nai), aya(ui), aya(bumu)",危.gif
 304,机,,木,1981,6,6,2,"Ki, Kihen",desk,மேசை,キ、つくえ,,象形 Pictographic,ki,tsukue,机.gif
-327,揮,,手,1981,12,6,1,Tehen,brandish,"கட்டுப்படுத்து, செலுத்து (?)",キ,,形声 Phonetic,ki,-,揮.gif
-330,貴,,貝,1981,12,6,1,"Kai, Kaihen",precious,மதிப்பான,キ、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ,,会意 Com. Ideographic,ki,"tatto(i), tooto(i), tatto(bu), tooto(bu)",貴.gif
+327,揮,,手,1981,12,6,1,Tehen,brandish,காட்டி அசை,キ,,形声 Phonetic,ki,-,揮.gif
+330,貴,,貝,1981,12,6,1,"Kai, Kaihen",precious,மதிப்புள்ள,キ、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ,,会意 Com. Ideographic,ki,"tatto(i), tooto(i), tatto(bu), tooto(bu)",貴.gif
 344,疑,,疋,1981,14,6,3,Hiki,doubt,சந்தேகம்,ギ、うたが-う,,象形 Pictographic,gi,utaga(u),疑.gif
-366,吸,,口,1981,6,6,3,"Kuchi, Kuchihen",suck,உறிஞ்சு,キュウ、す-う,,形声 Phonetic,kyuu,su(u),吸.gif
+366,吸,,口,1981,6,6,3,"Kuchi, Kuchihen",suck,உறிஞ்சி குடி,キュウ、す-う,,形声 Phonetic,kyuu,su(u),吸.gif
 400,供,,人,1981,8,6,3,"Hito, Ninben, Hitoyane",offer,அளி,キョウ、[ク]、そな-える、とも,,形声 Phonetic,"kyoo, [ku]","sona(eru), tomo",供.gif
-408,胸,,肉,1981,10,6,2,"Niku, Nikuzuki",bosom,"மார்பு, நெஞ்சம்",キョウ、むね、[むな],,形声 Phonetic,kyoo,"mune, [muna]",胸.gif
-412,郷,鄕,邑,1981,11,6,1,Oozato,home town,சொந்த ஊர்,キョウ、ゴウ,さと,会意 Com. Ideographic,"kyoo, goo",-,郷.gif
-434,勤,勤 [4],力,1981,12,6,3,Chikara,diligence,கடமை,キン、[ゴン]、つと-める、つと-まる,,形声 Phonetic,"kin, [gon]","tsuto(meru), tsuto(maru)",勤.gif
+408,胸,,肉,1981,10,6,2,"Niku, Nikuzuki",bosom,மார்பு,キョウ、むね、[むな],,形声 Phonetic,kyoo,"mune, [muna]",胸.gif
+412,郷,鄕,邑,1981,11,6,1,Oozato,home town,பூர்விக ஊர்,キョウ、ゴウ,さと,会意 Com. Ideographic,"kyoo, goo",-,郷.gif
+434,勤,勤 [4],力,1981,12,6,3,Chikara,diligence,உழைப்பு,キン、[ゴン]、つと-める、つと-まる,,形声 Phonetic,"kin, [gon]","tsuto(meru), tsuto(maru)",勤.gif
 436,筋,,竹,1981,12,6,1,"Take, Takekanmuri",muscle,தசை,キン、すじ,,象形 Pictographic,kin,suji,筋.gif
-472,系,,糸,1981,7,6,1,"Ito, Itohen",lineage,"வம்சம், பரம்பரை",ケイ,,象形 Pictographic,kei,-,系.gif
-485,敬,,攴,1981,12,6,2,Nobun,respect,மரியாதை,ケイ、うやま-う,キョウ,会意 Com. Ideographic,kei,uyama(u),敬.gif
+472,系,,糸,1981,7,6,1,"Ito, Itohen",lineage,பூர்வ வழி,ケイ,,象形 Pictographic,kei,-,系.gif
+485,敬,,攴,1981,12,6,2,Nobun,respect,மரியாதை செய்,ケイ、うやま-う,キョウ,会意 Com. Ideographic,kei,uyama(u),敬.gif
 496,警,,言,1981,19,6,3,"Gon, Gonben",guard against,தடுக்க,ケイ,キョウ,形声 Phonetic,kei,-,警.gif
 502,劇,,刀,1981,15,6,2,"Katana, Rittoo",drama,நாடகம்,ゲキ,はげ,会意 Com. Ideographic,geki,-,劇.gif
 504,激,,水,1981,16,6,1,"Mizu, Sanzui, Shitamizu",violent,கொடூரமான,ゲキ、はげ-しい,,形声 Phonetic,geki,hage(shii),激.gif
@@ -868,7 +868,7 @@
 560,呼,,口,1981,8,6,3,"Kuchi, Kuchihen",call,அழை,コ、よ-ぶ,,形声 Phonetic,ko,yo(bu),呼.gif
 585,誤,,言,1981,14,6,3,"Gon, Gonben",mistake,தவறு,ゴ、あやま-る,,形声 Phonetic,go,ayama(ru),誤.gif
 599,后,,口,1981,6,6,1,"Kuchi, Kuchihen",empress,ராணி,コウ,ゴ、きさき,会意 Com. Ideographic,koo,-,后.gif
-605,孝,,子,1981,7,6,1,"Ko, Kohen",filial piety,குழந்தைபோன்ற பக்தி (?),コウ,,会意 Com. Ideographic,koo,-,孝.gif
+605,孝,,子,1981,7,6,1,"Ko, Kohen",filial piety,குழந்தைபோன்ற பக்தி,コウ,,会意 Com. Ideographic,koo,-,孝.gif
 617,皇,,白,1981,9,6,1,Shiro,emperor,மன்னர்,コウ、オウ,すめらぎ,象形 Pictographic,"koo, oo",-,皇.gif
 618,紅,,糸,1981,9,6,2,"Ito, Itohen",deep red,கருஞ்சிவப்பு,コウ、[ク]、べに、くれない,,形声 Phonetic,"koo, [ku]","beni, kurenai",紅.gif
 627,降,,阜,1981,10,6,3,Kozatohen,descend,இறங்கு,コウ、お-りる、お-ろす、ふ-る,くだ,会意 Com. Ideographic,koo,"o(riru), o(rosu), fu(ru)",降.gif
@@ -876,11 +876,11 @@
 660,刻,,刀,1981,8,6,3,"Katana, Rittoo",engrave,செதுக்கு,コク、きざ-む,,形声 Phonetic,koku,kiza(mu),刻.gif
 663,穀,穀 [4],禾,1981,14,6,1,"Nogi, Nogihen",cereals,தானியங்கள்,コク,,形声 Phonetic,koku,-,穀.gif
 666,骨,,骨,1981,10,6,2,"Hone, Honehen",bone,எலும்பு,コツ、ほね,,会意 Com. Ideographic,kotsu,hone,骨.gif
-671,困,,囗,1981,7,6,3,Kunigamae,become distressed,துன்பம் (?),コン、こま-る,,象形 Pictographic,kon,koma(ru),困.gif
+671,困,,囗,1981,7,6,3,Kunigamae,become distressed,மனம் கலங்குதல்,コン、こま-る,,象形 Pictographic,kon,koma(ru),困.gif
 686,砂,,石,1981,9,6,2,"Ishi, Ishihen",sand,மணல்,サ、シャ、すな,,形声 Phonetic,"sa, sha",suna,砂.gif
 691,座,,广,1981,10,6,3,Madare,sit,உட்கார்,ザ、すわ-る,サ、くら、ぐら,形声 Phonetic,za,suwa(ru),座.gif
 703,済,濟,水,1981,11,6,3,"Mizu, Sanzui, Shitamizu",settle,தங்கி நிலைபெறு,サイ、す-む、す-ます,セイ、わた,形声 Phonetic,sai,"su(mu), su(masu)",済.gif
-709,裁,,衣,1981,12,6,1,"Koromo, Koromohen",judge,எடைபோடு,サイ、た-つ、さば-く,,形声 Phonetic,sai,"ta(tsu), saba(ku)",裁.gif
+709,裁,,衣,1981,12,6,1,"Koromo, Koromohen",judge,நீதிபதி,サイ、た-つ、さば-く,,形声 Phonetic,sai,"ta(tsu), saba(ku)",裁.gif
 728,策,,竹,1981,12,6,1,"Take, Takekanmuri",scheme,திட்டம்,サク,,形声 Phonetic,saku,-,策.gif
 733,冊,,冂,1981,5,6,2,Doogamae,counter for books,புத்தகங்களுக்கான எண்ணிக்கை சொல்,サツ、サク,,象形 Pictographic,"satsu, saku",-,冊.gif
 748,蚕,蠶,虫,1981,10,6,1,"Mushi, Mushihen",silkworm,பட்டுப்புழு,サン、かいこ,ごかい,形声 Phonetic,san,kaiko,蚕.gif
@@ -893,59 +893,59 @@
 822,磁,,石,1981,14,6,1,"Ishi, Ishihen",magnet,காந்தம்,ジ,,形声 Phonetic,ji,-,磁.gif
 846,射,,寸,1981,10,6,1,Sun,shoot,சுடு,シャ、い-る,,会意 Com. Ideographic,sha,i(ru),射.gif
 847,捨,,手,1981,11,6,2,Tehen,throw away,எறிந்து விடு,シャ、す-てる,,形声 Phonetic,sha,su(teru),捨.gif
-855,尺,,尸,1981,4,6,1,Shikabane,shaku,அளவு (?),シャク,セキ,象形 Pictographic,shaku,-,尺.gif
+855,尺,,尸,1981,4,6,1,Shikabane,shaku,சாகு,シャク,セキ,象形 Pictographic,shaku,-,尺.gif
 860,若,,艸,1981,8,6,3,Kusakanmuri,young,இளமை,ジャク、[ニャク]、わか-い、も-しくは,ニャ、か、そ,象形 Pictographic,"jaku, [nyaku]","waka(i), mo(shikuwa)",若.gif
 882,樹,,木,1981,16,6,1,"Ki, Kihen",trees,மரங்கள்,ジュ,ズ、き、た、ぎ,形声 Phonetic,ju,-,樹.gif
 883,収,收,攴,1981,4,6,3,Mata,take in,உட்கொள்,シュウ、おさ-める、おさ-まる,,会意 Com. Ideographic,shuu,"osa(meru), osa(maru)",収.gif
 889,宗,,宀,1981,8,6,1,Ukanmuri,religion,மதம்,シュウ、ソウ,ソ、むね,会意 Com. Ideographic,"shuu, soo",-,宗.gif
-899,就,,尢,1981,12,6,1,Dainomageashi,concerning,நிலைபெறுதல் (?),シュウ、[ジュ]、つ-く、つ-ける,な,会意 Com. Ideographic,"shuu, [ju]","tsu(ku), tsu(keru)",就.gif
+899,就,,尢,1981,12,6,1,Dainomageashi,concerning,பற்றி,シュウ、[ジュ]、つ-く、つ-ける,な,会意 Com. Ideographic,"shuu, [ju]","tsu(ku), tsu(keru)",就.gif
 900,衆,,血,1981,12,6,1,Chi,masses,திரள்கள்,シュウ、[シュ],ス,会意 Com. Ideographic,"shuu, [shu]",-,衆.gif
 913,従,從,彳,1981,10,6,1,Gyooninben,obey,கீழ்ப்படி,ジュウ、[ショウ]、[ジュ]、したが-う、したが-える,,会意 Com. Ideographic,"juu, [shoo], [ju]","shitaga(u), shitaga(eru)",従.gif
 917,縦,縱,糸,1981,16,6,1,"Ito, Itohen",vertical,செங்குத்தான,ジュウ、たて,ショウ、ほしいまま,形声 Phonetic,juu,tate,縦.gif
-923,縮,,糸,1981,17,6,1,"Ito, Itohen",shrink,சுருக்கு,シュク、ちぢ-む、ちぢ-まる、ちぢ-める、ちぢ-れる、ちぢ-らす,,形声 Phonetic,shuku,"chiji(mu), chiji(maru), chiji(meru), chiji(reru), chiji(rasu)",縮.gif
-925,熟,,火,1981,15,6,1,"Hi, Hihen, Renga",ripen,பழுத்த,ジュク、う-れる,,形声 Phonetic,juku,u(reru),熟.gif
+923,縮,,糸,1981,17,6,1,"Ito, Itohen",shrink,சுருங்கு,シュク、ちぢ-む、ちぢ-まる、ちぢ-める、ちぢ-れる、ちぢ-らす,,形声 Phonetic,shuku,"chiji(mu), chiji(maru), chiji(meru), chiji(reru), chiji(rasu)",縮.gif
+925,熟,,火,1981,15,6,1,"Hi, Hihen, Renga",ripen,பழுத்து,ジュク、う-れる,,形声 Phonetic,juku,u(reru),熟.gif
 937,純,,糸,1981,10,6,2,"Ito, Itohen",genuine,உண்மையான,ジュン,,形声 Phonetic,jun,-,純.gif
-943,処,處,虍,1981,5,6,3,Suinyoo,manage,சமாளி,ショ,どころ,会意 Com. Ideographic,sho,-,処.gif
+943,処,處,虍,1981,5,6,3,Suinyoo,dispose,அமைத்து வை,ショ,どころ,会意 Com. Ideographic,sho,-,処.gif
 949,署,署 [4],网,1981,13,6,2,Amigashira,government office,அரசு அலுவலகம்,ショ,,形声 Phonetic,sho,-,署.gif
 951,諸,諸 [4],言,1981,15,6,2,"Gon, Gonben",various,பல்வேறு,ショ,もろもろ,形声 Phonetic,sho,-,諸.gif
-958,除,,阜,1981,10,6,3,Kozatohen,exclude,"அகற்று, நீக்கு",ジョ、[ジ]、のぞ-く,,形声 Phonetic,"jo, [ji]",nozo(ku),除.gif
+958,除,,阜,1981,10,6,3,Kozatohen,exclude,விலக்கு செய்,ジョ、[ジ]、のぞ-く,,形声 Phonetic,"jo, [ji]",nozo(ku),除.gif
 975,将,將,寸,1981,10,6,2,Sun,leader,தலைவர்,ショウ,まさ、は,会意 Com. Ideographic,shoo,-,将.gif
 997,傷,,人,1981,13,6,1,"Hito, Ninben, Hitoyane",wound,காயம்,ショウ、きず、いた-む、いた-める,,形声 Phonetic,shoo,"kizu, ita(mu), ita(meru)",傷.gif
-1002,障,,阜,1981,14,6,1,Kozatohen,obstacle,"தடை, இயலாமை",ショウ、さわ-る,,形声 Phonetic,shoo,sawa(ru),障.gif
+1002,障,,阜,1981,14,6,1,Kozatohen,hurt,வலி,ショウ、さわ-る,,形声 Phonetic,shoo,sawa(ru),障.gif
 1015,城,,土,1981,9,6,2,"Tsuchi, Tsuchihen",castle,கோட்டை,ジョウ、しろ,セイ,形声 Phonetic,joo,shiro,城.gif
 1022,蒸,,艸,1981,13,6,2,Kusakanmuri,steam,ஆவி,ジョウ、む-す、む-れる、む-らす,,形声 Phonetic,joo,"mu(su), mu(reru), mu(rasu)",蒸.gif
 1057,針,,金,1981,10,6,2,"Kane, Kanehen",needle,ஊசி,シン、はり,,形声 Phonetic,shin,hari,針.gif
 1072,仁,,人,1981,4,6,1,"Hito, Ninben, Hitoyane",humanity,மனிதநேயம்,ジン、[ニ],ひと,会意 Com. Ideographic,"jin, [ni]",-,仁.gif
-1083,垂,,土,1981,8,6,1,"Tsuchi, Tsuchihen",droop,தொங்குதல்,スイ、た-れる、た-らす,,会意 Com. Ideographic,sui,"ta(reru), ta(rasu)",垂.gif
-1088,推,,手,1981,11,6,1,Tehen,infer,"ஊகி, அறி (?)",スイ、お-す,,形声 Phonetic,sui,o(su),推.gif
+1083,垂,,土,1981,8,6,1,"Tsuchi, Tsuchihen",droop,தளர்ந்து விழு,スイ、た-れる、た-らす,,会意 Com. Ideographic,sui,"ta(reru), ta(rasu)",垂.gif
+1088,推,,手,1981,11,6,1,Tehen,infer,ஊகி அறி,スイ、お-す,,形声 Phonetic,sui,o(su),推.gif
 1101,寸,,寸,1981,3,6,1,Sun,measurement,அளவீடு,スン,,会意 Com. Ideographic,sun,-,寸.gif
-1124,盛,,皿,1981,11,6,1,Sara,prosper,செழிப்பு,セイ、[ジョウ]、も-る、さか-る、さか-ん,,形声 Phonetic,"sei, [joo]","mo(ru), saka(ru), saka(n)",盛.gif
+1124,盛,,皿,1981,11,6,1,Sara,prosper,செழிப்பு அடை,セイ、[ジョウ]、も-る、さか-る、さか-ん,,形声 Phonetic,"sei, [joo]","mo(ru), saka(ru), saka(n)",盛.gif
 1128,聖,,耳,1981,13,6,1,"Mimi, Mimihen",holy,புனிதமான,セイ,ショウ、ひじり,会意 Com. Ideographic,sei,-,聖.gif
-1129,誠,,言,1981,13,6,1,"Gon, Gonben",sincerity,"வாய்மை, நேர்மை",セイ、まこと,ジョウ,形声 Phonetic,sei,makoto,誠.gif
+1129,誠,,言,1981,13,6,1,"Gon, Gonben",sincerity,உண்மைத்தன்மை,セイ、まこと,ジョウ,形声 Phonetic,sei,makoto,誠.gif
 1171,宣,,宀,1981,9,6,1,Ukanmuri,proclaim,பிரகடனம் செய்,セン,のたま、の,会意 Com. Ideographic,sen,-,宣.gif
 1172,専,專,寸,1981,9,6,2,Sun,specialty,சிறப்பு,セン、もっぱ-ら,,会意 Com. Ideographic,sen,moppa(ra),専.gif
 1173,泉,,水,1981,9,6,2,"Mizu, Sanzui, Shitamizu",spring,வசந்தகாலம்,セン、いずみ,,象形 Pictographic,sen,izumi,泉.gif
-1175,洗,,水,1981,9,6,3,"Mizu, Sanzui, Shitamizu",wash,கழுவு,セン、あら-う,,形声 Phonetic,sen,ara(u),洗.gif
-1176,染,,木,1981,9,6,1,"Ki, Kihen",dye,சாயம்,セン、そ-める、そ-まる、し-みる、し-み,,会意 Com. Ideographic,sen,"so(meru), so(maru), shi(miru), shi(mi)",染.gif
+1175,洗,,水,1981,9,6,3,"Mizu, Sanzui, Shitamizu",wash,கழு,セン、あら-う,,形声 Phonetic,sen,ara(u),洗.gif
+1176,染,,木,1981,9,6,1,"Ki, Kihen",dye,சாயம் பூசு,セン、そ-める、そ-まる、し-みる、し-み,,会意 Com. Ideographic,sen,"so(meru), so(maru), shi(miru), shi(mi)",染.gif
 1198,善,,口,1981,12,6,2,"Kuchi, Kuchihen",good,நல்ல,ゼン、よ-い,,会意 Com. Ideographic,zen,yo(i),善.gif
 1222,奏,,大,1981,9,6,1,Dai,play music,இசை வாசி,ソウ、かな-でる,,会意 Com. Ideographic,soo,kana(deru),奏.gif
-1236,窓,,穴,1981,11,6,3,"Ana, Anakanmuri",window,"சாளரம், சன்னல்",ソウ、まど,,形声 Phonetic,soo,mado,窓.gif
+1236,窓,,穴,1981,11,6,3,"Ana, Anakanmuri",window,சாளரம்,ソウ、まど,,形声 Phonetic,soo,mado,窓.gif
 1237,創,,刀,1981,12,6,1,"Katana, Rittoo",create,உருவாக்கு,ソウ、つく-る,はじ,形声 Phonetic,soo,tsuku(ru),創.gif
 1241,装,裝,衣,1981,12,6,2,"Koromo, Koromohen",attire,உடை,ソウ、ショウ、よそお-う,,形声 Phonetic,"soo, shoo",yosoo(u),装.gif
 1244,層,層 [4],尸,1981,14,6,2,Shikabane,stratum,அடுக்கு,ソウ,,形声 Phonetic,soo,-,層.gif
-1249,操,,手,1981,16,6,2,Tehen,"Fidelity, honor, chastity",ஒழுக்கம்,ソウ、みさお、あやつ-る,,形声 Phonetic,soo,"misao, ayatsu(ru)",操.gif
-1258,蔵,藏,艸,1981,15,6,2,Kusakanmuri,warehouse,களஞ்சியம் (?),ゾウ、くら,,形声 Phonetic,zoo,kura,蔵.gif
-1260,臓,臟,肉,1981,19,6,2,"Niku, Nikuzuki",entrails,உள் உறுப்புகள்,ゾウ,,形声 Phonetic,zoo,-,臓.gif
-1278,存,,子,1981,6,6,3,"Ko, Kohen",suppose,ஊகி,ソン、ゾン,,会意 Com. Ideographic,"son, zon",-,存.gif
-1281,尊,,寸,1981,12,6,2,Sun,revered,மதிக்கப்பட்ட (?),ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ,みこと,会意 Com. Ideographic,son,"tatto(i), tooto(i), tatto(bu), tooto(bu)",尊.gif
+1249,操,,手,1981,16,6,2,Tehen,maneuver,நடைமுறை,ソウ、みさお、あやつ-る,,形声 Phonetic,soo,"misao, ayatsu(ru)",操.gif
+1258,蔵,藏,艸,1981,15,6,2,Kusakanmuri,warehouse,களஞ்சியம்,ゾウ、くら,,形声 Phonetic,zoo,kura,蔵.gif
+1260,臓,臟,肉,1981,19,6,2,"Niku, Nikuzuki",entrails,உள்பாகங்கள்,ゾウ,,形声 Phonetic,zoo,-,臓.gif
+1278,存,,子,1981,6,6,3,"Ko, Kohen",suppose,ஊகிக்கொள்,ソン、ゾン,,会意 Com. Ideographic,"son, zon",-,存.gif
+1281,尊,,寸,1981,12,6,2,Sun,revered,மதிக்கப்பட்ட,ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ,みこと,会意 Com. Ideographic,son,"tatto(i), tooto(i), tatto(bu), tooto(bu)",尊.gif
 1318,宅,,宀,1981,6,6,3,Ukanmuri,home,வீடு,タク,,形声 Phonetic,taku,-,宅.gif
-1335,担,擔,手,1981,8,6,2,Tehen,shouldering,தோளில் சும (?),タン、かつ-ぐ、にな-う,,形声 Phonetic,tan,"katsu(gu), nina(u)",担.gif
-1339,探,,手,1981,11,6,3,Tehen,explore,ஆராய்தல்,タン、さぐ-る、さが-す,,形声 Phonetic,tan,"sagu(ru), saga(su)",探.gif
-1345,誕,,言,1981,15,6,1,"Gon, Gonben","birth, to be born",பிறப்பு,タン,,形声 Phonetic,tan,-,誕.gif
+1335,担,擔,手,1981,8,6,2,Tehen,shouldering,தோளில் சுமந்து,タン、かつ-ぐ、にな-う,,形声 Phonetic,tan,"katsu(gu), nina(u)",担.gif
+1339,探,,手,1981,11,6,3,Tehen,grope,தடவித் தேடு,タン、さぐ-る、さが-す,,形声 Phonetic,tan,"sagu(ru), saga(su)",探.gif
+1345,誕,,言,1981,15,6,1,"Gon, Gonben",nativity,பிறப்பு,タン,,形声 Phonetic,tan,-,誕.gif
 1349,段,,殳,1981,9,6,3,Rumata,steps,படிக்கட்டுகள்,ダン,タン,会意 Com. Ideographic,dan,-,段.gif
-1352,暖,,日,1981,13,6,1,"Nichi, Nichihen",warmth,"இளஞ்சூடான, கதகதப்பு",ダン、あたた-か、あたた-かい、あたた-まる、あたた-める,ノン,形声 Phonetic,dan,"atata(ka), atata(kai), atata(maru), atata(meru)",暖.gif
+1352,暖,,日,1981,13,6,1,"Nichi, Nichihen",warmth,வெப்பம்,ダン、あたた-か、あたた-かい、あたた-まる、あたた-める,ノン,形声 Phonetic,dan,"atata(ka), atata(kai), atata(maru), atata(meru)",暖.gif
 1358,値,,人,1981,10,6,3,"Hito, Ninben, Hitoyane",value,மதிப்பு,チ、ね、あたい,ジ,形声 Phonetic,chi,"ne, atai",値.gif
-1380,宙,,宀,1981,8,6,1,Ukanmuri,mid-air,நடுவானில்,チュウ,,形声 Phonetic,chuu,-,宙.gif
+1380,宙,,宀,1981,8,6,1,Ukanmuri,mid-air,வான்மையம்,チュウ,,形声 Phonetic,chuu,-,宙.gif
 1381,忠,,心,1981,8,6,1,"Kokoro, Risshinben, Shitagokoro",loyalty,விசுவாசம்,チュウ,,形声 Phonetic,chuu,-,忠.gif
 1390,著,著 [4],艸,1981,11,6,2,Kusakanmuri,renowned,புகழ்பெற்ற,チョ、あらわ-す、いちじる-しい,,形声 Phonetic,cho,"arawa(su), ichijiru(shii)",著.gif
 1394,庁,廳,广,1981,5,6,2,Madare,government office,அரசு அலுவலகம்,チョウ,,形声 Phonetic,choo,-,庁.gif
@@ -954,7 +954,7 @@
 1425,賃,,貝,1981,13,6,2,"Kai, Kaihen",fare,கட்டணம்,チン,,形声 Phonetic,chin,-,賃.gif
 1431,痛,,疒,1981,12,6,3,Yamaidare,pain,வலி,ツウ、いた-い、いた-む、いた-める,,形声 Phonetic,tsuu,"ita(i), ita(mu), ita(meru)",痛.gif
 1476,展,,尸,1981,10,6,2,Shikabane,expand,விரிவு படுத்து,テン,の,会意 Com. Ideographic,ten,-,展.gif
-1512,討,,言,1981,10,6,1,"Gon, Gonben",chastise,வெற்றி கொள்ளல்,トウ、う-つ,,形声 Phonetic,too,u(tsu),討.gif
+1512,討,,言,1981,10,6,1,"Gon, Gonben",chastise,தண்டனை கொடு,トウ、う-つ,,形声 Phonetic,too,u(tsu),討.gif
 1514,党,黨,黑,1981,10,6,2,Shoo,group,குழு,トウ,,形声 Phonetic,too,-,党.gif
 1530,糖,,米,1981,16,6,1,"Kome, Komehen",sugar,சர்க்கரை,トウ,,形声 Phonetic,too,-,糖.gif
 1560,届,屆,尸,1981,8,6,2,Shikabane,deliver,வழங்கு,とど-ける、とど-く,,会意 Com. Ideographic,-,"todo(keru), todo(ku)",届.gif
@@ -1067,7 +1067,7 @@
 115,翁,,羽,1981,10,7,1,Hane,venerable old man,மதிக்கத்தக்க முதியவர்,オウ,おきな,形声 Phonetic,oo,-,翁.gif
 116,奥,奧,大,1981,12,7,2,Dai,heart,இதயம்,オウ、おく,,会意 Com. Ideographic,oo,oku,奥.gif
 118,岡,,山,2010,8,7,1,"Yama, Yamahen",hill,மேடு,[おか],コウ,会意 Com. Ideographic,-,[oka],岡.gif
-121,憶,,心,1981,16,7,1,"Kokoro, Risshinben, Shitagokoro",recollection,மீள்நினைவு,オク,おぼ,形声 Phonetic,oku,-,憶.gif
+121,憶,,心,1981,16,7,1,"Kokoro, Risshinben, Shitagokoro",recollection,நினைவு,オク,おぼ,形声 Phonetic,oku,-,憶.gif
 122,臆,,肉,2010,17,7,0,"Niku, Nikuzuki",timidity,முன் பயம்,オク,,形声 Phonetic,oku,-,臆.gif
 123,虞,,虍,1981,13,7,1,Toragashira,uneasiness,அமைதி இல்லாமை,おそれ,グ,形声 Phonetic,-,osore,虞.gif
 124,乙,,乙,1981,1,7,1,"Otsu, Otsunyoo",the latter,பிந்தையது,オツ,,象形 Pictographic,otsu,-,乙.gif

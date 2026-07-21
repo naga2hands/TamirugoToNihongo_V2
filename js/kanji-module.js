@@ -121,18 +121,18 @@
   function showDetails(entry) {
     const fields = [
 //      ['ID','ID'],
-      ['Kanji','Kanji'],
-      ['Radical','Radical'],
-      ['Name of Radical','Name of Radical'],
+//      ['Kanji','Kanji'],
+//      ['Name of Radical','Name of Radical'],
       ['Reading within Joyo','Reading within Joyo'],
       ['Tamil Meaning','Tamil Meaning'],
       ['English Meaning','English Meaning'],
-      ['Year of Inclusion','Year of Inclusion'],
       ['Strokes','Strokes'],
       ['Grade','Grade'],
       ['JLPT-test','JLPT-test'],
-      ['Kanji Classification','Kanji Classification']
-    ];
+      ['Year of Inclusion','Year of Inclusion'],
+      ['Kanji Classification','Kanji Classification'],
+      ['Radical','Radical']
+        ];
     kanjiFields.innerHTML = '';
     fields.forEach(([label,key])=>{
       const row = document.createElement('div');

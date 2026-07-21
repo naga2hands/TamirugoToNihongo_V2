@@ -151,12 +151,13 @@
     const fields = [
       ['Radical','Radical'],
       ['Variants','Variants'],
-      ['Stroke count','Stroke count'],
+      ['Tamil Meaning','Tamil Meaning'],
       ['Meaning and reading','Meaning and reading'],
 //      ['Frequency','Frequency'],
 //      ['Jōyō freq','Jōyō freq'],
       ['Examples','Examples'],
-      ['Group','Group']
+//      ['Group','Group'],
+      ['Stroke count','Stroke count']
     ];
     fields.forEach(([label,key])=>{
       const row = document.createElement('div');

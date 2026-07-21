@@ -539,7 +539,7 @@ window.kanaData = [
     "katakana_strokeGif": "assets/stroke-order/si2.gif",
     "katakana_mnemonicText": "ஹிரகந \"し\" வழி கதகந \"シ\" நினைவில் கொள்க.<br> シ அது \"ஷி\" ஒலிக்கு இணை.",
         "tamil": "ஷி",
-        "audio": "assets/audio/si.mp3"
+        "audio": "assets/audio/shi.mp3"
       },
       "dakuon": {
         "id": "zi",
@@ -876,7 +876,7 @@ window.kanaData = [
     "katakana_strokeGif": "assets/stroke-order/tu2.gif",
     "katakana_mnemonicText": "ஹிரகந \"つ\" வழி கதகந \"ツ\" நினைவில் கொள்க.<br> ツ அது \"ட்சு\" ஒலிக்கு இணை.",
         "tamil": "ட்சு",
-        "audio": "assets/audio/tu.mp3"
+        "audio": "assets/audio/tsu.mp3"
       },
       "dakuon": {
         "id": "du",
@@ -1409,7 +1409,7 @@ window.kanaData = [
     "katakana_strokeGif": "assets/stroke-order/hu2.gif",
     "katakana_mnemonicText": "ஃபுஜி மலை யப்பானின் புனிதச்சின்னம், உறங்கும் எரிமலை.<br> フ அது ஃபுஜியின் \"ஃபு\" ஒலிக்கு இணை.",
         "tamil": "ஃபு",
-        "audio": "assets/audio/hu.mp3"
+        "audio": "assets/audio/fu.mp3"
       },
       "dakuon": {
         "id": "bu",
