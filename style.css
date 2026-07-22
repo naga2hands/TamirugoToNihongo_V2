@@ -253,6 +253,7 @@ button {
   }
 }
 
+
 .kana-tile,
 .sound-cell,
 .kana-birth-tile {
@@ -840,9 +841,6 @@ button {
 }
 
 @media (max-width: 1000px) {
-  .app-container {
-    grid-template-columns: 1fr;
-  }
   .mnemonics-body,
   .sound-types-body {
     grid-template-columns: 1fr;
