@@ -7,6 +7,13 @@
   --main-panel-font-size: 1rem;
   --sidebar-panel-font-size: 0.95rem;
   --sidebar-paragraph-font-size: 0.85rem;
+  --sidebar-min-width: 180px;
+  --sidebar-max-width: 220px;
+  --sidebar-gap: clamp(14px, 1vw, 18px);
+  --sidebar-padding-vertical: clamp(14px, 1.2vw, 16px);
+  --sidebar-padding-horizontal: clamp(12px, 1vw, 14px);
+  --content-padding-vertical: clamp(10px, 1.2vw, 14px);
+  --content-padding-horizontal: clamp(10px, 1vw, 14px);
 }
 
 * {
@@ -29,17 +36,17 @@ button {
 
 .app-container {
   display: grid;
-  grid-template-columns: minmax(180px, 220px) 1fr;
+  grid-template-columns: minmax(var(--sidebar-min-width), var(--sidebar-max-width)) 1fr;
   min-height: 100vh;
 }
 
 .sidebar {
   background: #2c3d63;
   color: #f8fafc;
-  padding: 16px 14px;
+  padding: var(--sidebar-padding-vertical) var(--sidebar-padding-horizontal);
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: var(--sidebar-gap);
 }
 
 .brand {
@@ -59,12 +66,13 @@ button {
   border: none;
   width: 100%;
   text-align: left;
-  padding: 14px 16px;
+  padding: clamp(11px, 1vw, 14px) clamp(12px, 1vw, 16px);
   border-radius: 14px;
   background: transparent;
   color: inherit;
   cursor: pointer;
   transition: background 0.2s ease, color 0.2s ease;
+  font-size: clamp(0.95rem, 0.98vw, 1rem);
 }
 
 .nav-item:hover,
@@ -74,7 +82,7 @@ button {
 }
 
 .main-content {
-  padding: 12px 14px;
+  padding: var(--content-padding-vertical) var(--content-padding-horizontal);
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -104,12 +112,12 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 16px;
+  gap: clamp(12px, 1.2vw, 16px);
 }
 
 .module-toolbar h1 {
   margin: 0;
-  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  font-size: clamp(1.05rem, 1.8vw, 1.45rem);
 }
 
 .module-content {
@@ -168,13 +176,13 @@ button {
 .panel-title {
   margin: 0;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: clamp(0.98rem, 1.2vw, 1.1rem);
 }
 
 .script-toggle,
 .sound-type-tabs {
   display: flex;
-  gap: 10px;
+  gap: clamp(8px, 0.8vw, 10px);
   flex-wrap: wrap;
 }
 
@@ -184,10 +192,11 @@ button {
   border: 1px solid #d1d5db;
   background: #ffffff;
   color: #111827;
-  padding: 8px 12px;
+  padding: clamp(7px, 0.8vw, 10px) clamp(10px, 1vw, 12px);
   border-radius: 999px;
   cursor: pointer;
   transition: all 0.2s ease;
+  font-size: clamp(0.83rem, 0.9vw, 0.95rem);
 }
 
 .toggle-button.active,
@@ -195,6 +204,7 @@ button {
   background: #2563eb;
   color: #ffffff;
   border-color: #2563eb;
+  font-size: clamp(0.85rem, 0.95vw, 1rem);
 }
 
 .toggle-button:hover,
@@ -218,7 +228,7 @@ button {
 
 .sound-grid-column {
   display: grid;
-  gap: 10px;
+  gap: clamp(8px, 1vw, 10px);
 }
 
 .kana-grid,
@@ -234,11 +244,21 @@ button {
   }
 
   .sidebar {
-    padding: 14px 12px;
+    padding: clamp(12px, 1vw, 14px) clamp(10px, 1vw, 12px);
+  }
+
+  .main-content {
+    padding: clamp(10px, 1vw, 12px);
   }
 
   .nav-item {
-    padding: 12px 14px;
+    padding: clamp(10px, 1vw, 12px) clamp(12px, 1vw, 14px);
+    font-size: clamp(0.92rem, 0.95vw, 0.98rem);
+  }
+
+  .kana-grid,
+  .sound-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 
@@ -275,8 +295,8 @@ button {
   border: 1px solid #e5e7eb;
   border-radius: 14px;
   background: #ffffff;
-  padding: 8px;
-  min-height: 58px;
+  padding: clamp(8px, 1vw, 10px);
+  min-height: clamp(52px, 4.5vh, 58px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -333,30 +353,24 @@ button {
 }
 
 .tile-kana {
-  font-size: 1.1rem;
+  font-size: clamp(1rem, 1.5vw, 1.1rem);
   line-height: 1.1;
 }
 
 .kana-birth-sidebar {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-}
-
-.kana-birth-sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+  gap: clamp(10px, 1vw, 12px);
 }
 
 .kana-birth-sidebar-panel {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: clamp(10px, 1vw, 12px);
   background: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 18px;
-  padding: 14px;
+  padding: clamp(12px, 1vw, 14px);
   box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
   flex: 1;
   overflow-y: auto;
@@ -366,13 +380,13 @@ button {
 .kana-birth-section {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: clamp(8px, 1vw, 10px);
   padding: 0;
 }
 
 .kana-birth-section h3 {
   margin: 0;
-  font-size: 1rem;
+  font-size: clamp(0.98rem, 1.2vw, 1rem);
   color: #0f172a;
 }
 
@@ -423,11 +437,11 @@ button {
 }
 
 .preview-image {
-  min-height: 150px;
+  min-height: clamp(120px, 15vh, 150px);
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 14px;
+  padding: clamp(10px, 1vw, 14px);
 }
 
 .preview-image img,
@@ -828,17 +842,17 @@ button {
 
 .sound-grid-column h3 {
   margin: 0 0 14px;
-  font-size: 1rem;
+  font-size: clamp(0.98rem, 1.1vw, 1.05rem);
 }
 
 .sound-types-sidebar {
   background: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 18px;
-  padding: 20px;
+  padding: clamp(16px, 1.2vw, 20px);
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: clamp(10px, 1vw, 12px);
   font-size: var(--sidebar-panel-font-size);
 }
 
