@@ -29,7 +29,7 @@ button {
 
 .app-container {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: minmax(180px, 220px) 1fr;
   min-height: 100vh;
 }
 
@@ -226,6 +226,20 @@ button {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 6px;
+}
+
+@media (max-width: 1150px) {
+  .app-container {
+    grid-template-columns: minmax(160px, 200px) 1fr;
+  }
+
+  .sidebar {
+    padding: 14px 12px;
+  }
+
+  .nav-item {
+    padding: 12px 14px;
+  }
 }
 
 @media (max-width: 900px) {
