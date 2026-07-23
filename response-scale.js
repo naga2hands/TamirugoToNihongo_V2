@@ -16,7 +16,7 @@ window.addEventListener("load", () => {
     } else {
       mc.style.zoom = "100%";
       sb.style.zoom = "90%";
-      console.log("Applied normal scale");
+      console.log("Applied normal scale1");
     }
   }
 });
