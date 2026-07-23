@@ -916,7 +916,8 @@ button {
 
 @media (max-width: 1000px) {
   .mnemonics-body,
-  .sound-types-body {
+  .sound-types-body,
+  .kana-birth-body {
     grid-template-columns: 1fr;
   }
 }

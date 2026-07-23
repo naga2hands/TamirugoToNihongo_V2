@@ -153,7 +153,7 @@
       ['Variants','Variants'],
       ['Tamil Meaning','Tamil Meaning'],
       ['Meaning and reading','Meaning and reading'],
-//      ['Frequency','Frequency'],
+//      ['Frequency','Frequency'],if
 //      ['Jōyō freq','Jōyō freq'],
       ['Examples','Examples'],
 //      ['Group','Group'],
