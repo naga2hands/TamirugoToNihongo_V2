@@ -15,7 +15,7 @@ window.addEventListener("load", () => {
       console.log("Applied laptop scale");
     } else {
       mc.style.zoom = "100%";
-      sb.style.zoom = "100%";
+      sb.style.zoom = "90%";
       console.log("Applied normal scale");
     }
   }
