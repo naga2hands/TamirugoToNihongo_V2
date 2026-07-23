@@ -594,9 +594,14 @@ button {
 .legacy-shell .layout-grid {
   display: grid;
   grid-template-columns: minmax(0, 2.0fr) minmax(250px, 1fr);
+  grid-template-rows: minmax(0, 1fr) auto;
+  grid-template-areas:
+    "panel explanation"
+    "control control";
   gap: 4px;
   align-items: stretch;
   min-height: 0;
+  height: 100%;
 }
 
 .legacy-shell .panel {
@@ -612,6 +617,18 @@ button {
 
 .legacy-shell .panel-grid {
   min-height: 0;
+  grid-area: panel;
+}
+
+.legacy-shell .panel.panel-explanation {
+  grid-area: explanation;
+  position: static;
+  overflow: auto;
+}
+
+.legacy-shell .control-panel {
+  grid-area: control;
+  overflow-y: auto;
 }
 
 .legacy-shell .tamil-grid {
@@ -863,6 +880,40 @@ button {
 @media (max-width: 960px) {
   .legacy-shell .layout-grid {
     grid-template-columns: 1fr;
+    grid-template-rows: minmax(0, 1fr) auto minmax(0, 1fr);
+    grid-template-areas:
+      "panel"
+      "control"
+      "explanation";
+    gap: 12px;
+    height: 100%;
+  }
+
+  .legacy-shell .panel-grid {
+    grid-area: panel;
+  }
+
+  .legacy-shell .control-panel {
+    grid-area: control;
+    overflow-y: auto;
+    min-height: 0;
+    max-height: 280px;
+  }
+
+  .legacy-shell .panel.panel-explanation {
+    grid-area: explanation;
+    position: static;
+    top: auto;
+  }
+
+  .legacy-shell .panel,
+  .legacy-shell .panel.panel-explanation {
+    min-height: 0;
+  }
+
+  .legacy-shell .tamil-grid,
+  .legacy-shell .panel-explanation > div {
+    min-height: 0;
   }
 }
 
