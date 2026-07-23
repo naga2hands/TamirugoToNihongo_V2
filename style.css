@@ -93,7 +93,7 @@ button {
    ensure scrolling happens inside the module area, not the document. */
 .main-content {
   height: 100vh;
-  overflow: hidden;
+  overflow: auto;
 }
 
 /* Adjustable toolbar height -- tweak if your header is taller. */
