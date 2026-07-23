@@ -4,11 +4,11 @@
   background: #eef2f5;
   color: #111827;
   font-size: 16px;
-  --main-panel-font-size: 1rem;
+  --main-panel-font-size: 0.90rem;
   --sidebar-panel-font-size: 0.95rem;
   --sidebar-paragraph-font-size: 0.85rem;
   --sidebar-min-width: 100px;
-  --sidebar-max-width: 220px;
+  --sidebar-max-width: 200px;
   --sidebar-gap: clamp(14px, 1vw, 18px);
   --sidebar-padding-vertical: clamp(14px, 1.2vw, 16px);
   --sidebar-padding-horizontal: clamp(12px, 1vw, 14px);
