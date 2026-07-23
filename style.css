@@ -218,17 +218,22 @@ button {
   display: grid;
   grid-template-columns: minmax(0, 1.6fr) minmax(180px, 0.7fr);
   gap: 12px;
+  align-items: stretch;
 }
 
 .sound-grids {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
+  align-items: stretch;
+  min-height: 0;
 }
 
 .sound-grid-column {
   display: grid;
   gap: clamp(8px, 1vw, 10px);
+  align-content: start;
+  min-height: 100%;
 }
 
 .kana-grid,
@@ -329,7 +334,7 @@ button {
   border-radius: 14px;
   background: #ffffff;
   padding: clamp(8px, 1vw, 10px);
-  min-height: clamp(52px, 4.5vh, 58px);
+  min-height: clamp(48px, 4.5vh, 54px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -337,6 +342,11 @@ button {
   gap: 4px;
   cursor: pointer;
   transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.sound-cell,
+.kana-birth-tile {
+  min-height: 46px !important;
 }
 
 /* Disabled / removed styles for kana tiles */
@@ -443,7 +453,7 @@ button {
 }
 
 .kana-birth-tile {
-  min-height: 62px;
+  min-height: 46px;
   padding: 6px;
 }
 
@@ -457,7 +467,7 @@ button {
 }
 
 .tile-sub {
-  font-size: 0.75rem;
+  font-size: 0.70rem;
   color: #475569;
   text-align: center;
 }
@@ -874,8 +884,10 @@ button {
 }
 
 .sound-grid-column h3 {
-  margin: 0 0 14px;
-  font-size: clamp(0.98rem, 1.1vw, 1.05rem);
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #111827;
 }
 
 .sound-types-sidebar {
@@ -891,7 +903,8 @@ button {
 
 .sound-types-sidebar h2 {
   margin: 0;
-  font-size: 1.1rem;
+  font-size: clamp(0.98rem, 1.2vw, 1.1rem);
+  font-weight: 700;
 }
 
 .sound-types-sidebar p {
@@ -920,9 +933,10 @@ button {
     grid-template-columns: repeat(auto-fill, minmax(68px, 1fr));
   }
   .kana-tile,
-  .sound-cell {
+  .sound-cell,
+  .kana-birth-tile {
     padding: 12px;
-    min-height: 96px;
+    min-height: 46px;
   }
 }
 
