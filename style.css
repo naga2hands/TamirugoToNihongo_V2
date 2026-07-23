@@ -7,7 +7,7 @@
   --main-panel-font-size: 1rem;
   --sidebar-panel-font-size: 0.95rem;
   --sidebar-paragraph-font-size: 0.85rem;
-  --sidebar-min-width: 180px;
+  --sidebar-min-width: 100px;
   --sidebar-max-width: 220px;
   --sidebar-gap: clamp(14px, 1vw, 18px);
   --sidebar-padding-vertical: clamp(14px, 1.2vw, 16px);
