@@ -5,5 +5,5 @@ window.addEventListener("load", () => {
     } else {
         document.body.style.zoom = "100%";
     }
-
+console.log("response-scale.js loaded");
 });
