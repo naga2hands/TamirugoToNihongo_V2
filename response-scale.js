@@ -3,8 +3,8 @@ window.addEventListener("load", () => {
 
     if (window.innerWidth <= 1920) {
         document.querySelector(".module-content").style.zoom = "67%";
-        document.querySelector(".sidebar").style.fontSize = "0.65rem";
-        console.log("Applied 67% zoom4");
+document.querySelectorAll(".nav-item").forEach(e => {e.style.fontSize = "0.85rem";});
+        console.log("Applied 67% zoom5");
     } else {
         document.querySelector(".module-content").style.zoom = "100%";
         document.querySelector(".sidebar").style.fontSize = "100%";    }
