@@ -1,14 +1,22 @@
 window.addEventListener("load", () => {
-    console.log("Window Width:", window.innerWidth);
+  const mc = document.querySelector(".module-content");
+  const sb = document.querySelector(".sidebar");
+  const w = window.innerWidth;
+  const dpr = window.devicePixelRatio || 1;
 
-    if (window.innerWidth <= 1920) {
-        document.querySelector(".module-content").style.zoom = "67%";
-        document.querySelector(".sidebar").style.zoom = "80%";
-//        document.querySelector(".sidebar").style.zoom = "60%";
-        console.log("Applied 67% zoom1");
+  console.log("innerWidth:", w);
+  console.log("devicePixelRatio:", dpr);
+  console.log("screen.width:", window.screen.width);
+
+  if (mc && sb) {
+    if (w <= 1366 || dpr >= 1.25) {
+      mc.style.zoom = "67%";
+      sb.style.zoom = "80%";
+      console.log("Applied laptop scale");
     } else {
-        document.querySelector(".module-content").style.zoom = "100%";
-        document.querySelector(".sidebar").style.fontSize = "100%";    }
-        console.log("Applied 100% zoom3");
-    console.log("response-scale.js loaded");
+      mc.style.zoom = "100%";
+      sb.style.zoom = "100%";
+      console.log("Applied normal scale");
+    }
+  }
 });
