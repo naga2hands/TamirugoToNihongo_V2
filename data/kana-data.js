@@ -237,7 +237,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っか",
         "katakana": "ッカ",
-        "tamil": "kka",
+        "tamil": "க்க",
         "audio": "assets/audio/sokuon_ka.mp3"
       },
       "extended": null
@@ -280,7 +280,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っき",
         "katakana": "ッキ",
-        "tamil": "kki",
+        "tamil": "க்கி",
         "audio": "assets/audio/sokuon_ki.mp3"
       },
       "extended": null
@@ -338,7 +338,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っく",
         "katakana": "ック",
-        "tamil": "kku",
+        "tamil": "க்கு",
         "audio": "assets/audio/sokuon_ku.mp3"
       },
       "extended": null
@@ -386,7 +386,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っけ",
         "katakana": "ッケ",
-        "tamil": "kke",
+        "tamil": "க்கெ",
         "audio": "assets/audio/sokuon_ke.mp3"
       },
 "extended": {
@@ -454,7 +454,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っこ",
         "katakana": "ッコ",
-        "tamil": "kko",
+        "tamil": "க்கொ",
         "audio": "assets/audio/sokuon_ko.mp3"
       },
       "extended": null
@@ -488,7 +488,7 @@ window.kanaData = [
         "id": "za",
         "hiragana": "ざ",
         "katakana": "ザ",
-        "tamil": "ச\"",
+        "tamil": "ச\" (za)",
         "audio": "assets/audio/za.mp3"
       },
       "handakuon": null,
@@ -511,7 +511,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っさ",
         "katakana": "ッサ",
-        "tamil": "ssa",
+        "tamil": "ஸ்ச",
         "audio": "assets/audio/sokuon_sa.mp3"
       },
       "extended": null
@@ -545,7 +545,7 @@ window.kanaData = [
         "id": "zi",
         "hiragana": "じ",
         "katakana": "ジ",
-        "tamil": "ஜி",
+        "tamil": "ஜி (ji)",
         "audio": "assets/audio/ji.mp3"
       },
       "handakuon": null,
@@ -554,7 +554,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っし",
         "katakana": "ッシ",
-        "tamil": "shshi",
+        "tamil": "ஷ்ஷி",
         "audio": "assets/audio/sokuon_si.mp3"
       },
 	  "extended": {
@@ -593,7 +593,7 @@ window.kanaData = [
         "id": "zu",
         "hiragana": "ず",
         "katakana": "ズ",
-        "tamil": "சு\"",
+        "tamil": "சு\" (zu)",
         "audio": "assets/audio/zu.mp3"
       },
       "handakuon": null,
@@ -617,7 +617,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っす",
         "katakana": "ッス",
-        "tamil": "ssu",
+        "tamil": "ஸ்சு",
         "audio": "assets/audio/sokuon_su.mp3"
       },
 	  "extended": {
@@ -656,7 +656,7 @@ window.kanaData = [
         "id": "ze",
         "hiragana": "ぜ",
         "katakana": "ゼ",
-        "tamil": "செ\"",
+        "tamil": "செ\" (ze)",
         "audio": "assets/audio/ze.mp3"
       },
       "handakuon": null,
@@ -665,7 +665,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っせ",
         "katakana": "ッセ",
-        "tamil": "sse",
+        "tamil": "ஸ்செ",
         "audio": "assets/audio/sokuon_se.mp3"
       },
 	  "extended": {
@@ -703,7 +703,7 @@ window.kanaData = [
         "id": "zo",
         "hiragana": "ぞ",
         "katakana": "ゾ",
-        "tamil": "சொ\"",
+        "tamil": "சொ\" (zo)",
         "audio": "assets/audio/zo.mp3"
       },
       "handakuon": null,
@@ -712,7 +712,7 @@ window.kanaData = [
           "key": "yo",
           "hiragana": "しょ",
           "katakana": "ショ",
-          "tamil": "ஷோ",
+          "tamil": "ஷொ",
           "audio": "assets/audio/sho.mp3"
         },
 
@@ -728,7 +728,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っそ",
         "katakana": "ッソ",
-        "tamil": "sso",
+        "tamil": "ஸ்சொ",
         "audio": "assets/audio/sokuon_so.mp3"
       },
 	  "extended": {
@@ -766,7 +766,7 @@ window.kanaData = [
         "id": "da",
         "hiragana": "だ",
         "katakana": "ダ",
-        "tamil": "த\"",
+        "tamil": "த\" (dha)",
         "audio": "assets/audio/da.mp3"
       },
       "handakuon": null,
@@ -795,7 +795,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っしゃ",
         "katakana": "ッシャ",
-        "tamil": "shsha",
+        "tamil": "ஷ்ஷ",
         "audio": "assets/audio/sokuon_ta.mp3"
       },
 	  "extended": {
@@ -834,7 +834,7 @@ window.kanaData = [
         "id": "di",
         "hiragana": "ぢ",
         "katakana": "ヂ",
-        "tamil": "ஜி",
+        "tamil": "ஜி (ji)",
         "audio": "assets/audio/di.mp3"
       },
       "handakuon": null,
@@ -882,7 +882,7 @@ window.kanaData = [
         "id": "du",
         "hiragana": "づ",
         "katakana": "ヅ",
-        "tamil": "ட்சு\"",
+        "tamil": "ட்சு\" (zu)",
         "audio": "assets/audio/du.mp3"
       },
       "handakuon": null,
@@ -911,7 +911,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っしゅ",
         "katakana": "ッシュ",
-        "tamil": "shshu",
+        "tamil": "ஷ்ஷு",
         "audio": "assets/audio/sokuon_tu.mp3"
       },
 	  "extended": {
@@ -950,7 +950,7 @@ window.kanaData = [
         "id": "de",
         "hiragana": "で",
         "katakana": "デ",
-        "tamil": "தெ\"",
+        "tamil": "தெ\" (dhe)",
         "audio": "assets/audio/de.mp3"
       },
       "handakuon": null,
@@ -998,7 +998,7 @@ window.kanaData = [
         "id": "do",
         "hiragana": "ど",
         "katakana": "ド",
-        "tamil": "தொ\"",
+        "tamil": "தொ\" (dho)",
         "audio": "assets/audio/do.mp3"
       },
       "handakuon": null,
@@ -1027,7 +1027,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っしょ",
         "katakana": "ッショ",
-        "tamil": "shsho",
+        "tamil": "ஷ்ஷொ",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1077,7 +1077,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "った",
         "katakana": "ッタ",
-        "tamil": "tta",
+        "tamil": "த்த",
         "audio": "assets/audio/sokuon_to.mp3"
       },
       "extended": null
@@ -1114,7 +1114,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っち",
         "katakana": "ッチ",
-        "tamil": "chchi",
+        "tamil": "ச்சி",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1164,7 +1164,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っつ",
         "katakana": "ッツ",
-        "tamil": "ttsu",
+        "tamil": "ட்ஸ்சு",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1211,7 +1211,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "って",
         "katakana": "ッテ",
-        "tamil": "tte",
+        "tamil": "த்தெ",
         "audio": "assets/audio/sokuon_to.mp3"
       },
       "extended": null
@@ -1262,7 +1262,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っと",
         "katakana": "ッツ",
-        "tamil": "tto",
+        "tamil": "த்தொ",
         "audio": "assets/audio/sokuon_to.mp3"
       },
       "extended": null
@@ -1295,7 +1295,7 @@ window.kanaData = [
         "id": "ba",
         "hiragana": "ば",
         "katakana": "バ",
-        "tamil": "ப\"",
+        "tamil": "ப\" (ba)",
         "audio": "assets/audio/ba.mp3"
       },
       "handakuon": {
@@ -1319,7 +1319,7 @@ window.kanaData = [
           "key": "ya",
           "hiragana": "びゃ",
           "katakana": "ビャ",
-          "tamil": "ப்\"ய",
+          "tamil": "ப்\"ய (bya)",
           "audio": "assets/audio/bya.mp3"
         },
 		        {
@@ -1334,7 +1334,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っちゃ",
         "katakana": "ッチャ",
-        "tamil": "chcha",
+        "tamil": "ச்ச",
         "audio": "assets/audio/sokuon_ha.mp3"
       },
       "extended": null
@@ -1367,7 +1367,7 @@ window.kanaData = [
         "id": "bi",
         "hiragana": "び",
         "katakana": "ビ",
-        "tamil": "பி\"",
+        "tamil": "பி\" (bi)",
         "audio": "assets/audio/bi.mp3"
       },
       "handakuon": {
@@ -1415,7 +1415,7 @@ window.kanaData = [
         "id": "bu",
         "hiragana": "ぶ",
         "katakana": "ブ",
-        "tamil": "பு\"",
+        "tamil": "பு\" (bu)",
         "audio": "assets/audio/bu.mp3"
       },
       "handakuon": {
@@ -1439,7 +1439,7 @@ window.kanaData = [
           "key": "yu",
           "hiragana": "びゅ",
           "katakana": "ビュ",
-          "tamil": "ப்\"யு",
+          "tamil": "ப்\"யு (byu)",
           "audio": "assets/audio/byu.mp3"
         },
 		        {
@@ -1454,7 +1454,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っちゅ",
         "katakana": "ッチュ",
-        "tamil": "chchu",
+        "tamil": "ச்சு",
         "audio": "assets/audio/sokuon_hu.mp3"
       },
 	  "extended": {
@@ -1492,7 +1492,7 @@ window.kanaData = [
         "id": "be",
         "hiragana": "べ",
         "katakana": "ベ",
-        "tamil": "பெ\"",
+        "tamil": "பெ\" (be)",
         "audio": "assets/audio/be.mp3"
       },
       "handakuon": {
@@ -1535,7 +1535,7 @@ window.kanaData = [
         "id": "bo",
         "hiragana": "ぼ",
         "katakana": "ボ",
-        "tamil": "பொ\"",
+        "tamil": "பொ\" (bo)",
         "audio": "assets/audio/bo.mp3"
       },
       "handakuon": {
@@ -1559,7 +1559,7 @@ window.kanaData = [
           "key": "yo",
           "hiragana": "びょ",
           "katakana": "ビョ",
-          "tamil": "ப்\"யொ",
+          "tamil": "ப்\"யொ (byo)",
           "audio": "assets/audio/byo.mp3"
         },
         {
@@ -1574,7 +1574,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っちょ",
         "katakana": "ッチョ",
-        "tamil": "chcho",
+        "tamil": "ச்சொ",
         "audio": "assets/audio/sokuon_ho.mp3"
       },
       "extended": null
@@ -1618,7 +1618,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っぱ",
         "katakana": "ッパ",
-        "tamil": "ppa",
+        "tamil": "ப்ப",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1659,7 +1659,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っぴ",
         "katakana": "ッピ",
-        "tamil": "ppi",
+        "tamil": "ப்பி",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1708,7 +1708,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っぷ",
         "katakana": "ップ",
-        "tamil": "ppu",
+        "tamil": "ப்பு",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1749,7 +1749,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っぺ",
         "katakana": "ッペ",
-        "tamil": "ppe",
+        "tamil": "ப்பெ",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -1798,7 +1798,7 @@ window.kanaData = [
       "sokuon": {
         "hiragana": "っぽ",
         "katakana": "ッポ",
-        "tamil": "ppo",
+        "tamil": "ப்பொ",
         "audio": "assets/audio/sokuon_to.mp3"
       },
 	  "extended": {
@@ -2492,7 +2492,9 @@ window.soundTypeDefinitions = [
    ゛</div>
     <p>"தகுஒன்" என்றால் "மங்கிய ஒலி" என்று அர்த்தம், மொழியியலில் இவற்றை Voiced Sounds என்பர். தமிழின் "காகம்","பஞ்சம்","பாதம்" & "கம்பளி" போன்ற சொற்களில் இவை உள்ளன, தமிழில் பெரும்பாலும் இவை சொல்லின் இடையில மட்டுமே தோன்றும் என்றாலும் இவற்றிற்கு தனி எழுத்து வடிவம் இல்லாதது, ஏனைய அனைத்து இந்திய மொழிகளில் இருந்தும் தமிழைத் தனித்துவமாக்குகிறது. தமிழின் இயல்பான ஒலித்திரிபாக இருக்கிறது.<p><br>
 
-<p>போலவே யப்பானிய மொழியிலும் இவற்றிக்கென்று தனி வரிவடிவம் கிடையாது எனினும், ஆரம்பகாலத்திலேயே உச்சரிப்பு வேறுபாடுகளைக் காட்ட புள்ளிகள், கோடுகள் போன்ற குறியீடுகளை பயன்படுத்தி வந்துள்ளனர், அதன் தொடர்ச்சிதான் நீங்கள் இங்கு பார்க்கும் か,さ,た,は வரிசை எழுத்துகளின் வலப்புறம் மேலே இருக்கும் இரு புள்ளி (゛) போன்ற குறியீடு. இதை "தகுதென்" அல்லது "தென்தென்" என்பர். "தென்" என்றால் யப்பானிய மொழியில் புள்ளி.  <\p>`,
+<p>போலவே யப்பானிய மொழியிலும் இவற்றிக்கென்று தனி வரிவடிவம் கிடையாது எனினும், ஆரம்பகாலத்திலேயே உச்சரிப்பு வேறுபாடுகளைக் காட்ட புள்ளிகள், கோடுகள் போன்ற குறியீடுகளை பயன்படுத்தி வந்துள்ளனர், அதன் தொடர்ச்சிதான் நீங்கள் இங்கு பார்க்கும் か,さ,た,は வரிசை எழுத்துகளின் வலப்புறம் மேலே இருக்கும் இரு புள்ளி (゛) போன்ற குறியீடு. இதை "தகுதென்" அல்லது "தென்தென்" என்பர். "தென்" என்றால் யப்பானிய மொழியில் புள்ளி.  <\p><br>
+<p>じ-யும் ぢ-யும் மற்றும் ず-வும் づ-வும் முறையே ஒரே ஒலிப்பை கொண்டுள்ளதால் ぢ-யும் ず-வும் பெரும்பாலும் புழக்கத்தில் இருப்பதில்லை.<\p>
+`,
     "variantField": "dakuon"
   },
   {
@@ -2533,7 +2535,8 @@ window.soundTypeDefinitions = [
 ゃ, ゅ, ょ ✔️ ャ, ュ, ョ
 </div>
 <p>தகுஒன் இ-வரிசைக் கந எழுத்துகளுடன் (ぎ,じ,ぢ,ば) அளவில் சிறிய ゃ, ゅ, ょ எழுத்துகளை இணைப்பதன் மூலம் உருவாகும் சுருங்கிய ஒலிகள் இவை. உதாரணமாக ぎゃ, ぎゅ, ぎょ, びゃ, びゅ, びょ ஆகியவற்றைக் குறிப்பிடலாம். இவை சாதாரண யோஒன் ஒலிகளின் ஒலிப்புடை (voiced) வடிவங்களாகும்.<\p><br>
-ஏற்கனவே இருந்த யோஒன் ஒலிகளுக்கு ஒலிப்புடைத் தன்மை சேர்க்கப்பட்டதன் மூலம் இவ்வொலிகள் இயல்பாக உருவாயின.<\p>`,
+ஏற்கனவே இருந்த யோஒன் ஒலிகளுக்கு ஒலிப்புடைத் தன்மை சேர்க்கப்பட்டதன் மூலம் இவ்வொலிகள் இயல்பாக உருவாயின.<\p><br>
+<p>じ-வரிசையும் ぢ-வரிசையும் இங்கே ஒரே ஒலிப்பை கொண்டுள்ளதால் ぢ-வரிசை பெரும்பாலும் புழக்கத்தில் இருப்பதில்லை.<\p>`,
     "variantField": "youon",
     "group": "dakuon"
   },
@@ -2575,11 +2578,11 @@ sino-japanese words: せい, がっこう, こうこう<\p><br>`,
     "description": `<p>சொகுஒன் - Sokuon (促音)</p><br>
     <p>"சொகுஒன்" என்பது சிறிய っ (கதகநவில் ッ) எழுத்தாகும். இது தனியாக ஒரு புதிய ஒலியைச் குறிப்பதில்லை; மாறாக, அதற்குப் பின்வரும் உயிர்மெய்யொலியை வலுப்படுத்தும் வகையில் ஒரு சிறிய இடைநிறுத்தத்தை உருவாக்குகிறது. சொக்குஒன் பெரும்பாலும் க, ச, த, ப வரிசை ஒலிகளுக்கு முன் பயன்படுத்தப்படுகிறது, தமிழிலும் இதே விதி "ஒற்று மிகுதல்" எனப்படுகிறது. இதனால் っか (kka), っさ (ssa), った (tta), っぱ (ppa) போன்ற உச்சரிப்புகள் உருவாகின்றன.<\p><br>
 
-<p>சொக்குஒன் சில யோஒன் ஒலிகளுக்கும் முன்னும் வரக்கூடும், குறிப்பாக しゃ (sha) மற்றும் ちゃ (cha) போன்ற ஒலிகளுக்கு முன் வருகையில் っしゃ (shsha) மற்றும் っちゃ (chcha) போன்ற உச்சரிப்புகள் உருவாகின்றன.<\p><br>
+<p>சொக்குஒன் சில யோஒன் ஒலிகளுக்கும் முன்னும் வரக்கூடும், குறிப்பாக しゃ (sha) மற்றும் ちゃ (cha) போன்ற ஒலிகளுக்கு முன் வருகையில் っしゃ (shha) மற்றும் っちゃ (chcha) போன்ற உச்சரிப்புகள் உருவாகின்றன.<\p><br>
 மேலும், இந்த g,z,d,h வரிசை ஒலிகளுக்கு முன் இந்த சொக்குஒன் அல்லது ஒற்று மிகுதல் அரிது அல்லது அந்நியச்சொற்களில் மட்டும் வரலாம். இன்று, சொகுஒன் ஜப்பானிய உச்சரிப்பின் முக்கிய அம்சமாக இருந்து, ஒரே மாதிரி தோன்றும் சொற்களின் பொருளை வேறுபடுத்த உதவுகிறது.<\p><br>
 
 <p>がっこう (gakkō) — பள்ளி (School)<\p>
-<p>いっしょに (ishshoni) — ஒன்றாக (Together)<\p>
+<p>いっしょに (ishhoni) — ஒன்றாக (Together)<\p>
 <p>ベッド (beddo) — Bed<\p>
 <p>カップ (kappu) — Cup<\p>`,
     "variantField": "sokuon"
