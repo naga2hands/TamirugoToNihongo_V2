@@ -212,7 +212,7 @@ window.kanaData = [
         "id": "ga",
         "hiragana": "が",
         "katakana": "ガ",
-        "tamil": "க\"",
+        "tamil": "க\" (ga)",
         "audio": "assets/audio/ga.mp3"
       },
       "handakuon": null,
@@ -230,7 +230,7 @@ window.kanaData = [
           "key": "ya",
           "hiragana": "ぎゃ",
           "katakana": "ギャ",
-          "tamil": "க்\"ய",
+          "tamil": "க்\"ய (gya)",
           "audio": "assets/audio/gya.mp3"
         }],
       "chouon": null,
@@ -271,7 +271,7 @@ window.kanaData = [
         "id": "gi",
         "hiragana": "ぎ",
         "katakana": "ギ",
-        "tamil": "கி\"",
+        "tamil": "கி\" (gi)",
         "audio": "assets/audio/gi.mp3"
       },
       "handakuon": null,
@@ -314,7 +314,7 @@ window.kanaData = [
         "id": "gu",
         "hiragana": "ぐ",
         "katakana": "グ",
-        "tamil": "கு\"",
+        "tamil": "கு\" (gu)",
         "audio": "assets/audio/gu.mp3"
       },
       "handakuon": null,
@@ -331,7 +331,7 @@ window.kanaData = [
           "key": "yu",
           "hiragana": "ぎゅ",
           "katakana": "ぎュ",
-          "tamil": "க்\"யு",
+          "tamil": "க்\"யு (gyu)",
           "audio": "assets/audio/gyu.mp3"
         }],
       "chouon": null,
@@ -372,7 +372,7 @@ window.kanaData = [
         "id": "ge",
         "hiragana": "げ",
         "katakana": "ゲ",
-        "tamil": "கெ\"",
+        "tamil": "கெ\" (ge)",
         "audio": "assets/audio/ge.mp3"
       },
       "handakuon": null,
@@ -425,7 +425,7 @@ window.kanaData = [
         "id": "go",
         "hiragana": "ご",
         "katakana": "ゴ",
-        "tamil": "கொ\"",
+        "tamil": "கொ\" (go)",
         "audio": "assets/audio/go.mp3"
       },
       "handakuon": null,
@@ -442,7 +442,7 @@ window.kanaData = [
           "key": "yo",
           "hiragana": "ぎょ",
           "katakana": "ギョ",
-          "tamil": "க்\"யொ",
+          "tamil": "க்\"யொ (gyo)",
           "audio": "assets/audio/gyo.mp3"
         }],
       "chouon": {
