@@ -135,6 +135,27 @@
       btn.addEventListener('click', ()=> showRadical(r, kanji));
       radicalGrid.appendChild(btn);
     });
+
+    const redirectRadical = (() => {
+      try {
+        const stored = sessionStorage.getItem('radicalRedirect');
+        if (stored) return stored.trim();
+      } catch (error) {
+        console.warn('Unable to read radical redirect:', error);
+      }
+      return '';
+    })();
+
+    if (redirectRadical) {
+      const match = radicals.find(r => (r['Radical'] || '').trim() === redirectRadical);
+      if (match) {
+        try { sessionStorage.removeItem('radicalRedirect'); } catch (error) {}
+        showRadical(match, kanji);
+        return;
+      }
+      try { sessionStorage.removeItem('radicalRedirect'); } catch (error) {}
+    }
+
     // auto-load first radical details
     if (radicals.length > 0) {
       showRadical(radicals[0], kanji);
