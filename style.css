@@ -61,6 +61,200 @@ button {
   gap: 10px;
 }
 
+.sidebar-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid rgba(248, 250, 252, 0.2);
+}
+
+.sidebar-action {
+  appearance: none;
+  border: 1px solid rgba(248, 250, 252, 0.28);
+  width: 100%;
+  padding: 9px 11px;
+  border-radius: 10px;
+  background: rgba(248, 250, 252, 0.06);
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.85rem;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.sidebar-action:hover,
+.sidebar-action:focus-visible {
+  background: rgba(248, 250, 252, 0.16);
+  border-color: rgba(248, 250, 252, 0.55);
+}
+
+.sidebar-action-support {
+  background: #d97706;
+  border-color: #d97706;
+  color: #ffffff;
+}
+
+.sidebar-action-support:hover,
+.sidebar-action-support:focus-visible {
+  background: #b45309;
+  border-color: #b45309;
+}
+
+.project-dialog {
+  width: min(92vw, 420px);
+  border: 0;
+  border-radius: 18px;
+  padding: 24px;
+  color: #111827;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.3);
+}
+
+.project-dialog::backdrop {
+  background: rgba(15, 23, 42, 0.55);
+}
+
+.dialog-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.dialog-eyebrow {
+  margin: 0 0 4px;
+  color: #2563eb;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dialog-header h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.dialog-close {
+  border: 0;
+  border-radius: 8px;
+  background: #f1f5f9;
+  color: #475569;
+  cursor: pointer;
+  font-size: 1.35rem;
+  line-height: 1;
+  padding: 6px 9px;
+}
+
+.dialog-intro {
+  margin: 18px 0 14px;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.email-row {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+}
+
+.email-row .dialog-link {
+  padding: 8px 0;
+}
+
+.copy-email-button {
+  border: 1px solid #bfdbfe;
+  border-radius: 8px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 7px 10px;
+}
+
+.copy-email-button:hover,
+.copy-email-button:focus-visible {
+  background: #dbeafe;
+}
+
+.copy-status {
+  min-height: 1.2em;
+  margin: 2px 0 0;
+  color: #15803d;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.dialog-link {
+  display: block;
+  color: #1d4ed8;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+  padding: 8px 0;
+  text-decoration: none;
+}
+
+.dialog-link:hover,
+.dialog-link:focus-visible {
+  text-decoration: underline;
+}
+
+.social-links {
+  border-top: 1px solid #e5e7eb;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 14px;
+  gap: 8px;
+}
+
+.qr-placeholder {
+  align-items: center;
+  aspect-ratio: 1;
+  background: repeating-linear-gradient(45deg, #f8fafc, #f8fafc 8px, #e2e8f0 8px, #e2e8f0 16px);
+  border: 1px dashed #94a3b8;
+  color: #475569;
+  display: flex;
+  font-size: 0.85rem;
+  font-weight: 700;
+  justify-content: center;
+  margin: 18px auto;
+  max-width: 190px;
+  text-align: center;
+}
+
+.upi-qr {
+  display: block;
+  width: min(100%, 220px);
+  height: auto;
+  margin: 18px auto;
+  border: 1px solid #e2e8f0;
+  user-select: none;
+}
+
+.bank-details {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 8px;
+}
+
+.bank-details p {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 10px 0;
+  color: #475569;
+  font-size: 0.88rem;
+}
+
+.bank-details span {
+  color: #111827;
+  overflow-wrap: anywhere;
+  text-align: right;
+}
+
 .nav-item {
   appearance: none;
   border: none;

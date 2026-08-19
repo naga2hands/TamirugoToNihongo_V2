@@ -21,6 +21,11 @@
         <button type="button" class="nav-item" data-module="hanzi">கான்ஜி உரு</button>
         <button type="button" class="nav-item" data-module="kana_birth">கந பிறப்பு</button>
       </nav>
+
+      <div class="sidebar-actions" aria-label="Project links">
+        <button type="button" class="sidebar-action" data-dialog="contactDialog">Contact</button>
+        <button type="button" class="sidebar-action sidebar-action-support" data-dialog="supportDialog">Support this project</button>
+      </div>
     </aside>
 
     <main class="main-content">
@@ -30,6 +35,45 @@
       <section id="moduleContent" class="module-content"></section>
     </main>
   </div>
+
+  <dialog class="project-dialog" id="contactDialog" aria-labelledby="contactDialogTitle">
+    <div class="dialog-header">
+      <div>
+        <p class="dialog-eyebrow">Get in touch</p>
+        <h2 id="contactDialogTitle">Contact</h2>
+      </div>
+      <button type="button" class="dialog-close" data-dialog-close aria-label="Close contact dialog">&times;</button>
+    </div>
+    <p class="dialog-intro">Questions, suggestions, or corrections are welcome.</p>
+    <div class="email-row">
+      <a class="dialog-link" href="mailto:ngrjillution2892@gmail.com">ngrjillution2892@gmail.com</a>
+      <button type="button" class="copy-email-button" data-copy-email="ngrjillution2892@gmail.com">Copy email</button>
+    </div>
+    <p class="copy-status" data-copy-status aria-live="polite"></p>
+    <div class="social-links">
+      <a class="dialog-link" href="https://github.com/naga2hands" target="_blank" rel="noreferrer">GitHub</a>
+      <a class="dialog-link" href="https://www.linkedin.com/in/naga2hands/" target="_blank" rel="noreferrer">LinkedIn</a>
+      <a class="dialog-link" href="https://www.youtube.com/@naga2hands" target="_blank" rel="noreferrer">YouTube</a>
+    </div>
+  </dialog>
+
+  <dialog class="project-dialog support-dialog" id="supportDialog" aria-labelledby="supportDialogTitle">
+    <div class="dialog-header">
+      <div>
+        <p class="dialog-eyebrow">Keep learning free</p>
+        <h2 id="supportDialogTitle">Support this project</h2>
+      </div>
+      <button type="button" class="dialog-close" data-dialog-close aria-label="Close support dialog">&times;</button>
+    </div>
+    <p class="dialog-intro">This open-source project is designed to help native Tamil speakers learn the basics of Japanese through Tamil. If you find it helpful, your encouragement helps maintain and improve this learning resource.</p>
+    <img class="upi-qr" src="assets/doc/support/UPI_QR.jpeg" alt="UPI QR code for supporting this project" draggable="false" />
+    <div class="bank-details">
+      <p><strong>UPI ID</strong><span>ngrjillution2892@okicici</span></p>
+      <p><strong>Account name</strong><span>Nagaraj N</span></p>
+      <p><strong>Bank account</strong><span>1900 0151 6105</span></p>
+      <p><strong>IFSC</strong><span>ICIC0001529</span></p>
+    </div>
+  </dialog>
 
   <script src="data/kana-data.js"></script>
   <script src="data/kana-data_birth.js"></script>

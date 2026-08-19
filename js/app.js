@@ -1,6 +1,11 @@
 const navButtons = Array.from(document.querySelectorAll('.nav-item'));
 const moduleTitle = document.getElementById('moduleTitle');
 const moduleContent = document.getElementById('moduleContent');
+const dialogTriggers = Array.from(document.querySelectorAll('[data-dialog]'));
+const dialogs = Array.from(document.querySelectorAll('.project-dialog'));
+const copyEmailButton = document.querySelector('[data-copy-email]');
+const copyStatus = document.querySelector('[data-copy-status]');
+const upiQrImage = document.querySelector('.upi-qr');
 
 const modules = {
   sounds: {
@@ -168,6 +173,62 @@ async function loadModule(moduleId) {
 navButtons.forEach((button) => {
   button.addEventListener('click', () => {
     loadModule(button.dataset.module);
+  });
+});
+
+dialogTriggers.forEach((trigger) => {
+  trigger.addEventListener('click', () => {
+    const dialog = document.getElementById(trigger.dataset.dialog);
+    if (dialog && typeof dialog.showModal === 'function') {
+      dialog.showModal();
+    }
+  });
+});
+
+if (copyEmailButton) {
+  copyEmailButton.addEventListener('click', async () => {
+    const email = copyEmailButton.dataset.copyEmail;
+
+    try {
+      await navigator.clipboard.writeText(email);
+    } catch (error) {
+      const fallbackInput = document.createElement('textarea');
+      fallbackInput.value = email;
+      fallbackInput.setAttribute('readonly', '');
+      fallbackInput.style.position = 'fixed';
+      fallbackInput.style.opacity = '0';
+      document.body.appendChild(fallbackInput);
+      fallbackInput.select();
+      document.execCommand('copy');
+      fallbackInput.remove();
+    }
+
+    copyStatus.textContent = 'Email copied';
+    window.setTimeout(() => {
+      copyStatus.textContent = '';
+    }, 2200);
+  });
+}
+
+if (upiQrImage) {
+  upiQrImage.addEventListener('contextmenu', (event) => {
+    event.preventDefault();
+  });
+
+  upiQrImage.addEventListener('dragstart', (event) => {
+    event.preventDefault();
+  });
+}
+
+dialogs.forEach((dialog) => {
+  dialog.querySelector('[data-dialog-close]').addEventListener('click', () => {
+    dialog.close();
+  });
+
+  dialog.addEventListener('click', (event) => {
+    if (event.target === dialog) {
+      dialog.close();
+    }
   });
 });
 
