@@ -360,7 +360,7 @@ window.kanaData = [
         "hiragana": "け",
 		    "hiragana_mnemonicImage": "assets/images/ke.png",
     "hiragana_strokeGif": "assets/stroke-order/ke.gif",
-    "hiragana_mnemonicText": "கேடயம் இருக்க கேட்டுப்போவார் இலர்.<br> け அது கேடயத்தின் குறில் \"கெ\" ஒலிக்கு இணை.",
+    "hiragana_mnemonicText": "கேடயம் இருக்க கெடுவார் இலர்.<br> け அது கேடயத்தின் குறில் \"கெ\" ஒலிக்கு இணை.",
         "katakana": "ケ",
 		    "katakana_mnemonicImage": "assets/images/ke2.png",
     "katakana_strokeGif": "assets/stroke-order/ke2.gif",
